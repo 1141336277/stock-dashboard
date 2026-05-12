@@ -1,0 +1,394 @@
+{
+  "updated": "2026-05-12T00:23:09.800Z",
+  "indices": [
+    {
+      "code": "sh000001",
+      "name": "じ",
+      "price": 4225.0207,
+      "change": 1.0782012732967943,
+      "changeAmount": 45.06829999999991,
+      "open": 4201.3465,
+      "high": 4229.5795,
+      "low": 4186.0819,
+      "volume": 762736287,
+      "amount": 1584366746239,
+      "time": "2026-05-11 15:30:39"
+    },
+    {
+      "code": "sz399001",
+      "name": "",
+      "price": 15899.302,
+      "change": 2.1556757647250167,
+      "changeAmount": 335.5049999999992,
+      "open": 15697.44,
+      "high": 15921.652,
+      "low": 15622.332,
+      "volume": 91163485896,
+      "amount": 1954494738006.021,
+      "time": "2026-05-11 15:00:03"
+    },
+    {
+      "code": "sz399006",
+      "name": "谍",
+      "price": 3928.974,
+      "change": 3.4995131881748986,
+      "changeAmount": 132.846,
+      "open": 3829.608,
+      "high": 3937.874,
+      "low": 3797.498,
+      "volume": 26404616003,
+      "amount": 922847287071.45,
+      "time": "2026-05-11 15:00:03"
+    },
+    {
+      "code": "sh000688",
+      "name": "�50",
+      "price": 1716.6914,
+      "change": 4.646933546639317,
+      "changeAmount": 76.23109999999997,
+      "open": 1687.6429,
+      "high": 1727.3046,
+      "low": 1669.7326,
+      "volume": 18294058,
+      "amount": 183091745808,
+      "time": "2026-05-11 16:19:36"
+    }
+  ],
+  "sectors": [],
+  "gainers": [
+    {
+      "code": "sz301531",
+      "name": "N春光集",
+      "price": 97.5,
+      "change": 633.083,
+      "changeAmount": 84.2,
+      "open": 85.55,
+      "high": 107.98,
+      "low": 82.6,
+      "volume": 38994696,
+      "turnover": 3565643595
+    },
+    {
+      "code": "sh603407",
+      "name": "N长裕",
+      "price": 91.84,
+      "change": 562.626,
+      "changeAmount": 77.98,
+      "open": 68.75,
+      "high": 110.28,
+      "low": 68.75,
+      "volume": 29700944,
+      "turnover": 2352582931
+    },
+    {
+      "code": "bj920699",
+      "name": "海达尔",
+      "price": 56.6,
+      "change": 29.995,
+      "changeAmount": 13.06,
+      "open": 45.77,
+      "high": 56.6,
+      "low": 44.1,
+      "volume": 3126459,
+      "turnover": 162681341
+    },
+    {
+      "code": "bj920125",
+      "name": "鸿仕达",
+      "price": 129.07,
+      "change": 29.993,
+      "changeAmount": 29.78,
+      "open": 102.1,
+      "high": 129.07,
+      "low": 102,
+      "volume": 5094738,
+      "turnover": 597436595
+    },
+    {
+      "code": "bj920186",
+      "name": "中科仪",
+      "price": 109.99,
+      "change": 25.045,
+      "changeAmount": 22.03,
+      "open": 90.9,
+      "high": 110,
+      "low": 88,
+      "volume": 23360544,
+      "turnover": 2289626063
+    },
+    {
+      "code": "sh688189",
+      "name": "南新制药",
+      "price": 10.55,
+      "change": 20.023,
+      "changeAmount": 1.76,
+      "open": 9,
+      "high": 10.55,
+      "low": 9,
+      "volume": 33784118,
+      "turnover": 339074893
+    },
+    {
+      "code": "sh688551",
+      "name": "科威尔",
+      "price": 60.46,
+      "change": 20.008,
+      "changeAmount": 10.08,
+      "open": 52.68,
+      "high": 60.46,
+      "low": 52.68,
+      "volume": 8645489,
+      "turnover": 511398888
+    },
+    {
+      "code": "sh688603",
+      "name": "天承科技",
+      "price": 121.18,
+      "change": 20.004,
+      "changeAmount": 20.2,
+      "open": 103,
+      "high": 121.18,
+      "low": 102.8,
+      "volume": 9989687,
+      "turnover": 1143073266
+    },
+    {
+      "code": "sh688146",
+      "name": "中船特气",
+      "price": 95.81,
+      "change": 20.003,
+      "changeAmount": 15.97,
+      "open": 82.6,
+      "high": 95.81,
+      "low": 81.13,
+      "volume": 27890302,
+      "turnover": 2521595179
+    },
+    {
+      "code": "sh688328",
+      "name": "深科达",
+      "price": 70.31,
+      "change": 20.003,
+      "changeAmount": 11.72,
+      "open": 60.03,
+      "high": 70.31,
+      "low": 58.96,
+      "volume": 11197263,
+      "turnover": 731977310
+    }
+  ],
+  "losers": [
+    {
+      "code": "sz300430",
+      "name": "*ST益通",
+      "price": 7.29,
+      "change": -16.303,
+      "changeAmount": -1.42,
+      "open": 7.03,
+      "high": 7.9,
+      "low": 7.03,
+      "volume": 81282076,
+      "turnover": 584622468
+    },
+    {
+      "code": "sh688227",
+      "name": "品高股份",
+      "price": 116.43,
+      "change": -12.445,
+      "changeAmount": -16.55,
+      "open": 134.13,
+      "high": 136.3,
+      "low": 106.38,
+      "volume": 20329399,
+      "turnover": 2344332737
+    },
+    {
+      "code": "sz002950",
+      "name": "奥美医疗",
+      "price": 12.75,
+      "change": -10.021,
+      "changeAmount": -1.42,
+      "open": 14.43,
+      "high": 14.8,
+      "low": 12.75,
+      "volume": 42135662,
+      "turnover": 557193191
+    },
+    {
+      "code": "sz001313",
+      "name": "粤海饲料",
+      "price": 8.63,
+      "change": -10.01,
+      "changeAmount": -0.96,
+      "open": 9.86,
+      "high": 9.96,
+      "low": 8.63,
+      "volume": 52845191,
+      "turnover": 467970421
+    },
+    {
+      "code": "sh603778",
+      "name": "国晟科技",
+      "price": 24.29,
+      "change": -10.004,
+      "changeAmount": -2.7,
+      "open": 25.05,
+      "high": 26.15,
+      "low": 24.29,
+      "volume": 103445796,
+      "turnover": 2563299525
+    },
+    {
+      "code": "sh603538",
+      "name": "美诺华",
+      "price": 57.33,
+      "change": -10,
+      "changeAmount": -6.37,
+      "open": 62,
+      "high": 63.5,
+      "low": 57.33,
+      "volume": 62301055,
+      "turnover": 3708269243
+    },
+    {
+      "code": "sz002294",
+      "name": "信立泰",
+      "price": 43.11,
+      "change": -10,
+      "changeAmount": -4.79,
+      "open": 45.7,
+      "high": 45.7,
+      "low": 43.11,
+      "volume": 13089100,
+      "turnover": 569160485
+    },
+    {
+      "code": "bj920270",
+      "name": "天铭科技",
+      "price": 18.77,
+      "change": -9.06,
+      "changeAmount": -1.87,
+      "open": 19.53,
+      "high": 19.87,
+      "low": 18.48,
+      "volume": 9196096,
+      "turnover": 173571577
+    },
+    {
+      "code": "sz000967",
+      "name": "盈峰环境",
+      "price": 14.83,
+      "change": -9.018,
+      "changeAmount": -1.47,
+      "open": 15.9,
+      "high": 16.24,
+      "low": 14.7,
+      "volume": 335970198,
+      "turnover": 5063868699
+    },
+    {
+      "code": "sh605389",
+      "name": "长龄液压",
+      "price": 115.4,
+      "change": -8.782,
+      "changeAmount": -11.11,
+      "open": 128.56,
+      "high": 129.9,
+      "low": 114.78,
+      "volume": 6035748,
+      "turnover": 729483648
+    }
+  ],
+  "news": [
+    {
+      "title": "美国再释出5330万桶战略石油储备 以平抑终端油价",
+      "intro": " 美国战略石油储备向包括大宗商品交易商托克集团以及美国炼油商马拉松石油公司在内的企业分配了5330万桶原油，进一步加大市场投放力度，以遏制伊朗战争引发的油价飙升。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-05-12/detail-inhxqvav0030595.d.html",
+      "time": "1778545258"
+    },
+    {
+      "title": "34家保险资管公司去年合计净利润同比增长超18%",
+      "intro": "本报记者冷翠华 据保险资产管理公司年报统计，截至5月11日发稿，除了中英益利资产管理股份有限公司，以及去年底开业的友邦保险资管、荷全保险资管外...",
+      "url": "https://finance.sina.cn/insurance/hydt/2026-05-12/detail-inhxqvas1727320.d.html",
+      "time": "1778545020"
+    },
+    {
+      "title": "险资“组团去做LP”： 赚当下的现金流和未来成长的钱",
+      "intro": "本报记者 薛瑾 中国证券报记者查阅天眼查获悉，天津家鼎股权投资基金合伙企业（有限合伙）已于近日正式完成登记，该基金出资额61亿元，友邦人寿、大家人寿...",
+      "url": "https://finance.sina.cn/insurance/bxzx/2026-05-12/detail-inhxqvap1383858.d.html",
+      "time": "1778544759"
+    },
+    {
+      "title": "加强政策协同配合 维护金融市场平稳运行",
+      "intro": "本报记者 欧阳剑环 彭扬 中国人民银行5月11日发布2026年第一季度中国货币政策执行报告。报告提出，把握好政策实施的力度、节奏和时机，加强货币财政政策协同配合...",
+      "url": "https://finance.sina.cn/bank/yhgd/2026-05-12/detail-inhxqvas1723646.d.html",
+      "time": "1778544631"
+    },
+    {
+      "title": "央行：精准有效实施适度宽松的货币政策 强化货币政策与宏观审慎政策“双支柱”调控框架协调配合",
+      "intro": "◎记者 张琼斯 中国人民银行5月11日发布的2026年第一季度中国货币政策执行报告明确提出，将精准有效实施适度宽松的货币政策，着力扩大内需、优化供给，做优增量、盘活存量...",
+      "url": "https://finance.sina.cn/bank/yhgd/2026-05-12/detail-inhxqvat8499253.d.html",
+      "time": "1778544437"
+    },
+    {
+      "title": "消息称Coupang或因数据泄露事件面临最高1.5万亿韩元罚款",
+      "intro": " 据消息人士周二透露，韩国数据保护监管机构已完成对电商巨头Coupang大规模数据泄露事件的调查，预计最早将于下月做出最终处罚决定。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-05-12/detail-inhxqvas1721711.d.html",
+      "time": "1778544426"
+    },
+    {
+      "title": "融资节奏按月计！一级市场，罕见一幕",
+      "intro": "只有回归投资本质，聚焦企业核心价值，坚守耐心资本的初心，一级市场才能真正成为科技产业发展的“孵化器”。 今年以来，一级市场出现罕见一幕：融资节奏按月计...",
+      "url": "https://finance.sina.cn/stock/vcpe/2026-05-12/detail-inhxqvat8499570.d.html",
+      "time": "1778544364"
+    },
+    {
+      "title": "华能国际电力股份遭上海睿郡资产管理有限公司减持1225.6万股 每股作价6.6252港元",
+      "intro": "香港联交所最新数据显示，5月7日，上海睿郡资产管理有限公司减持华能国际电力股份（00902）1225.6万股，每股作价6.6252港元，总金额约为8119.85万港元。",
+      "url": "https://finance.sina.cn/hkstock/gsxw/2026-05-12/detail-inhxqvat8498106.d.html",
+      "time": "1778544347"
+    },
+    {
+      "title": "美国参议院的程序表决过关 沃什接任美联储主席迈出关键一步",
+      "intro": " 美国参议院周一通过一项表决，为凯文·沃什出任美联储理事及主席迈出关键一步，这是本周参议院计划的一连串投票的第一个。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-05-12/detail-inhxqvas1720855.d.html",
+      "time": "1778544340"
+    },
+    {
+      "title": "沃尔核材遭T.Rowe Price Associates, Inc. and its Affiliates减持67.96万股 每股作价16.202港元",
+      "intro": "香港联交所最新数据显示，5月6日，T.Rowe Price Associates， Inc． and its Affiliates减持沃尔核材（09981）67.96万股，每股作价16.202港元，总",
+      "url": "https://finance.sina.cn/hkstock/gsxw/2026-05-12/detail-inhxqvav0021550.d.html",
+      "time": "1778544292"
+    },
+    {
+      "title": "谷歌瞄准英伟达宝座：“全球股王”将易主？",
+      "intro": "过去一年间，谷歌母公司Alphabet已从人工智能领域的陪跑者变为领先者。 文|潇湘 来源|科创板日报（ID：chinastarmarket） 头图摄影|王超 过去一年间...",
+      "url": "https://finance.sina.cn/2026-05-12/detail-inhxqvav0026807.d.html",
+      "time": "1778544240"
+    },
+    {
+      "title": "纳芯微获摩根士丹利增持3.41万股 每股作价约149.62港元",
+      "intro": "香港联交所最新资料显示，5月6日，摩根士丹利增持纳芯微（02676）3.41万股，每股作价149.619港元，总金额约为510.2万港元。增持后最新持股数目约为103.82万股...",
+      "url": "https://finance.sina.cn/hkstock/gsxw/2026-05-12/detail-inhxqvap1379185.d.html",
+      "time": "1778544240"
+    },
+    {
+      "title": "天津创业环保获易方达基金增持59.8万股 每股作价约4.38港元",
+      "intro": "香港联交所最新数据显示，5月7日，易方达基金管理有限公司增持天津创业环保（01065）59.8万股，每股作价4.3804港元，总金额约为261.95万港元。",
+      "url": "https://finance.sina.cn/hkstock/gsxw/2026-05-12/detail-inhxqvav0020234.d.html",
+      "time": "1778544182"
+    },
+    {
+      "title": "央行：精准有效实施适度宽松的货币政策",
+      "intro": "证券时报记者 贺觉渊 5月11日，中国人民银行发布《2026年第一季度中国货币政策执行报告》（以下简称《报告》），明确下阶段将精准有效实施适度宽松的货币政策...",
+      "url": "https://finance.sina.cn/bank/yhgd/2026-05-12/detail-inhxqvav0019780.d.html",
+      "time": "1778544157"
+    },
+    {
+      "title": "海螺水泥遭The Capital Group Companies,Inc.减持约726.24万股 每股均价约20.36港元",
+      "intro": "据香港联交所最新数据显示，5月7日，The Capital Group Companies，Inc．减持海螺水泥（00914）726.2373万股，每股均价20.3599港元，总金额约为1.48亿港元",
+      "url": "https://finance.sina.cn/hkstock/gsxw/2026-05-12/detail-inhxqvap1377516.d.html",
+      "time": "1778544136"
+    }
+  ]
+}
