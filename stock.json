@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T00:23:09.800Z",
+  "updated": "2026-05-12T00:26:12.837Z",
   "indices": [
     {
       "code": "sh000001",
@@ -301,6 +301,12 @@
   ],
   "news": [
     {
+      "title": "日本央行一名审议委员：可能在下次政策会议上加息",
+      "intro": "根据周二发布的4月27日至28日政策会议意见摘要，日本央行一名审议委员表示，央行完全有可能在下次会议或之后的会议上加息。一名委员表示，如果通胀上行风险加大...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-05-12/detail-inhxqvas1730730.d.html",
+      "time": "1778545473"
+    },
+    {
       "title": "美国再释出5330万桶战略石油储备 以平抑终端油价",
       "intro": " 美国战略石油储备向包括大宗商品交易商托克集团以及美国炼油商马拉松石油公司在内的企业分配了5330万桶原油，进一步加大市场投放力度，以遏制伊朗战争引发的油价飙升。",
       "url": "https://finance.sina.cn/usstock/mggd/2026-05-12/detail-inhxqvav0030595.d.html",
@@ -383,12 +389,6 @@
       "intro": "证券时报记者 贺觉渊 5月11日，中国人民银行发布《2026年第一季度中国货币政策执行报告》（以下简称《报告》），明确下阶段将精准有效实施适度宽松的货币政策...",
       "url": "https://finance.sina.cn/bank/yhgd/2026-05-12/detail-inhxqvav0019780.d.html",
       "time": "1778544157"
-    },
-    {
-      "title": "海螺水泥遭The Capital Group Companies,Inc.减持约726.24万股 每股均价约20.36港元",
-      "intro": "据香港联交所最新数据显示，5月7日，The Capital Group Companies，Inc．减持海螺水泥（00914）726.2373万股，每股均价20.3599港元，总金额约为1.48亿港元",
-      "url": "https://finance.sina.cn/hkstock/gsxw/2026-05-12/detail-inhxqvap1377516.d.html",
-      "time": "1778544136"
     }
   ]
 }
