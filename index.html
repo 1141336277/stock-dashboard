@@ -2,171 +2,82 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>股市行情 - 陈浩南</title>
 <style>
+:root{--bg:#0f1117;--card:#161a24;--text:#e0e0e0;--sub:#888;--border:#1e2230;--green:#34c759;--red:#ff3b30;--shadow:0 2px 8px rgba(0,0,0,0.3)}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:#0f1117;color:#e0e0e0;max-width:600px;margin:0 auto;min-height:100vh}
-/* 顶部 */
-.header{background:#161a24;padding:20px 16px 12px;text-align:center;border-bottom:1px solid #1e2230;position:sticky;top:0;z-index:10}
-.header h1{font-size:20px;font-weight:800;margin-bottom:4px}
-.header .sub{font-size:11px;color:#666}
-.header .status{display:inline-block;width:8px;height:8px;border-radius:50%;background:#ff3b30;margin-right:4px;animation:pulse 2s infinite}
-.header .status.live{background:#34c759}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.4}}
-/* 指数卡片 */
-.index-row{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:12px 14px}
-.index-card{background:#161a24;border-radius:12px;padding:14px;border:1px solid #1e2230}
-.index-card .idx-name{font-size:12px;color:#888;margin-bottom:4px}
-.index-card .idx-price{font-size:22px;font-weight:700}
-.index-card .idx-change{font-size:13px;margin-top:2px}
-.index-card .idx-detail{font-size:10px;color:#555;margin-top:6px;display:flex;gap:12px}
-.up{color:#ff3b30}.down{color:#34c759}
-.up-bg{background:rgba(255,59,48,0.08)}.down-bg{background:rgba(52,199,89,0.08)}
-/* 板块标题 */
-.section-title{font-size:14px;font-weight:700;padding:16px 16px 8px;display:flex;align-items:center;gap:6px}
-/* 股票列表 */
-.stock-list{padding:0 14px 20px}
-.stock-row{display:flex;align-items:center;gap:10px;padding:11px 12px;background:#161a24;border-radius:10px;margin-bottom:6px;border:1px solid #1e2230}
-.stock-rank{width:22px;height:22px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;flex-shrink:0}
-.rank-1{background:#ff3b30;color:#fff}.rank-2{background:#ff6b4a;color:#fff}.rank-3{background:#ff9500;color:#fff}
-.rank-n{background:#1e2230;color:#888}
-.stock-info{flex:1;min-width:0}
-.stock-name{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.stock-code{font-size:10px;color:#555;margin-top:2px}
-.stock-price{text-align:right;font-size:14px;font-weight:600;white-space:nowrap}
-.stock-change{text-align:right;font-size:12px;font-weight:500;margin-top:2px;white-space:nowrap}
-/* 两栏布局 */
-.two-col{display:grid;grid-template-columns:1fr 1fr;gap:0}
-.two-col .section-title{border-bottom:1px solid #1e2230}
-/* 新闻 */
-.news-section{padding:0 14px 30px}
-.news-card{display:block;padding:12px 14px;background:#161a24;border-radius:10px;margin-bottom:6px;text-decoration:none;color:inherit;border:1px solid #1e2230;transition:all 0.2s}
-.news-card:hover{border-color:#333}
-.news-card .news-title{font-size:13px;font-weight:500;line-height:1.5;margin-bottom:4px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.news-card .news-time{font-size:10px;color:#555}
-/* 底部 */
-.footer{text-align:center;padding:20px;color:#555;font-size:11px;line-height:1.8}
-/* 加载 */
-.loading{text-align:center;padding:60px 20px;color:#666;font-size:14px}
-.spinner{display:inline-block;width:28px;height:28px;border:3px solid #1e2230;border-top-color:#ff3b30;border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:12px}
-@keyframes spin{to{transform:rotate(360deg)}}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);max-width:600px;margin:0 auto;min-height:100vh}
+.header{background:linear-gradient(180deg,#1a1a3e,#0f1117);padding:18px 16px 14px;text-align:center;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:10}
+.header h1{font-size:19px;font-weight:800}.header .sub{font-size:10px;color:var(--sub);margin-top:3px}
+.header .status{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--red);margin-right:4px;animation:pulse 2s infinite}
+.header .status.live{background:var(--green)}@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+/* 指数 */
+.index-row{display:grid;grid-template-columns:1fr 1fr;gap:6px;padding:10px 12px}
+.index-card{background:var(--card);border-radius:12px;padding:13px;border:1px solid var(--border)}
+.idx-name{font-size:11px;color:var(--sub);margin-bottom:3px}.idx-price{font-size:20px;font-weight:700}.idx-change{font-size:12px;margin-top:1px}.idx-detail{font-size:9px;color:var(--sub);margin-top:5px;display:flex;gap:10px}
+.up{color:var(--red)}.down{color:var(--green)}
+.up-bg{background:rgba(255,59,48,0.06);border-color:rgba(255,59,48,0.2)}.down-bg{background:rgba(52,199,89,0.06);border-color:rgba(52,199,89,0.2)}
+/* 市场全景 */
+.market-breadth{background:var(--card);border-radius:12px;padding:14px;margin:0 12px 10px;border:1px solid var(--border);display:flex;justify-content:space-around;text-align:center}
+.breadth-item .b-val{font-size:22px;font-weight:800}.breadth-item .b-label{font-size:10px;color:var(--sub);margin-top:2px}
+/* 列表 */
+.sec-title{font-size:13px;font-weight:700;padding:12px 14px 8px;display:flex;align-items:center;gap:6px}
+.flow-table{margin:0 12px 12px;background:var(--card);border-radius:12px;overflow:hidden;border:1px solid var(--border)}
+.table-row{display:grid;grid-template-columns:26px 1fr 70px 70px;gap:4px;padding:9px 12px;border-bottom:1px solid var(--border);align-items:center;font-size:12px}
+.table-row:last-child{border-bottom:none}.table-row.hd{font-size:9px;color:var(--sub);background:#11131a;padding:7px 12px}
+.rank{text-align:center;font-weight:700;font-size:11px;color:var(--sub)}.rank.r1{color:var(--red)}.rank.r2{color:#ff6b4a}.rank.r3{color:#ff9500}
+.stock-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:500}
+.stock-price{text-align:right;font-weight:600}.stock-change{text-align:right;font-size:11px}
 /* 两列 */
-.cols{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 14px}
-@media(max-width:400px){.index-row{grid-template-columns:1fr 1fr}.index-card .idx-price{font-size:18px}}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:0 12px}
+.cols .flow-table{margin:0}.cols .table-row{grid-template-columns:20px 1fr 55px 55px;font-size:11px;padding:7px 8px}
+.footer{text-align:center;padding:18px;color:var(--sub);font-size:9px;line-height:1.8}
+.loading{text-align:center;padding:60px 20px;color:var(--sub)}.spinner{display:inline-block;width:24px;height:24px;border:3px solid var(--border);border-top-color:var(--red);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:10px}@keyframes spin{to{transform:rotate(360deg)}}
+@media(max-width:400px){.index-card .idx-price{font-size:17px}}
 </style>
 </head>
 <body>
-<div class="header">
-  <h1>📈 股市行情</h1>
-  <div class="sub"><span class="status" id="status-dot"></span><span id="update-time">加载中...</span> · 陈浩南制作</div>
-</div>
-<div id="app">
-  <div class="loading"><div class="spinner"></div><br>正在加载行情数据...</div>
-</div>
-<div class="footer">数据来源：新浪财经 | 交易时间自动更新<br>陈浩南 © 2026 · 投资有风险，仅供参考</div>
+<div class="header"><h1>📈 股市行情</h1><div class="sub"><span class="status" id="dot"></span><span id="update-info">加载中...</span> · 陈浩南制作</div></div>
+<div id="app"><div class="loading"><div class="spinner"></div><br>正在加载行情...</div></div>
+<div class="footer">数据来源：新浪财经 · 投资有风险仅供参考<br>陈浩南 © 2026</div>
 
 <script>
-var stockData = null;
+var data=null;
+async function load(){try{var r=await fetch('stock.json');if(!r.ok)throw new Error();data=await r.json();render()}catch(e){document.getElementById('app').innerHTML='<div class="loading">⚠️ 加载失败<br><button onclick="load()" style="margin-top:8px;padding:8px 16px;border-radius:14px;border:none;background:var(--red);color:#fff;cursor:pointer;font-size:12px">重试</button></div>'}}
 
-async function loadData(){
-  try{
-    var resp = await fetch('stock.json');
-    if(!resp.ok) throw new Error('加载失败');
-    stockData = await resp.json();
-    renderAll();
-  }catch(e){
-    document.getElementById('app').innerHTML = '<div class="loading">⚠️ 数据加载失败<br><button onclick="loadData()" style="margin-top:12px;padding:8px 20px;border-radius:16px;background:#ff3b30;color:#fff;border:none;cursor:pointer;font-size:13px">点击重试</button></div>';
-  }
+function render(){
+  var d=new Date(data.updated);document.getElementById('update-info').textContent='更新于 '+(d.getMonth()+1)+'/'+d.getDate()+' '+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0');
+  var h='';var idx=data.indices||[];
+
+  // 指数
+  h+='<div class="index-row">';idx.forEach(function(x){var up=x.change>=0,cls=up?'up-bg':'down-bg',clr=up?'up':'down';h+='<div class="index-card '+cls+'"><div class="idx-name">'+esc(x.name)+'</div><div class="idx-price '+clr+'">'+fmtP(x.price)+'</div><div class="idx-change '+clr+'">'+(up?'+':'')+x.change.toFixed(2)+'% '+(up?'📈':'📉')+'</div><div class="idx-detail"><span>开 '+fmtP(x.open)+'</span><span>高 '+fmtP(x.high)+'</span><span>低 '+fmtP(x.low)+'</span></div></div>'});h+='</div>';
+
+  // 市场全景
+  var upCnt=0,downCnt=0;(data.gainers||[]).forEach(function(s){if(s.change>0)upCnt++});(data.losers||[]).forEach(function(s){if(s.change<0)downCnt++});
+  h+='<div class="market-breadth"><div class="breadth-item"><div class="b-val up">'+(data.gainers||[]).length+'</div><div class="b-label">上涨数</div></div><div class="breadth-item"><div class="b-val down">'+(data.losers||[]).length+'</div><div class="b-label">下跌数</div></div><div class="breadth-item"><div class="b-val">'+((data.gainers||[]).length+(data.losers||[]).length)+'</div><div class="b-label">总计</div></div></div>';
+
+  // 涨幅榜+跌幅榜
+  h+='<div class="cols"><div><div class="sec-title">🔥 涨幅榜</div><div class="flow-table"><div class="table-row hd"><span></span><span>名称</span><span style="text-align:right">价格</span><span style="text-align:right">涨跌幅</span></div>';
+  (data.gainers||[]).slice(0,8).forEach(function(s,i){var rc=i<3?' r'+(i+1):'';h+='<div class="table-row"><span class="rank'+rc+'">'+(i+1)+'</span><span class="stock-name">'+esc(s.name)+'</span><span class="stock-price">'+fmtP(s.price)+'</span><span class="stock-change up">+'+s.change.toFixed(2)+'%</span></div>'});h+='</div></div>';
+  h+='<div><div class="sec-title">📉 跌幅榜</div><div class="flow-table"><div class="table-row hd"><span></span><span>名称</span><span style="text-align:right">价格</span><span style="text-align:right">涨跌幅</span></div>';
+  (data.losers||[]).slice(0,8).forEach(function(s,i){var rc=i<3?' r'+(i+1):'';h+='<div class="table-row"><span class="rank'+rc+'">'+(i+1)+'</span><span class="stock-name">'+esc(s.name)+'</span><span class="stock-price">'+fmtP(s.price)+'</span><span class="stock-change down">'+s.change.toFixed(2)+'%</span></div>'});h+='</div></div></div>';
+
+  // 新闻
+  h+='<div class="sec-title">📰 财经快讯</div><div style="padding:0 12px 20px">';
+  (data.news||[]).slice(0,10).forEach(function(n){h+='<a style="display:block;background:var(--card);border-radius:10px;padding:10px 12px;margin-bottom:5px;text-decoration:none;color:inherit;border:1px solid var(--border);font-size:12px;line-height:1.5" href="'+esc(n.url)+'" target="_blank">'+esc(n.title)+'<div style="font-size:10px;color:var(--sub);margin-top:4px">'+fmtTime(n.time)+'</div></a>'});h+='</div>';
+
+  document.getElementById('app').innerHTML=h;
+
+  var n=new Date(),hr=n.getHours(),day=n.getDay(),isTr=day>=1&&day<=5&&hr>=9&&hr<15;
+  var dot=document.getElementById('dot');if(isTr){dot.className='status live';dot.title='交易中'}else{dot.className='status'}
 }
 
-function renderAll(){
-  updateHeader();
-  var html = '';
-
-  // 指数卡片
-  html += '<div class="index-row">';
-  (stockData.indices||[]).forEach(function(idx){
-    var isUp = idx.change >= 0;
-    html += '<div class="index-card '+(isUp?'up-bg':'down-bg')+'">';
-    html += '<div class="idx-name">'+esc(idx.name)+'</div>';
-    html += '<div class="idx-price '+(isUp?'up':'down')+'">'+fmtPrice(idx.price)+'</div>';
-    html += '<div class="idx-change '+(isUp?'up':'down')+'">'+(isUp?'+':'')+idx.change.toFixed(2)+'%</div>';
-    html += '<div class="idx-detail"><span>开 '+fmtPrice(idx.open)+'</span><span>高 '+fmtPrice(idx.high)+'</span><span>低 '+fmtPrice(idx.low)+'</span></div>';
-    html += '</div>';
-  });
-  html += '</div>';
-
-  // 涨幅榜 + 跌幅榜（两列）
-  html += '<div class="cols"><div>';
-  html += '<div class="section-title">🔥 涨幅榜</div>';
-  html += '<div class="stock-list">';
-  (stockData.gainers||[]).forEach(function(s,i){
-    html += stockRow(s,i,true);
-  });
-  html += '</div></div><div>';
-  html += '<div class="section-title">📉 跌幅榜</div>';
-  html += '<div class="stock-list">';
-  (stockData.losers||[]).forEach(function(s,i){
-    html += stockRow(s,i,false);
-  });
-  html += '</div></div></div>';
-
-  // 股市新闻
-  html += '<div class="section-title">📰 财经快讯</div><div class="news-section">';
-  (stockData.news||[]).forEach(function(n){
-    html += '<a class="news-card" href="'+esc(n.url)+'" target="_blank">';
-    html += '<div class="news-title">'+esc(n.title)+'</div>';
-    html += '<div class="news-time">'+fmtTime(n.time)+'</div>';
-    html += '</a>';
-  });
-  html += '</div>';
-
-  document.getElementById('app').innerHTML = html;
-}
-
-function stockRow(s,i,isGainer){
-  var cls = i<3 ? 'rank-'+(i+1) : 'rank-n';
-  var isUp = isGainer;
-  var changeCls = isUp ? 'up' : 'down';
-  return '<div class="stock-row">'+
-    '<span class="stock-rank '+cls+'">'+(i+1)+'</span>'+
-    '<div class="stock-info"><div class="stock-name">'+esc(s.name)+'</div><div class="stock-code">'+esc(s.code)+'</div></div>'+
-    '<div><div class="stock-price">'+fmtPrice(s.price)+'</div><div class="stock-change '+changeCls+'">'+(isUp?'+':'')+s.change.toFixed(2)+'%</div></div>'+
-    '</div>';
-}
-
-function updateHeader(){
-  var d = new Date(stockData.updated);
-  var t = (d.getMonth()+1)+'/'+d.getDate()+' '+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0');
-  document.getElementById('update-time').textContent = '更新于 '+t;
-
-  // 判断是否交易时间
-  var now = new Date();
-  var h = now.getHours(), day = now.getDay();
-  var isTrading = day>=1 && day<=5 && h>=9 && h<15;
-  var dot = document.getElementById('status-dot');
-  if(isTrading){ dot.className = 'status live'; dot.title = '交易中'; }
-  else { dot.className = 'status'; dot.title = '已收盘'; }
-}
-
-function fmtPrice(p){
-  if(!p) return '-';
-  return p>=100 ? p.toFixed(1) : p>=10 ? p.toFixed(2) : p.toFixed(3);
-}
-
-function fmtTime(ts){
-  if(!ts) return '';
-  try{
-    var d = /^\d+$/.test(String(ts)) ? new Date(parseInt(ts)*1000) : new Date(ts);
-    if(isNaN(d.getTime())) return '';
-    return (d.getMonth()+1)+'/'+d.getDate()+' '+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0');
-  }catch(e){return '';}
-}
-
+function fmtP(p){if(!p)return'-';return p>=1000?p.toFixed(1):p>=100?p.toFixed(2):p>=10?p.toFixed(2):p.toFixed(3)}
+function fmtTime(ts){if(!ts)return'';try{var d=/^\d+$/.test(String(ts))?new Date(parseInt(ts)*1000):new Date(ts);if(isNaN(d.getTime()))return'';return(d.getMonth()+1)+'/'+d.getDate()+' '+String(d.getHours()).padStart(2,'0')+':'+String(d.getMinutes()).padStart(2,'0')}catch(e){return''}}
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 
-loadData();
+load();
 </script>
 </body>
 </html>
