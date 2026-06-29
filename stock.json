@@ -1,57 +1,57 @@
 {
-  "updated": "2026-06-29T05:25:54.350Z",
+  "updated": "2026-06-29T10:06:20.849Z",
   "indices": [
     {
       "code": "sh000001",
       "name": "じ",
-      "price": 4035.5296,
-      "change": 0.2052211714511527,
-      "changeAmount": 8.264799999999923,
+      "price": 4073.9017,
+      "change": 1.1580291417639081,
+      "changeAmount": 46.63689999999997,
       "open": 4026.6858,
-      "high": 4044.1317,
+      "high": 4075.3343,
       "low": 3992.5522,
-      "volume": 506329819,
-      "amount": 1273225681087,
-      "time": "2026-06-29 13:25:47"
+      "volume": 659199936,
+      "amount": 1666220369467,
+      "time": "2026-06-29 15:30:39"
     },
     {
       "code": "sz399001",
       "name": "",
-      "price": 15593.822,
-      "change": -1.1937545173452424,
-      "changeAmount": -188.40099999999984,
+      "price": 15812.871,
+      "change": 0.19419317544809264,
+      "changeAmount": 30.64799999999923,
       "open": 15781.786,
       "high": 15938.231,
       "low": 15487.925,
-      "volume": 62492858541,
-      "amount": 1428599525893.185,
-      "time": "2026-06-29 13:25:48"
+      "volume": 80803518909,
+      "amount": 1851523820714.35,
+      "time": "2026-06-29 15:00:03"
     },
     {
       "code": "sz399006",
       "name": "谍",
-      "price": 4144.337,
-      "change": -1.1890680698076657,
-      "changeAmount": -49.87199999999939,
+      "price": 4216.699,
+      "change": 0.5362155295551505,
+      "changeAmount": 22.48999999999978,
       "open": 4200.674,
       "high": 4265.463,
       "low": 4103.633,
-      "volume": 18556836287,
-      "amount": 700778724041.71,
-      "time": "2026-06-29 13:25:48"
+      "volume": 24357140946,
+      "amount": 916359643183.63,
+      "time": "2026-06-29 15:00:03"
     },
     {
       "code": "sh000688",
       "name": "�50",
-      "price": 2073.0563,
-      "change": 2.0062203898450885,
-      "changeAmount": 40.77210000000014,
+      "price": 2126.0105,
+      "change": 4.611869737510128,
+      "changeAmount": 93.72629999999981,
       "open": 2039.6674,
-      "high": 2116.8333,
+      "high": 2127.8008,
       "low": 2013.5122,
-      "volume": 15608845,
-      "amount": 171963671956,
-      "time": "2026-06-29 13:25:47"
+      "volume": 20661484,
+      "amount": 230072493023,
+      "time": "2026-06-29 15:35:38"
     }
   ],
   "sectors": [],
@@ -59,14 +59,14 @@
     {
       "code": "bj920072",
       "name": "N科莱",
-      "price": 53.36,
-      "change": 241.613,
-      "changeAmount": 37.74,
+      "price": 48.68,
+      "change": 211.652,
+      "changeAmount": 33.06,
       "open": 49,
       "high": 59.5,
       "low": 44.77,
-      "volume": 11231568,
-      "turnover": 560566892
+      "volume": 12827782,
+      "turnover": 638487953
     },
     {
       "code": "bj920367",
@@ -77,8 +77,20 @@
       "open": 16.16,
       "high": 21.19,
       "low": 15.11,
-      "volume": 8988614,
-      "turnover": 169301596
+      "volume": 10865356,
+      "turnover": 208994037
+    },
+    {
+      "code": "sh688548",
+      "name": "广钢气体",
+      "price": 46.49,
+      "change": 20.005,
+      "changeAmount": 7.75,
+      "open": 40.7,
+      "high": 46.49,
+      "low": 39.13,
+      "volume": 65266788,
+      "turnover": 2722803786
     },
     {
       "code": "sh688796",
@@ -89,8 +101,32 @@
       "open": 92.72,
       "high": 110.56,
       "low": 92.2,
-      "volume": 3494349,
-      "turnover": 367008152
+      "volume": 3815812,
+      "turnover": 402549101
+    },
+    {
+      "code": "sh688233",
+      "name": "神工股份",
+      "price": 194.33,
+      "change": 20.001,
+      "changeAmount": 32.39,
+      "open": 184.14,
+      "high": 194.33,
+      "low": 179.17,
+      "volume": 22318495,
+      "turnover": 4201717120
+    },
+    {
+      "code": "sh688120",
+      "name": "华海清科",
+      "price": 316.32,
+      "change": 20,
+      "changeAmount": 52.72,
+      "open": 264.93,
+      "high": 316.32,
+      "low": 264.2,
+      "volume": 18324882,
+      "turnover": 5260505401
     },
     {
       "code": "sh688198",
@@ -101,8 +137,20 @@
       "open": 75.71,
       "high": 90.72,
       "low": 75.71,
-      "volume": 1715028,
-      "turnover": 147784268
+      "volume": 1769586,
+      "turnover": 152733770
+    },
+    {
+      "code": "sh688432",
+      "name": "有研硅",
+      "price": 37.08,
+      "change": 20,
+      "changeAmount": 6.18,
+      "open": 32.5,
+      "high": 37.08,
+      "low": 31.53,
+      "volume": 94473579,
+      "turnover": 3294047431
     },
     {
       "code": "sz300204",
@@ -113,8 +161,8 @@
       "open": 19.4,
       "high": 23.28,
       "low": 18.98,
-      "volume": 54593587,
-      "turnover": 1186048956
+      "volume": 55729987,
+      "turnover": 1212504348
     },
     {
       "code": "sz300436",
@@ -125,71 +173,11 @@
       "open": 89.5,
       "high": 106.56,
       "low": 88,
-      "volume": 13201847,
-      "turnover": 1325618143
-    },
-    {
-      "code": "sz301520",
-      "name": "万邦医药",
-      "price": 28.26,
-      "change": 20,
-      "changeAmount": 4.71,
-      "open": 28.26,
-      "high": 28.26,
-      "low": 26.7,
-      "volume": 2361465,
-      "turnover": 66345239
-    },
-    {
-      "code": "sh688336",
-      "name": "三生国健",
-      "price": 49.75,
-      "change": 19.995,
-      "changeAmount": 8.29,
-      "open": 41.15,
-      "high": 49.75,
-      "low": 40.66,
-      "volume": 18480496,
-      "turnover": 859829945
-    },
-    {
-      "code": "sh688689",
-      "name": "银河微电",
-      "price": 55.88,
-      "change": 19.991,
-      "changeAmount": 9.31,
-      "open": 55.88,
-      "high": 55.88,
-      "low": 55.88,
-      "volume": 1411494,
-      "turnover": 78874285
-    },
-    {
-      "code": "sz300434",
-      "name": "金石亚药",
-      "price": 10.81,
-      "change": 19.978,
-      "changeAmount": 1.8,
-      "open": 9.05,
-      "high": 10.81,
-      "low": 8.83,
-      "volume": 36735643,
-      "turnover": 368470935
+      "volume": 13557190,
+      "turnover": 1363483493
     }
   ],
   "losers": [
-    {
-      "code": "sh688143",
-      "name": "长盈通",
-      "price": 172,
-      "change": -20,
-      "changeAmount": -43,
-      "open": 212,
-      "high": 218.3,
-      "low": 172,
-      "volume": 9640244,
-      "turnover": 1780746201
-    },
     {
       "code": "sz300553",
       "name": "集智股份",
@@ -199,196 +187,208 @@
       "open": 74,
       "high": 74.03,
       "low": 58.77,
-      "volume": 6720680,
-      "turnover": 428517595
+      "volume": 7037280,
+      "turnover": 447124177
+    },
+    {
+      "code": "sz001399",
+      "name": "C惠科",
+      "price": 34.66,
+      "change": -17.476,
+      "changeAmount": -7.34,
+      "open": 36.93,
+      "high": 39.6,
+      "low": 33.66,
+      "volume": 172020626,
+      "turnover": 6208002345
     },
     {
       "code": "sz301502",
       "name": "华阳智能",
-      "price": 69.63,
-      "change": -18.732,
-      "changeAmount": -16.05,
+      "price": 70.96,
+      "change": -17.18,
+      "changeAmount": -14.72,
       "open": 85.51,
       "high": 86.43,
       "low": 69,
-      "volume": 1973559,
-      "turnover": 148185316
-    },
-    {
-      "code": "sz300264",
-      "name": "佳创视讯",
-      "price": 8.04,
-      "change": -17.707,
-      "changeAmount": -1.73,
-      "open": 10.25,
-      "high": 10.33,
-      "low": 7.99,
-      "volume": 64005240,
-      "turnover": 566381797
+      "volume": 2572159,
+      "turnover": 190476555
     },
     {
       "code": "sz301051",
       "name": "信濠光电",
-      "price": 17.64,
-      "change": -15.84,
-      "changeAmount": -3.32,
+      "price": 17.38,
+      "change": -17.08,
+      "changeAmount": -3.58,
       "open": 19.88,
       "high": 20.55,
       "low": 17.26,
-      "volume": 39886055,
-      "turnover": 752354543
+      "volume": 48720081,
+      "turnover": 908360112
     },
     {
-      "code": "sz300668",
-      "name": "杰恩股份",
-      "price": 54.97,
-      "change": -15.819,
-      "changeAmount": -10.33,
-      "open": 64.5,
-      "high": 64.92,
-      "low": 53.16,
-      "volume": 10327500,
-      "turnover": 602815231
+      "code": "sh688143",
+      "name": "长盈通",
+      "price": 180,
+      "change": -16.279,
+      "changeAmount": -35,
+      "open": 212,
+      "high": 218.3,
+      "low": 172,
+      "volume": 12579945,
+      "turnover": 2303342136
     },
     {
       "code": "bj920083",
       "name": "金戈新材",
-      "price": 50.3,
-      "change": -13.944,
-      "changeAmount": -8.15,
+      "price": 49.12,
+      "change": -15.962,
+      "changeAmount": -9.33,
       "open": 56,
       "high": 56.6,
-      "low": 49.5,
-      "volume": 5623054,
-      "turnover": 294848993
+      "low": 48.72,
+      "volume": 7378601,
+      "turnover": 382278879
     },
     {
-      "code": "sz300196",
-      "name": "长海股份",
-      "price": 28.39,
-      "change": -13.944,
-      "changeAmount": -4.6,
-      "open": 32.59,
-      "high": 32.94,
-      "low": 27.61,
-      "volume": 38528074,
-      "turnover": 1150102876
+      "code": "sz300264",
+      "name": "佳创视讯",
+      "price": 8.28,
+      "change": -15.251,
+      "changeAmount": -1.49,
+      "open": 10.25,
+      "high": 10.33,
+      "low": 7.99,
+      "volume": 72786740,
+      "turnover": 638918935
     },
     {
-      "code": "sz301468",
-      "name": "博盈特焊",
-      "price": 41.57,
-      "change": -13.934,
-      "changeAmount": -6.73,
-      "open": 48,
-      "high": 48,
-      "low": 40.52,
-      "volume": 17028091,
-      "turnover": 749230860
+      "code": "sz301319",
+      "name": "唯特偶",
+      "price": 177.01,
+      "change": -14.488,
+      "changeAmount": -29.99,
+      "open": 199.99,
+      "high": 200,
+      "low": 170,
+      "volume": 15473144,
+      "turnover": 2834268510
     },
     {
-      "code": "sz301160",
-      "name": "翔楼新材",
-      "price": 45.44,
-      "change": -13.743,
-      "changeAmount": -7.24,
-      "open": 50.59,
-      "high": 50.98,
-      "low": 43.31,
-      "volume": 9758095,
-      "turnover": 459122136
+      "code": "sz300057",
+      "name": "万顺新材",
+      "price": 8.73,
+      "change": -13.134,
+      "changeAmount": -1.32,
+      "open": 10.26,
+      "high": 10.36,
+      "low": 8.56,
+      "volume": 152988380,
+      "turnover": 1395328082
+    },
+    {
+      "code": "bj920725",
+      "name": "惠丰钻石",
+      "price": 93,
+      "change": -13.043,
+      "changeAmount": -13.95,
+      "open": 107,
+      "high": 108.55,
+      "low": 93,
+      "volume": 7764845,
+      "turnover": 770569938
     }
   ],
   "news": [
     {
-      "title": "百奥赛图-B午后涨超17% 公司源头创新实力再获认可",
-      "intro": "百奥赛图-B（02315）盘中涨超18%，截至发稿，股价上涨17.28%，现报47.50港元，成交额1.36亿港元。 6月26日至27日，“2026中国医药创新100大会”在天津举行...",
-      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-06-29/detail-inifackz0235851.d.html",
-      "time": "1782710680"
+      "title": "对话辉锐集团董事长齐欢：从某航空维修基地开始，这家公司把自己做进了发动机的生命周期里",
+      "intro": "文|新浪财经上海站 陈秀颖 “工业制造真正的壁垒，从来不是设备，而是工艺能否被长期、稳定地复制。” 这是新浪财经对辉锐集团的一次现场走访。",
+      "url": "https://finance.sina.cn/2026-06-29/detail-inifapyy3757426.d.html",
+      "time": "1782727337"
     },
     {
-      "title": "劲方医药-B午后涨超15% 交银国际维持“买入”评级",
-      "intro": "劲方医药-B（02595）午后股价上涨15.06%，现报27.96港元，成交额4010.55万港元。 据劲方医药官微消息，公司宣布GFH375/VS-7375（口服KRAS...",
-      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-06-29/detail-inifacku5422211.d.html",
-      "time": "1782710556"
+      "title": "英首相热门伯纳姆将发表重要演讲 提出“北方唐宁街10号”推动空前分权",
+      "intro": " 安迪·伯纳姆即将发表确认有意接替基尔·斯塔默出任英国首相之后的首次重要演讲，他将承诺推动英格兰近代以来规模最大的权力下放。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapyw6981226.d.html",
+      "time": "1782727325"
     },
     {
-      "title": "来凯医药-B午后涨超16% 有关LAE118独家许可协议取得新进展",
-      "intro": "来凯医药-B（02105）午后股价上涨16.56%，现报7.25港元，成交额1071.25万港元。 据来凯医药官微消息，来凯医药宣布，与Vasque Bio...",
-      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-06-29/detail-inifackw2198420.d.html",
-      "time": "1782710418"
+      "title": "中东地缘风险溢价消退 迪拜股市将创一年最佳季度表现",
+      "intro": " 中东冲突达成停火，投资者重返此前因伊朗导弹袭击、城市稳定形象受损而撤离的迪拜市场，当地股指即将创下一年来最强季度行情。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapyw6980885.d.html",
+      "time": "1782727282"
     },
     {
-      "title": "华泰独家保荐海光芯正登陆港交所，全球AI硅光互连领先企业开启国际化新征程",
-      "intro": "6月29日，全球领先的AI硅光互连企业——北京海光芯正科技股份有限公司（下称“海光芯正”）于香港联交所主板正式挂牌上市。此次海光芯正全球发售价格为每股114港元...",
-      "url": "https://finance.sina.cn/2026-06-29/detail-inifackz0232392.d.html",
-      "time": "1782710329"
+      "title": "英国央行改用多情景预测 皮尔担心决策者将更难达成共识",
+      "intro": " 英国央行首席经济学家皮尔（Huw Pill）周一表示，央行在沟通方式上从单一预测转向多情景预测，这使得利率决策者更难达成共识，他的说法呼应了其他政策制定者的担忧。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapys2127356.d.html",
+      "time": "1782727193"
     },
     {
-      "title": "千万粉MCN放“黑料”敲诈明星和剧组！删帖费达3000元/条，涉案40多万元，12人被抓",
-      "intro": "6月29日，记者从广东公安获悉，近日，在公安部网安局和广东省公安厅网安总队的直接指挥下，河源市公安局根据线索，经深入侦查后实施精准收网行动...",
-      "url": "https://finance.sina.cn/2026-06-29/detail-inifackz0232781.d.html",
-      "time": "1782710203"
+      "title": "邦达亚洲:美联储加息预期有所降温 黄金小幅收涨",
+      "intro": "6月29日，密歇根大学周五公布的数据显示，美国6月消费者信心指数终值升至49.5，高于5月创纪录低位44.8，也较初值有所改善。不过，该指数仍是20世纪70年代有数据以来的第二...",
+      "url": "https://finance.sina.cn/forex/hsxw/2026-06-29/detail-inifapys2127263.d.html",
+      "time": "1782727181"
     },
     {
-      "title": "沃什迎来国际首秀！将与拉加德等“2008危机一代”同台论道",
-      "intro": "文章来源：金十数据 沃什的核心顾问团队初步成型 沃什出任美联储主席后，已着手搭建近身顾问班子。据知情人士透露，他选定了两位长期任职于美联储体系内的资深经济学家——丹...",
-      "url": "https://finance.sina.cn/2026-06-29/detail-inifacma7010205.d.html",
-      "time": "1782710044"
+      "title": "韩国称力争在李在明总统任期内建成新的芯片产业集群",
+      "intro": "韩国总统秘书室室长姜勋植表示，韩国力争在李在明的任期结束前，于该国西南部完成建设新的芯片产业集群。 韩国此前的半导体产业集群建设耗时九年多...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapyq5349918.d.html",
+      "time": "1782727161"
     },
     {
-      "title": "经参调查丨无视中央环保督察 青海一“矿霸”非法填埋万吨危废",
-      "intro": "近期，全国非法倾倒处置固体废物专项整治行动启动，计划用三年时间集中开展严打严查。《经济参考报》记者近日在青海省海西州大柴旦调查发现...",
-      "url": "https://finance.sina.cn/china/gncj/2026-06-29/detail-iniezxcc0357316.d.html",
-      "time": "1782709662"
+      "title": "Momenta连续失血火速开启招股：毛利率飙升后面临天花板 大客户依赖和车企自研加剧扭亏难度",
+      "intro": "出品：新浪财经上市公司研究院 作者：昊 6月29日，自动驾驶独角兽企业Momenta（梦腾智驾）正式启动港股全球招股，发行价295.6港元，募资总额约58.9亿港元...",
+      "url": "https://finance.sina.cn/2026-06-29/detail-inifapyw6981368.d.html",
+      "time": "1782727156"
     },
     {
-      "title": "调查：韩国6月出口同比增速料创近50年来最快，受益于芯片旺销",
-      "intro": "路透周一公布的一项调查显示，韩国6月出口同比增速或创近五十年来最强，因全球人工智能（AI）投资热潮推动半导体出货创下纪录新高。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-iniezxcc0354962.d.html",
-      "time": "1782709452"
+      "title": "5月外资净抛售英国国债 为九个月来首现净卖出",
+      "intro": "英国央行公布数据显示，5月境外投资者净抛售英国国债，终结了此前连续8个月的净买入态势。 5月非本土投资者净卖出54.57亿英镑英国国债，4月则为净买入182.29亿英镑。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapys2126897.d.html",
+      "time": "1782727123"
     },
     {
-      "title": "受盈利前景乐观影响 RBC将标普500指数12个月目标价上调至8,150点",
-      "intro": "加拿大皇家银行（RBC）资本市场周一将标普500指数 的12个月目标价从7，900点上调至8，150点，称强劲的盈利表现和有利的宏观环境将推动美股进一步上涨。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-iniezxay2321825.d.html",
-      "time": "1782709420"
+      "title": "中国太保快速应对四川宜宾5.5级地震",
+      "intro": "来源：中国太平洋保险 6月29日0时12分，四川宜宾市高县发生5.5级地震，震源深度6公里。 地震发生后，中国太保高度重视，产寿联动、总分协同...",
+      "url": "https://finance.sina.cn/insurance/gsdt/2026-06-29/detail-inifapyy3757704.d.html",
+      "time": "1782727043"
     },
     {
-      "title": "Pimco等债券巨头齐押5年期美债 以安度沃什时代初期的不确定性",
-      "intro": "全球一些最大的债券管理机构正将目光聚焦于市场某个特定领域，视其为安度凯文·沃什时代初期的最佳配置。 从Capital Group到Insight Investment、Natixis和品浩（Pimco",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-iniezxaw5543139.d.html",
-      "time": "1782709194"
+      "title": "比特币ETF料创推出以来最严重单月资金流出 净流出达40亿美元",
+      "intro": "美国上市的比特币ETF将面临自两年前推出以来最严重的月度资金流出。 数据显示，6月份，投资者已从这13只比特币ETF中撤出超过41亿美元...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapyq5348518.d.html",
+      "time": "1782726972"
     },
     {
-      "title": "合资燃油车狂降数万还卖不动，买了就亏的车主该找谁维权？",
-      "intro": "2026年6月，“合资燃油车大幅降价仍滞销”登上微博热搜。乘联会数据显示，5月常规燃油乘用车零售量仅56万辆，同比暴跌39%，月度销量前十榜单中已无燃油车身影。",
-      "url": "https://finance.sina.cn/consume/shxf/2026-06-29/detail-iniezxce7084149.d.html",
-      "time": "1782709038"
+      "title": "韩国宣布巨额芯片与AI新投资计划",
+      "intro": "韩国政府公布了针对半导体产业及人工智能（AI）基础设施的巨额投资计划。与此同时，存储芯片巨头三星电子（Samsung Electronics）和SK海力士（SK...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapys2125360.d.html",
+      "time": "1782726925"
     },
     {
-      "title": "独家|喜茶推“个性化饮品”，五个类目可定制，正灰度测试",
-      "intro": "6月29日，新浪财经独家获悉，喜茶今日面向部分用户推出全新功能“定制茶饮”，目前该功能正在灰度测试阶段，仅在深圳部分门店进行试点...",
-      "url": "https://finance.sina.cn/chanjing/gsxw/2026-06-29/detail-iniezxcc0348321.d.html",
-      "time": "1782708868"
+      "title": "入境支付再上新？腾讯回应：TenPayGo仍在小范围内测中",
+      "intro": "21世纪经济报道记者 曹媛 深圳报道 近日，21世纪经济报道记者注意到，苹果应用商店（App Store）上架了一款名为“TenPayGo”的应用。",
+      "url": "https://finance.sina.cn/2026-06-29/detail-inifapyy3753858.d.html",
+      "time": "1782726899"
     },
     {
-      "title": "7款高价创新药有望降价",
-      "intro": "本文字数：1088，阅读时长大约2分钟 作者 |第一财经林志吟 6月29日，国家医保局公布了关于通过2026年国家基本医疗保险、生育保险和工伤保险药品目录（下称基本医保目录）及...",
-      "url": "https://finance.sina.cn/2026-06-29/detail-iniezxce7125475.d.html",
-      "time": "1782708792"
+      "title": "中介称利率2.8%实际成本8%！“明白纸”破局贷款“糊涂账”",
+      "intro": "21世纪经济报道记者 冯紫彤 一笔贷款的真实成本到底是多少？ 对很多中小微企业而言，这个问题并不好回答。 “过去企业只关注名义上的贷款利率，担保费、评估费...",
+      "url": "https://finance.sina.cn/bank/yhgd/2026-06-29/detail-inifapyq5347485.d.html",
+      "time": "1782726795"
     },
     {
-      "title": "野村：受重组成本影响，LG Display第二季度亏损可能超出预期",
-      "intro": "野村的Eon Hwang和YJ Kim表示，由于业务重组的一次性成本，LG Display第二季度亏损可能超出市场预期。野村的分析师预计，这家韩国平板显示器制造商4-6月期间的营业亏损约为...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-iniezxaw5539257.d.html",
-      "time": "1782708646"
+      "title": "德国刷新高温纪录后 极端热浪席卷东欧",
+      "intro": "一场热浪在西欧持续了一周多，期间不断刷新高温纪录，如今已向东移动，开始炙烤匈牙利、罗马尼亚以及巴尔干地区。 根据欧洲中期天气预报中心的预测...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-06-29/detail-inifapys2124053.d.html",
+      "time": "1782726785"
     },
     {
-      "title": "500亿龙头一字涨停，封单超46万手",
-      "intro": "记者丨林健民 编辑丨李燕娜 6月29日，多氟多（002407.SZ）一字涨停，报45.66元/股，总市值为544亿元；盘中封单一度超46万手，居同花顺热股榜第一名。",
-      "url": "https://finance.sina.cn/2026-06-29/detail-iniezxay2317968.d.html",
-      "time": "1782708574"
+      "title": "荃银高科涉嫌年报虚假记载收到预罚单 受损股民可进行预索赔登记",
+      "intro": "根据最新消息，安徽荃银高科种业股份有限公司（以下简称“荃银高科”）因涉嫌信披违法违规收到预罚单。上海市信本律师事务所赵敬国律师（执业证号：13101200410820485）提示...",
+      "url": "https://finance.sina.cn/stock/ssgs/2026-06-29/detail-inifapyq5347086.d.html",
+      "time": "1782726760"
     }
   ]
 }
