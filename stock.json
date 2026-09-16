@@ -1,57 +1,57 @@
 {
-  "updated": "2026-09-16T05:33:35.535Z",
+  "updated": "2026-09-16T10:39:10.222Z",
   "indices": [
     {
       "code": "sh000001",
       "name": "じ",
-      "price": 3883.2106,
-      "change": 0.4899024640920113,
-      "changeAmount": 18.93119999999999,
+      "price": 3891.6005,
+      "change": 0.7070166820753209,
+      "changeAmount": 27.321100000000115,
       "open": 3861.7457,
-      "high": 3888.1534,
+      "high": 3894.6635,
       "low": 3842.7211,
-      "volume": 343250668,
-      "amount": 656266769724,
-      "time": "2026-09-16 13:33:26"
+      "volume": 459125108,
+      "amount": 871141346852,
+      "time": "2026-09-16 15:35:32"
     },
     {
       "code": "sz399001",
       "name": "",
-      "price": 13427.15,
-      "change": 1.0473831450904365,
-      "changeAmount": 139.17599999999948,
+      "price": 13454.743,
+      "change": 1.2550370733717588,
+      "changeAmount": 166.76900000000023,
       "open": 13276.854,
       "high": 13482.983,
       "low": 13185.827,
-      "volume": 39774241508,
-      "amount": 732099772551.933,
-      "time": "2026-09-16 13:33:27"
+      "volume": 53089679783,
+      "amount": 967980526765.433,
+      "time": "2026-09-16 15:00:03"
     },
     {
       "code": "sz399006",
       "name": "谍",
-      "price": 3303.402,
-      "change": 1.7082943596482398,
-      "changeAmount": 55.483999999999924,
+      "price": 3311.474,
+      "change": 1.9568228015608782,
+      "changeAmount": 63.55600000000004,
       "open": 3246.887,
       "high": 3327.557,
       "low": 3227.181,
-      "volume": 10690834107,
-      "amount": 348253406492.92,
-      "time": "2026-09-16 13:33:27"
+      "volume": 14416940713,
+      "amount": 461681409254.92,
+      "time": "2026-09-16 15:00:03"
     },
     {
       "code": "sh000688",
       "name": "�50",
-      "price": 1608.3119,
-      "change": 3.6311418459042075,
-      "changeAmount": 56.353799999999865,
+      "price": 1616.1856,
+      "change": 4.138481573697122,
+      "changeAmount": 64.22749999999996,
       "open": 1558.3755,
       "high": 1622.3505,
       "low": 1552.236,
-      "volume": 6036317,
-      "amount": 72474350354,
-      "time": "2026-09-16 13:33:27"
+      "volume": 8184911,
+      "amount": 95462297800,
+      "time": "2026-09-16 15:35:44"
     }
   ],
   "sectors": [],
@@ -59,26 +59,26 @@
     {
       "code": "bj920298",
       "name": "N腾信",
-      "price": 59.66,
-      "change": 66.741,
-      "changeAmount": 23.88,
+      "price": 64.3,
+      "change": 79.709,
+      "changeAmount": 28.52,
       "open": 62,
       "high": 65,
       "low": 54.01,
-      "volume": 12385322,
-      "turnover": 716125506
+      "volume": 14560807,
+      "turnover": 846098649
     },
     {
       "code": "sh688837",
       "name": "N信诺维",
-      "price": 40.55,
-      "change": 46.92,
-      "changeAmount": 12.95,
+      "price": 40.18,
+      "change": 45.58,
+      "changeAmount": 12.58,
       "open": 47.57,
       "high": 48.66,
       "low": 39.12,
-      "volume": 30175507,
-      "turnover": 1284574822
+      "volume": 36079183,
+      "turnover": 1521904022
     },
     {
       "code": "sh688004",
@@ -89,8 +89,8 @@
       "open": 28.97,
       "high": 32.86,
       "low": 28.6,
-      "volume": 22294169,
-      "turnover": 686641330
+      "volume": 22660720,
+      "turnover": 698686195
     },
     {
       "code": "sz300243",
@@ -101,8 +101,8 @@
       "open": 16.54,
       "high": 19.85,
       "low": 16.37,
-      "volume": 52993843,
-      "turnover": 980635586
+      "volume": 55579500,
+      "turnover": 1031960877
     },
     {
       "code": "sz300656",
@@ -113,8 +113,8 @@
       "open": 24.66,
       "high": 29.57,
       "low": 24.36,
-      "volume": 12745411,
-      "turnover": 353063030
+      "volume": 12920067,
+      "turnover": 358227608
     },
     {
       "code": "sh688432",
@@ -125,8 +125,8 @@
       "open": 44.55,
       "high": 54.06,
       "low": 44.55,
-      "volume": 75857375,
-      "turnover": 3860517280
+      "volume": 76844217,
+      "turnover": 3913865959
     },
     {
       "code": "sz300464",
@@ -137,8 +137,8 @@
       "open": 8.34,
       "high": 10.02,
       "low": 8.28,
-      "volume": 52984005,
-      "turnover": 488842936
+      "volume": 66547038,
+      "turnover": 624619710
     },
     {
       "code": "sz300992",
@@ -149,8 +149,8 @@
       "open": 24.7,
       "high": 28.44,
       "low": 23.45,
-      "volume": 5806750,
-      "turnover": 151979882
+      "volume": 6173450,
+      "turnover": 162408830
     },
     {
       "code": "sz301251",
@@ -161,8 +161,8 @@
       "open": 69.51,
       "high": 81.78,
       "low": 69,
-      "volume": 13990880,
-      "turnover": 1092877443
+      "volume": 15271400,
+      "turnover": 1197598369
     },
     {
       "code": "sz301486",
@@ -173,22 +173,22 @@
       "open": 181.1,
       "high": 214.34,
       "low": 180.38,
-      "volume": 12254650,
-      "turnover": 2487230860
+      "volume": 12476600,
+      "turnover": 2534803623
     }
   ],
   "losers": [
     {
-      "code": "sh688790",
-      "name": "昂瑞微",
-      "price": 88.85,
-      "change": -12.03,
-      "changeAmount": -12.15,
-      "open": 98,
-      "high": 98,
-      "low": 83.57,
-      "volume": 5497535,
-      "turnover": 480100057
+      "code": "bj920651",
+      "name": "天罡股份",
+      "price": 20.16,
+      "change": -10.4,
+      "changeAmount": -2.34,
+      "open": 22.3,
+      "high": 22.65,
+      "low": 19.96,
+      "volume": 3144401,
+      "turnover": 64660083
     },
     {
       "code": "sz002212",
@@ -199,8 +199,8 @@
       "open": 6.99,
       "high": 6.99,
       "low": 6.99,
-      "volume": 41527400,
-      "turnover": 290276526
+      "volume": 45876000,
+      "turnover": 320673240
     },
     {
       "code": "sz000978",
@@ -211,8 +211,8 @@
       "open": 8.79,
       "high": 8.79,
       "low": 8.79,
-      "volume": 15132700,
-      "turnover": 133016433
+      "volume": 15981500,
+      "turnover": 140477385
     },
     {
       "code": "sh601086",
@@ -223,8 +223,8 @@
       "open": 14.57,
       "high": 14.89,
       "low": 14.57,
-      "volume": 46706020,
-      "turnover": 681564371
+      "volume": 47823020,
+      "turnover": 697839061
     },
     {
       "code": "sz002912",
@@ -235,20 +235,20 @@
       "open": 25.61,
       "high": 26.32,
       "low": 25.61,
-      "volume": 18883374,
-      "turnover": 485497921
+      "volume": 19432374,
+      "turnover": 499557811
     },
     {
-      "code": "bj920651",
-      "name": "天罡股份",
-      "price": 20.41,
-      "change": -9.289,
-      "changeAmount": -2.09,
-      "open": 22.3,
-      "high": 22.65,
-      "low": 19.96,
-      "volume": 2705600,
-      "turnover": 55725457
+      "code": "sh605577",
+      "name": "龙版传媒",
+      "price": 13.64,
+      "change": -9.788,
+      "changeAmount": -1.48,
+      "open": 13.97,
+      "high": 14.32,
+      "low": 13.61,
+      "volume": 47713477,
+      "turnover": 662021489
     },
     {
       "code": "sz000981",
@@ -259,136 +259,136 @@
       "open": 2.8,
       "high": 2.86,
       "low": 2.72,
-      "volume": 865908142,
-      "turnover": 2393707706
-    },
-    {
-      "code": "sh600031",
-      "name": "三一重工",
-      "price": 17.7,
-      "change": -9.184,
-      "changeAmount": -1.79,
-      "open": 19.48,
-      "high": 19.48,
-      "low": 17.55,
-      "volume": 184201719,
-      "turnover": 3300379141
+      "volume": 1081657739,
+      "turnover": 2988468860
     },
     {
       "code": "sh688244",
       "name": "永信至诚",
-      "price": 15.61,
-      "change": -8.014,
-      "changeAmount": -1.36,
+      "price": 15.4,
+      "change": -9.252,
+      "changeAmount": -1.57,
       "open": 16.28,
       "high": 16.75,
       "low": 15.32,
-      "volume": 11826810,
-      "turnover": 186158842
+      "volume": 14822468,
+      "turnover": 232408093
     },
     {
       "code": "sh600712",
       "name": "南宁百货",
-      "price": 5,
-      "change": -7.919,
-      "changeAmount": -0.43,
+      "price": 4.96,
+      "change": -8.656,
+      "changeAmount": -0.47,
       "open": 4.98,
       "high": 5.12,
       "low": 4.91,
-      "volume": 56666803,
-      "turnover": 284425692
+      "volume": 78050634,
+      "turnover": 390513918
+    },
+    {
+      "code": "sh603136",
+      "name": "天目湖",
+      "price": 8.9,
+      "change": -8.53,
+      "changeAmount": -0.83,
+      "open": 8.77,
+      "high": 9.28,
+      "low": 8.76,
+      "volume": 38748153,
+      "turnover": 345840964
     }
   ],
   "news": [
     {
-      "title": "香港施政报告：推进广深西部铁路及北环线 强化大湾区互联互通",
-      "intro": "香港行政长官李家超在今日的施政报告中宣布，将全速推进北环线项目及广深西部铁路（洪水桥至前海段），目标分别于2034年及2037年开通。",
-      "url": "https://finance.sina.cn/hkstock/gggd/2026-09-16/detail-iniryzkw6622037.d.html",
-      "time": "1789536752"
+      "title": "杨德龙：美联储议息会议即将揭晓答案 靴子落地带来两市大幅反弹",
+      "intro": "美联储9月份议息会议即将公布是否加息，这也让很多投资者比较担心。但是之前给大家分析过，一旦靴子落地，那就是利空出尽，市场反而有可能引发一轮强劲的反弹行情。",
+      "url": "https://finance.sina.cn/fund/jjsy/2026-09-16/detail-inirzmzc0532511.d.html",
+      "time": "1789554961"
     },
     {
-      "title": "金融教育宣传周 | 为什么别人投资总赚钱？小心幸存者偏差",
+      "title": "CBCX:黄金议息行情更看意外程度",
+      "intro": "9月16日，黄金如何回应利率决定，往往取决于市场事前已经预期了多少。Kitco于9月15日刊登的采访中，分析师Jesse Colombo提出，符合预期的加息也可能伴随金价反弹。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmzc0531905.d.html",
+      "time": "1789554936"
+    },
+    {
+      "title": "视频|李大霄：一切看油 与某券商观点一致",
       "intro": "",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzma2967776.d.html",
-      "time": "1789536352"
+      "url": "https://finance.sina.cn/2026-09-16/detail-inirzmyx4788747.d.html",
+      "time": "1789554818"
     },
     {
-      "title": "一只河狸的生存智慧",
-      "intro": "今天，来认识一位动物界的“隐藏大佬”——河狸。 很多人初见河狸，很容易被它的外表所迷惑。它一副憨态可掬的模样，整日泡在暖洋洋的河水里，慢悠悠揉搓着脸颊；吃饱之后...",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzma2967244.d.html",
-      "time": "1789536241"
+      "title": "CPT Markets:平台退出应按业务时间表解读",
+      "intro": "9月16日，同样是结束运营，不同业务可能在不同日期停止。Cointelegraph于9月15日报道，CoinEx将分阶段收缩服务，提款期限延续至12月22日。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmyz3756851.d.html",
+      "time": "1789554815"
     },
     {
-      "title": "香港施政报告：二胎奖励金升至3万港元 购房最高可减免2万港元印花税",
-      "intro": "香港行政长官李家超在今日的施政报告中公布，推出11招加强鼓励生育措施。包括2万港元新生婴儿奖励金延长3年，即日起第二胎或以后，加码至3万港元，同样为期三年。",
-      "url": "https://finance.sina.cn/hkstock/gggd/2026-09-16/detail-iniryzky3389048.d.html",
-      "time": "1789536234"
+      "title": "布鲁克菲尔德同意以29亿美元收购澳大利亚Reliance环球公司",
+      "intro": "Reliance 董事会一致向股东推荐该收购要约布鲁克菲尔德资产管理公司达成全现金收购 Reliance 环球公司的交易。 内容摘要 布鲁克菲尔德资产管理公司达成全现金收购...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-16/detail-inirzmzc0528736.d.html",
+      "time": "1789554784"
     },
     {
-      "title": "AI巨头呼吁放缓节奏？景顺长城科技军团刘力思最新观点来了",
-      "intro": " 近日，AI巨头Anthropic公司CEO达里奥·阿莫迪发布3800字长文，基于安全考量等因素，呼吁控制前沿AI发展节奏。该观点很快得到马斯克以及OpenAI创始人奥特曼的赞同。",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzmc4912097.d.html",
-      "time": "1789536114"
+      "title": "FPG财盛国际:矿区交割与黄金产出仍有距离",
+      "intro": "9月16日，完成矿区收购，只是项目发展中的一个节。Investing.com于9月15日报道，Cadillac Mines通过发行1500万股普通股，完成Larder矿区交易。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmyz3755566.d.html",
+      "time": "1789554731"
     },
     {
-      "title": "“芯”主线回归！费率较低的科创芯片ETF华宝（589190）标的指数猛攻5.5%，涨价+扩产+国产替代三重共振",
-      "intro": "9月16日，半导体芯片行情强势回归，同类费率较低*的科创芯片ETF华宝（589190）标的指数盘中大涨5.5%。半导体材料与设备方向涨幅居前，天岳先进两位数领涨，中科飞测...",
-      "url": "https://finance.sina.cn/fund/etf/2026-09-16/detail-iniryzky3386043.d.html",
-      "time": "1789536028"
+      "title": "GTCFX:天然气供应集中度带来新观察",
+      "intro": "9月16日，得克萨斯州的天然气产量，在美国供应版图中占据突出位置。Oilprice于9月15日发布的报道显示，该州2025年约占全国总开采量的28.5%。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmyz3753797.d.html",
+      "time": "1789554624"
     },
     {
-      "title": "新晋成份股云英谷科技20CM涨停！港股通信息技术ETF华宝（159131）标的指数涨超2%，中芯、华虹齐发力！",
-      "intro": "今日（9月16日），港股硬科技强势反攻，聚焦港股硬科技的港股通信息技术ETF华宝（159131）标的指数盘中现涨2.43%。中芯国际、华虹宏力、联想集团等成份股携手涨超4%...",
-      "url": "https://finance.sina.cn/fund/etf/2026-09-16/detail-iniryzkw6612690.d.html",
-      "time": "1789535999"
+      "title": "视频|李大霄：加息环境下如何进行结构性调整",
+      "intro": "",
+      "url": "https://finance.sina.cn/2026-09-16/detail-inirzmyz3753612.d.html",
+      "time": "1789554614"
     },
     {
-      "title": "香港施政报告：跨境转数快年内接通银联 实现内地银行直接取现",
-      "intro": " 香港行政长官李家超在今日的施政报告中表示，“跨境转数快”服务今年将接通银联系统，令市民可以直接在内地银行收取现金，大幅提升跨境支付的便利性。（新浪财经香港站）",
-      "url": "https://finance.sina.cn/hkstock/gggd/2026-09-16/detail-iniryzky3385246.d.html",
-      "time": "1789535994"
+      "title": "Databricks加速业务扩张，加码亚洲投资",
+      "intro": "该企业未来三年将在亚太地区投入超 10 亿美元Databricks 在 8 月完成一轮融资，投后估值达到 1900 亿美元，本轮由 Coatue 领投，黑石、MGX...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-16/detail-inirzmzc0526002.d.html",
+      "time": "1789554601"
     },
     {
-      "title": "Instinct据悉洽谈新一轮10亿美元融资，估值或达100亿美元",
-      "intro": " 据知情人士透露，个人AI助手Instinct背后的初创公司正在洽谈一轮融资，计划募资 10 亿美元，公司估值有望达到约 100 亿美元。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-16/detail-iniryzkw6611481.d.html",
-      "time": "1789535891"
+      "title": "M4Markets:数据中心用电更需关注负荷波动",
+      "intro": "9月16日，电网面对大型计算设施时，问题不仅是能否多发一些电。Oilprice于9月15日的报道讨论了人工智能负荷给供电系统带来的新要求。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmyz3752866.d.html",
+      "time": "1789554529"
     },
     {
-      "title": "多家国有大行旗下村镇银行清零",
-      "intro": "文|《财经》记者 陈洪杰 编辑|张颖馨 近年来，不少曾经为填补县域金融服务空白而设立的村镇银行，借助“村改支”等方式整体并入母行，实现独立法人资格有序退出。",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzmc4911803.d.html",
-      "time": "1789535778"
+      "title": "MHMarkets迈汇:黄金为何未随制造业降温走强",
+      "intro": "9月16日，经济数据低于预期，黄金却没有出现明显的避险买盘。Kitco于9月15日报道，纽约州制造业调查指数由20.6降至7.6，表现弱于预估。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmyx4786382.d.html",
+      "time": "1789554401"
     },
     {
-      "title": "香港施政报告：争尽快落实REITs纳入互联互通 推进黄金及数字资产代币化交易",
-      "intro": "香港行政长官李家超今日发表施政报告，报告中提及将于年内提交条例修订草案，简化房地产投资信托基金（REITs）的私有化及重组程序...",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzky3375740.d.html",
-      "time": "1789535272"
+      "title": "广发基金李耀柱：关注AI基础设施产业链中长期紧缺环节 警惕短期紧缺领域的估值风险",
+      "intro": " 9月16日，由新浪财经主办的AI投资峰会在北京举行，主题为“AI基建时代的确定性机会”，广发基金权益投资总监、国际业务部总经理李耀柱出席并参与圆桌讨论。",
+      "url": "https://finance.sina.cn/fund/jjsy/2026-09-16/detail-inirzmyx4787780.d.html",
+      "time": "1789554362"
     },
     {
-      "title": "香港施政报告：拟立法规管AI金融诈骗 严控生成式AI风险",
-      "intro": "香港行政长官李家超今日发表施政报告，在人工智能与创科方面，李家超提出为实现“技术向善、安全可控”，政务司司长统筹AI风险治理工作。",
-      "url": "https://finance.sina.cn/hkstock/gggd/2026-09-16/detail-iniryzma2961399.d.html",
-      "time": "1789535257"
+      "title": "广发基金李耀柱：超节点是万亿参数大模型时代的必然趋势，系统级优化蕴含投资机会",
+      "intro": " 9月16日，由新浪财经主办的AI投资峰会在北京举行，主题为“AI基建时代的确定性机会”，广发基金权益投资总监、国际业务部总经理李耀柱出席并参与圆桌讨论。",
+      "url": "https://finance.sina.cn/fund/jjyc/2026-09-16/detail-inirzmyw2840104.d.html",
+      "time": "1789554321"
     },
     {
-      "title": "香港施政报告：邀请广深企业参与大学城建设 河套大湾区国际临床试验所投入运作",
-      "intro": "香港行政长官李家超在今日的施政报告中表示，北部都会区建设从蓝图转向实体落地，新田、洪水桥及打鼓岭三个大学城的校园区总面积约三百公顷，连同科技区...",
-      "url": "https://finance.sina.cn/hkstock/gggd/2026-09-16/detail-iniryzmc4906916.d.html",
-      "time": "1789535245"
+      "title": "主线确认！A股这一赛道将上演大级别行情？",
+      "intro": "来源：证券市场周刊市场号 文 |尚扬 9月16日，A股沪综指、深成指、创业板指相继微幅低开且盘初集体走低，但此后在一众“硬科技”带领下成功完成低开高走...",
+      "url": "https://finance.sina.cn/2026-09-16/detail-inirzmyx4786875.d.html",
+      "time": "1789554313"
     },
     {
-      "title": "香港施政报告：香港优化上市制度 探索REITs现货市场与科技融合",
-      "intro": "为进一步完善股票市场制度并巩固国际金融中心地位，香港行政长官李家超今日在施政报告中提出以下改革方向： • 精简上市流程：将就精简招股章程披露要求展开咨询...",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzma2961261.d.html",
-      "time": "1789535243"
-    },
-    {
-      "title": "香港施政报告：深化全球离岸人民币业务 推出多项新机制并筹备纳入港股通",
-      "intro": " 香港行政长官李家超今日发表施政报告，为巩固和提升香港国际金融中心地位，他宣布将坚持国际定位，重点深化全球离岸人民币业务市场发展，具体举措包括：",
-      "url": "https://finance.sina.cn/2026-09-16/detail-iniryzkw6602563.d.html",
-      "time": "1789535227"
+      "title": "NCE平台:单笔交易扩容打开应用设计空间",
+      "intro": "9月16日，有些链上操作无法一次完成，原因并非计算速度，而是交易能携带的信息有限。Cointelegraph于9月15日报道，Solana将单笔交易上限由1232字节扩大至4096字节。",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-09-16/detail-inirzmzc0521566.d.html",
+      "time": "1789554215"
     }
   ]
 }
