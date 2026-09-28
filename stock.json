@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T14:16:59.195Z",
+  "updated": "2026-09-28T16:19:47.584Z",
   "indices": [
     {
       "code": "sh000001",
@@ -301,94 +301,94 @@
   ],
   "news": [
     {
-      "title": "AI巨头定价策略分化：Anthropic折扣刚性 OpenAI更灵活",
-      "intro": " Anthropic正在面向企业客户展现强硬议价姿态：一旦客户用完合同内采购的Token额度，折扣立即失效。这一策略，给了OpenAI机会，采取更为灵活的定价方案。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initkxux9682014.d.html",
-      "time": "1790604988"
+      "title": "首席执行官被Meta挖角，MongoDB股价大幅下挫18%",
+      "intro": " Meta 挖角 MongoDB 首席执行官奇兰坦・“CJ”・德赛，由他执掌全新的 Meta 企业平台业务，受此消息影响，MongoDB（股票代码 MDB）股价下跌。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initmeax3469655.d.html",
+      "time": "1790612095"
     },
     {
-      "title": "上证指数跌1.67%险守3800点，光通信、光模块概念股走低 | 华宝基金3A日报（2026.9.28）",
-      "intro": "",
-      "url": "https://finance.sina.cn/fund/etf/2026-09-28/detail-initkxux9674431.d.html",
-      "time": "1790604454"
+      "title": "“我们回不去了”：埃尔‑埃里安称收益率将维持高位",
+      "intro": "经济学家穆罕默德・埃尔‑埃里安周一表示，即便伊朗战争落幕、油价回落，美国国债收益率仍大概率维持高位。 这位安联集团首席经济顾问在采访中称...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initmeax3467644.d.html",
+      "time": "1790611841"
     },
     {
-      "title": "美国财政部长贝森特聘请华尔街经济学家大卫・泽沃斯",
-      "intro": "核心要点此前未对外披露的人事任命：大卫・泽沃斯将出任财政部长斯科特・贝森特的顾问。泽沃斯在杰富瑞任职超过 15 年，长期研究美联储政策与金融市场。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initkxuw2901073.d.html",
-      "time": "1790604391"
+      "title": "Meta聘请MongoDB首席执行官领导新的企业级AI平台",
+      "intro": "Meta Platforms挖角MongoDB总裁兼首席执行官Chirantan “CJ” Desai，负责领导面向企业客户的新人工智能平台。该平台被Meta首席执行官马克·扎克伯格视为公司“下一大业",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initmeau2831720.d.html",
+      "time": "1790611481"
     },
     {
-      "title": "摩根大通交易团队在非农报告公布前放弃对美股的谨慎立场 转为看多",
-      "intro": "摩根大通交易部门将对美股的观点从“战术中性”上调至“看多”，认为经济数据和企业盈利将支撑市场延续强势。 由美国市场情报主管Andrew Tyler领衔的交易团队表示...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initkxut8397900.d.html",
-      "time": "1790604320"
+      "title": "SpaceX星舰首次入轨并部署26颗V3星链卫星 公司CFO称其为“创收飞行”",
+      "intro": " SpaceX巨型星舰火箭周一早晨首次进入轨道，为该项目取得重要里程碑。此前，火箭在上升过程中一台发动机失效，一度令此次任务能否继续面临不确定性。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initmear8305457.d.html",
+      "time": "1790611432"
     },
     {
-      "title": "视频 | 对话李黔：AI未来的发展一定最终落脚于应用场景",
-      "intro": "《可持续发展焦点对话》是上海财经大学滴水湖高级金融学院打造的深度访谈栏目，栏目聚焦产业变革、科技创新与企业可持续发展，探索中国企业的成长路径与创新实践...",
-      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-28/detail-initkxut8395263.d.html",
-      "time": "1790603942"
+      "title": "特朗普拒绝伊朗提议令油价上涨 美债市场抛售加剧",
+      "intro": "美国总统特朗普拒绝伊朗重开霍尔木兹海峡的最新提议令油价上涨，从而加剧市场对通胀的担忧，美国国债跌势加深。 抛售推动多数美国国债收益率在周一上午上涨10个基点...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initmear8304430.d.html",
+      "time": "1790611272"
     },
     {
-      "title": "金信基金评市场：节前避险集中释放，科技成长高位承压",
-      "intro": "事件：9月28日，A股在中秋假期后首个交易日低开低走，上证指数收盘跌1.67%，创业板指跌4.53%。三大指数集体收跌，全市场超4500只个股下跌，成交较前一交易日明显放大。",
-      "url": "https://finance.sina.cn/2026-09-28/detail-initkxux9662932.d.html",
-      "time": "1790603500"
+      "title": "三大不利因素夹击 纳斯达克100指数下挫",
+      "intro": "科技股周一下挫，中东局势取得突破的希望减弱，加之通胀担忧升温，打击市场情绪。 纽约时间上午11：33，纳斯达克100指数下跌1.3%...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeax3462704.d.html",
+      "time": "1790610878"
     },
     {
-      "title": "广汽集团，重大资产重组预案来了！购买一汽丰田50%股权",
-      "intro": "广汽集团（601238）9月28日披露重大资产重组预案。 据公告，公司拟通过发行股份的方式购买一汽股份持有的一汽丰田汽车有限公司（简称“一汽丰田”）50%股权...",
-      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-28/detail-initkxut8391663.d.html",
-      "time": "1790603226"
+      "title": "交易员下调欧洲央行加息押注 预计10月加息概率不足40%",
+      "intro": "交易员降低了对欧洲央行连续加息的预期，目前预计10月加息的概率不到40%。此前欧洲央行行长克里斯蒂娜·拉加德表示，自央行上次会议以来走高的债券收益率将拖慢经济增长并制...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeax3462313.d.html",
+      "time": "1790610753"
     },
     {
-      "title": "泸州银行：张潇辞任联席公司秘书、授权代表",
-      "intro": "9月28日金融一线消息，泸州银行今日发布公告称，该行董事会宣布，联交所已确认明洋符合上市规则第3.28条所规定担任该行公司秘书的资格。",
-      "url": "https://finance.sina.cn/2026-09-28/detail-initkxuz3549452.d.html",
-      "time": "1790603178"
+      "title": "奥本海默：市场正迈向“新常态”",
+      "intro": "奥本海默（Oppenheimer）表示，市场距离进入 “新常态” 越来越近。 分析师约翰・斯托尔茨富斯周一在给客户的研报中写道：“在我们看来，近期油价与利率的波动...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeau2824286.d.html",
+      "time": "1790610324"
     },
     {
-      "title": "赢创拒绝巴斯夫103亿欧元收购报价",
-      "intro": " 赢创（Evonik）拒绝了其规模更大的德国竞争对手巴斯夫（BASF）提出的103亿欧元收购报价。在欧洲陷入困境的化工行业推动并购整合之际，这可能引发一场收购争夺战。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initkxut8389102.d.html",
-      "time": "1790603035"
+      "title": "德意志银行：科技股仍有上涨空间",
+      "intro": "德意志银行分析师认为，自 7 月底开启的科技股上涨行情，仍有继续上行的空间。 帕拉格・塔特与德意志银行团队在上周五发给客户的研报中写道：“巨型成长股（MCG）与科技板块...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeav9596295.d.html",
+      "time": "1790610254"
     },
     {
-      "title": "视频 | 对话李黔：全球电动化的浪潮与趋势不可逆转",
-      "intro": "精彩速览： “比亚迪的企业文化里最核心的八个字叫做‘技术为王，创新为本’。在过去比亚迪这30年间，不管是好的时候还是有困难的时候，王总都坚定不移的投研发。",
-      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-28/detail-initkxut8388347.d.html",
-      "time": "1790602924"
+      "title": "奥多比预测今年美国假日季线上购物将创历史新高",
+      "intro": "奥多比数据分析部门预计：11 月 1 日‑12 月 31 日美国线上销售额将达 2751 亿美元奥多比预计网络星期一仍将是本购物季线上消费规模最大的一天。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeau2811260.d.html",
+      "time": "1790608825"
     },
     {
-      "title": "刚刚，一万亿！史上最大回购来了",
-      "intro": "来源：中国基金报 【导读】史上最大规模的股份回购 中国基金报记者 泰勒 大家好啊，来关注一下史上最大规模的股份回购。 9月28日晚间，英伟达宣布...",
-      "url": "https://finance.sina.cn/2026-09-28/detail-initkxux9661906.d.html",
-      "time": "1790602730"
+      "title": "英伟达追加创纪录1500亿美元股票回购",
+      "intro": "董事会批准股份回购计划，回购总授权额度升至 2350 亿美元首席执行官黄仁勋表示，英伟达的增长由向 AI 的平台变革驱动。内容摘要：英伟达批准将股份回购计划增加 1500...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeau2809946.d.html",
+      "time": "1790608668"
     },
     {
-      "title": "ATFX本周前瞻:美国非农就业报告 美国PCE数据澳洲联储决议",
-      "intro": "▲ATFX表 本周五：非农就业报告9月28日，本周五20：30，美国劳工部统计局将公布九月份的非农就业报告，其中新增非农就业人口数据和失业率数据最受关注。",
-      "url": "https://finance.sina.cn/forex/hsxw/2026-09-28/detail-initkxux9653501.d.html",
-      "time": "1790602671"
+      "title": "OpenAI智能体将目标对准联合国网站",
+      "intro": "作者：沃尔登・肖 各位首席财务官早上好。如果你是财务从业者，或是负责风险管理，下面这件事进一步说明：你应当更加关注自主人工智能的行为表现。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeau2808439.d.html",
+      "time": "1790608493"
     },
     {
-      "title": "美股开盘：三大股指齐跌 油价与美债收益率双双走高",
-      "intro": "受油价跳涨、美债收益率上行拖累，周一主要股指低开，市场开启新一周交易。 道指跌0.71%，标普500指数跌0.44%，纳指跌0.48%。 纽曼矿业跌4.97%，现在服务跌4.00%...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initkxux9649843.d.html",
-      "time": "1790602229"
+      "title": "你的下一场公关危机，或许就藏在专利局档案之中",
+      "intro": "此外：深度解析普拉达的奢华运营策略 —— 把顶级大客户打造成更高消费力群体 作者：纳特・艾夫斯， 欢迎回来。过去少有人关注的专利申请文件...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeax3449030.d.html",
+      "time": "1790608197"
     },
     {
-      "title": "*ST华幸：与产业投资人签署重整投资协议",
-      "intro": "人民财讯9月28日电，*ST华幸（600340）9月28日公告，近日，经与中选重整投资人磋商，公司已与杭州骋风而来、南阳木兰花、杭州骋风而来指定的投资主体杭州骋风而今企业管理...",
-      "url": "https://finance.sina.cn/2026-09-28/detail-initkxuz3541983.d.html",
-      "time": "1790601960"
+      "title": "特朗普将公布爱荷华州150亿美元钢铁项目规划",
+      "intro": "在共和党中期选举选情承压之际，总统对外抛出这份政绩成果快速概要：特朗普总统将宣布总部位于明尼苏达州的梅萨比金属公司（Mesabi Metallics）计划...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeax3447783.d.html",
+      "time": "1790608036"
     },
     {
-      "title": "天宸股份大宗交易成交760.00万股 成交额3306.00万元",
-      "intro": "天宸股份9月28日大宗交易平台出现一笔成交，成交量760.00万股，成交金额3306.00万元，大宗交易成交价为4.35元，相对今日收盘价溢价1.16%。",
-      "url": "https://finance.sina.cn/2026-09-28/detail-initkxux9646648.d.html",
-      "time": "1790601895"
+      "title": "OpenAI、Anthropic等AI科研负责人联名呼吁加强监管 警惕AI智能体失控",
+      "intro": "OpenAI、Anthropic、Meta以及微软的研究负责人呼吁政策制定者，调查各家企业在AI研究自动化方面已经达到的程度，行业普遍呼吁加强对这项快速迭代技术的监管...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-28/detail-initmeau2801211.d.html",
+      "time": "1790607662"
     }
   ]
 }
