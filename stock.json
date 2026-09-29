@@ -1,57 +1,57 @@
 {
-  "updated": "2026-09-29T06:30:16.767Z",
+  "updated": "2026-09-29T13:39:29.716Z",
   "indices": [
     {
       "code": "sh000001",
       "name": "じ",
-      "price": 3839.5067,
-      "change": 0.41547270668014796,
-      "changeAmount": 15.886099999999715,
+      "price": 3830.4513,
+      "change": 0.17864481638162474,
+      "changeAmount": 6.830699999999979,
       "open": 3816.1536,
-      "high": 3842.6257,
+      "high": 3843.8375,
       "low": 3810.8116,
-      "volume": 342495215,
-      "amount": 570058379959,
-      "time": "2026-09-29 14:30:05"
+      "volume": 399473391,
+      "amount": 661704292801,
+      "time": "2026-09-29 15:35:28"
     },
     {
       "code": "sz399001",
       "name": "",
-      "price": 12939.278,
-      "change": 0.6262271310445082,
-      "changeAmount": 80.52499999999964,
+      "price": 12901.947,
+      "change": 0.33591126604577837,
+      "changeAmount": 43.193999999999505,
       "open": 12839.611,
       "high": 12955.254,
       "low": 12831.873,
-      "volume": 41470579402,
-      "amount": 642436199151.637,
-      "time": "2026-09-29 14:30:06"
+      "volume": 48269806213,
+      "amount": 747493244834.227,
+      "time": "2026-09-29 15:00:03"
     },
     {
       "code": "sz399006",
       "name": "谍",
-      "price": 3153.217,
-      "change": 0.4265205863384195,
-      "changeAmount": 13.39200000000028,
+      "price": 3142.563,
+      "change": 0.08720231223078624,
+      "changeAmount": 2.7380000000002838,
       "open": 3136.527,
       "high": 3158.91,
       "low": 3128.479,
-      "volume": 10952165489,
-      "amount": 306128677266.23,
-      "time": "2026-09-29 14:30:06"
+      "volume": 12905890864,
+      "amount": 356509837181.19,
+      "time": "2026-09-29 15:00:03"
     },
     {
       "code": "sh000688",
       "name": "�50",
-      "price": 1572.1947,
-      "change": 1.0420632547813646,
-      "changeAmount": 16.214300000000094,
+      "price": 1569.3384,
+      "change": 0.858494104424463,
+      "changeAmount": 13.358000000000175,
       "open": 1558.6575,
-      "high": 1575.7891,
+      "high": 1576.5513,
       "low": 1548.7405,
-      "volume": 6591911,
-      "amount": 55537578369,
-      "time": "2026-09-29 14:30:05"
+      "volume": 7516951,
+      "amount": 64529947382,
+      "time": "2026-09-29 15:35:40"
     }
   ],
   "sectors": [],
@@ -59,26 +59,26 @@
     {
       "code": "sz301716",
       "name": "N鸿富诚",
-      "price": 601.02,
-      "change": 681.967,
-      "changeAmount": 524.16,
+      "price": 578.88,
+      "change": 653.162,
+      "changeAmount": 502.02,
       "open": 600,
       "high": 630.01,
       "low": 558.58,
-      "volume": 9833709,
-      "turnover": 5822395732
+      "volume": 10528330,
+      "turnover": 6231355537
     },
     {
       "code": "bj920202",
       "name": "N安达",
-      "price": 27.43,
-      "change": 263.311,
-      "changeAmount": 19.88,
+      "price": 26.16,
+      "change": 246.49,
+      "changeAmount": 18.61,
       "open": 21,
       "high": 34.9,
       "low": 21,
-      "volume": 21695050,
-      "turnover": 609543294
+      "volume": 23014895,
+      "turnover": 644052496
     },
     {
       "code": "bj920779",
@@ -89,8 +89,8 @@
       "open": 23.04,
       "high": 28.4,
       "low": 22.31,
-      "volume": 5930780,
-      "turnover": 159511448
+      "volume": 6044344,
+      "turnover": 162736666
     },
     {
       "code": "sz301560",
@@ -101,8 +101,8 @@
       "open": 28.91,
       "high": 33.88,
       "low": 28.13,
-      "volume": 14196797,
-      "turnover": 452878837
+      "volume": 14291897,
+      "turnover": 456100825
     },
     {
       "code": "sh688685",
@@ -113,8 +113,8 @@
       "open": 33.74,
       "high": 39.7,
       "low": 33.2,
-      "volume": 8693323,
-      "turnover": 325511460
+      "volume": 8871597,
+      "turnover": 332588937
     },
     {
       "code": "sh688655",
@@ -125,8 +125,8 @@
       "open": 61.9,
       "high": 75.7,
       "low": 61.68,
-      "volume": 13540634,
-      "turnover": 949098947
+      "volume": 13593750,
+      "turnover": 953119828
     },
     {
       "code": "sz301190",
@@ -137,8 +137,8 @@
       "open": 26,
       "high": 29.94,
       "low": 24.5,
-      "volume": 20790298,
-      "turnover": 588548262
+      "volume": 20931698,
+      "turnover": 592781778
     },
     {
       "code": "sz301513",
@@ -149,70 +149,82 @@
       "open": 42.99,
       "high": 51.42,
       "low": 42.99,
-      "volume": 2887505,
-      "turnover": 140814974
+      "volume": 2940105,
+      "turnover": 143519666
     },
     {
       "code": "sz301282",
       "name": "金禄电子",
-      "price": 45.61,
-      "change": 13.94,
-      "changeAmount": 5.58,
+      "price": 45.49,
+      "change": 13.64,
+      "changeAmount": 5.46,
       "open": 39.69,
       "high": 46.04,
       "low": 39.47,
-      "volume": 17699715,
-      "turnover": 777591854
+      "volume": 20200354,
+      "turnover": 891279375
     },
     {
-      "code": "sz300746",
-      "name": "汉嘉数智",
-      "price": 16.94,
-      "change": 13.235,
-      "changeAmount": 1.98,
-      "open": 14.84,
-      "high": 17.14,
-      "low": 14.81,
-      "volume": 16916750,
-      "turnover": 274801670
+      "code": "sz300917",
+      "name": "特发服务",
+      "price": 36.18,
+      "change": 13.488,
+      "changeAmount": 4.3,
+      "open": 33.3,
+      "high": 36.62,
+      "low": 32.1,
+      "volume": 30251303,
+      "turnover": 1045757627
     }
   ],
   "losers": [
     {
       "code": "sz301686",
       "name": "C中塑",
-      "price": 198.08,
-      "change": -14.499,
-      "changeAmount": -33.59,
+      "price": 192.06,
+      "change": -17.098,
+      "changeAmount": -39.61,
       "open": 225,
       "high": 230,
-      "low": 198.08,
-      "volume": 3585867,
-      "turnover": 761628818
-    },
-    {
-      "code": "bj920229",
-      "name": "世纪数码",
-      "price": 50.01,
-      "change": -10.505,
-      "changeAmount": -5.87,
-      "open": 54.8,
-      "high": 56.56,
-      "low": 49.66,
-      "volume": 4347011,
-      "turnover": 227745500
+      "low": 191.66,
+      "volume": 4633191,
+      "turnover": 964909788
     },
     {
       "code": "bj920025",
       "name": "凯达重工",
-      "price": 13.61,
-      "change": -10.461,
-      "changeAmount": -1.59,
+      "price": 13.24,
+      "change": -12.895,
+      "changeAmount": -1.96,
       "open": 14.23,
       "high": 15.1,
-      "low": 13.33,
-      "volume": 15779307,
-      "turnover": 222561791
+      "low": 13.2,
+      "volume": 19062232,
+      "turnover": 266604820
+    },
+    {
+      "code": "bj920229",
+      "name": "世纪数码",
+      "price": 49.14,
+      "change": -12.062,
+      "changeAmount": -6.74,
+      "open": 54.8,
+      "high": 56.56,
+      "low": 49.07,
+      "volume": 5311374,
+      "turnover": 275449741
+    },
+    {
+      "code": "bj920201",
+      "name": "百瑞吉",
+      "price": 46.03,
+      "change": -11.498,
+      "changeAmount": -5.98,
+      "open": 50,
+      "high": 54.5,
+      "low": 45.26,
+      "volume": 3395803,
+      "turnover": 169549475
     },
     {
       "code": "sz002717",
@@ -223,8 +235,20 @@
       "open": 0.69,
       "high": 0.69,
       "low": 0.69,
-      "volume": 16188300,
-      "turnover": 11169927
+      "volume": 17957200,
+      "turnover": 12390468
+    },
+    {
+      "code": "sh600815",
+      "name": "厦工股份",
+      "price": 3.77,
+      "change": -10.024,
+      "changeAmount": -0.42,
+      "open": 3.88,
+      "high": 3.98,
+      "low": 3.77,
+      "volume": 183025534,
+      "turnover": 698680903
     },
     {
       "code": "sh600371",
@@ -235,8 +259,20 @@
       "open": 13.19,
       "high": 13.42,
       "low": 12.84,
-      "volume": 32337549,
-      "turnover": 417886281
+      "volume": 34042949,
+      "turnover": 439783617
+    },
+    {
+      "code": "sz001234",
+      "name": "泰慕士",
+      "price": 28.67,
+      "change": -10.013,
+      "changeAmount": -3.19,
+      "open": 30.85,
+      "high": 32.53,
+      "low": 28.67,
+      "volume": 20060532,
+      "turnover": 586646112
     },
     {
       "code": "sh603396",
@@ -247,8 +283,8 @@
       "open": 38.51,
       "high": 39.25,
       "low": 35.28,
-      "volume": 14265097,
-      "turnover": 512600495
+      "volume": 14793497,
+      "turnover": 531242447
     },
     {
       "code": "sz001368",
@@ -259,136 +295,100 @@
       "open": 39.72,
       "high": 39.72,
       "low": 37.62,
-      "volume": 1641200,
-      "turnover": 62451622
-    },
-    {
-      "code": "sh601579",
-      "name": "会稽山",
-      "price": 37.66,
-      "change": -9.99,
-      "changeAmount": -4.18,
-      "open": 41.43,
-      "high": 41.43,
-      "low": 37.66,
-      "volume": 6682100,
-      "turnover": 258177438
-    },
-    {
-      "code": "sh600127",
-      "name": "金健米业",
-      "price": 13.36,
-      "change": -9.973,
-      "changeAmount": -1.48,
-      "open": 13.6,
-      "high": 14.08,
-      "low": 13.36,
-      "volume": 94901818,
-      "turnover": 1278912849
-    },
-    {
-      "code": "sh603823",
-      "name": "百合花",
-      "price": 42.7,
-      "change": -9.973,
-      "changeAmount": -4.73,
-      "open": 46,
-      "high": 46.01,
-      "low": 42.69,
-      "volume": 23284130,
-      "turnover": 1001619081
+      "volume": 1761500,
+      "turnover": 66977308
     }
   ],
   "news": [
     {
-      "title": "SK海力士扩大合作伙伴支持计划，最高预付一半研发资金",
-      "intro": "SK海力士近日宣布将扩大对合作伙伴的支持计划，其中包括预先提供最高相当于研发费用50%的资金支持。 该计划是在周一举行的一场活动上宣布的...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmwm2923114.d.html",
-      "time": "1790663214"
+      "title": "建设银行攀枝花分行被罚55.57万元：违反账户管理规定等",
+      "intro": "9月29日金融一线消息，中国人民银行攀枝花市分行行政处罚决定信息公示表显示，中国建设银行股份有限公司攀枝花分行因违反金融统计相关规定；违反账户管理规定；违反信用信...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatt7646100.d.html",
+      "time": "1790688990"
     },
     {
-      "title": "长安期货范磊：美伊谈判悬而未决 长假警惕外盘波动",
-      "intro": "近期原油价格波动幅度十分剧烈。自美国在本月初重启对伊朗的军事行动以后，内盘SC原油价格在中东运费飙涨以及近月交割品短缺预期的影响下持续冲高...",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-29/detail-initnmwm2922061.d.html",
-      "time": "1790663148"
+      "title": "视频 | 对话李黔：企业发展需要产品技术和资本的双翼",
+      "intro": "精彩速览： “比亚迪是新能源综合解决方案的提供者，除了光伏、储能、新能源，比亚迪还是个垂直整合的科技类公司，有电池、半导体、算法AI。",
+      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-29/detail-initpatt7646015.d.html",
+      "time": "1790688981"
     },
     {
-      "title": "OpenAI将成立澳大利亚专项工作组，回应AI模型越权访问政府网站事件",
-      "intro": "OpenAI宣布将在澳大利亚成立专项工作组，并向当地政府和企业提供资金及技术支持，以加强针对高能力AI智能体的安全防护。此前，OpenAI披露其模型曾以未经授权的方式访问多个...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmwm2921277.d.html",
-      "time": "1790663094"
+      "title": "中国银行枣庄分行被罚4万元：违反信用信息提供相关管理规定",
+      "intro": "9月29日金融一线消息，中国人民银行枣庄市分行行政处罚决定信息公示表显示，中国银行股份有限公司枣庄分行因违反信用信息提供相关管理规定...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatt7644745.d.html",
+      "time": "1790688836"
     },
     {
-      "title": "高盛将1000亿美元国债基金接入加密行业机构级基础设施",
-      "intro": "高盛正让数字资产公司能够接触其规模最大的国债基金之一，同时并未为其创建代币化版本。 该行规模约1000亿美元的国债基金FTIXX正在获得一个新的分销渠道...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmwm2921102.d.html",
-      "time": "1790663081"
+      "title": "开盘：三大股指高开，油价、收益率回落，科技股上涨",
+      "intro": "美股主要股指高开，美债收益率与油价双双下行，股市迎来亟需的喘息窗口。 道指跌0.10%，标普500指数涨0.13%，纳指涨0.28%。 科技股领涨大盘，AMD、英伟达分别上涨 1%、0...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initpauc2928417.d.html",
+      "time": "1790688658"
     },
     {
-      "title": "ST宝馨立案调查与业绩预告违规叠加，索赔通道开启",
-      "intro": " 据ST宝馨公告，2026年1月30日，公司及实际控制人收到中国证监会《立案告知书》（证监立案字0102026006号等），本次立案或与此前控股股东及关联方非经营性资金占用有关。",
-      "url": "https://finance.sina.cn/stock/ssgs/2026-09-29/detail-initnmwi6149545.d.html",
-      "time": "1790663073"
+      "title": "安徽郎溪农村商业银行被罚3万元：违反支付结算管理规定",
+      "intro": "9月29日金融一线消息，中国人民银行宣城市分行行政处罚决定信息公示表显示，安徽郎溪农村商业银行因违反支付结算管理规定，被中国人民银行宣城市分行警告...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatz2802556.d.html",
+      "time": "1790688650"
     },
     {
-      "title": "*ST卓然连续四年财务造假，投资者可登记评估维权可行性",
-      "intro": " 据*ST卓然公告，2025年12月19日，公司及实际控制人收到证监会《立案告知书》（证监立案字0032025031号、032号），因涉嫌信息披露违法违规被立案。",
-      "url": "https://finance.sina.cn/stock/ssgs/2026-09-29/detail-initnmwi6149072.d.html",
-      "time": "1790663071"
+      "title": "安徽马鞍山农村商业银行被罚84.5万元：提供个人不良信息未事先告知信息主体本人等",
+      "intro": "9月29日金融一线消息，中国人民银行马鞍山市分行行政处罚决定信息公示表显示，安徽马鞍山农村商业银行因违反金融统计相关规定；违反账户管理规定；违反反假货币业务管理规...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatz6152590.d.html",
+      "time": "1790688552"
     },
     {
-      "title": "Anthropic招股书曝光：去年营收暴涨12倍 三分之一篇幅警告风险",
-      "intro": " Anthropic近日向一小部分合作方传阅了期待已久的IPO招股说明书，在文件中正式向投资者发出警示：该公司技术或将带来“关乎人类生存的风险”。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmwi6147921.d.html",
-      "time": "1790663035"
+      "title": "Rosenblatt维持AMD“买入”评级：收购World Labs补齐AI系统能力，机器人或成新增长点",
+      "intro": "Rosenblatt在AMD宣布收购World Labs后，维持对公司“买入”评级和700美元目标价。该机构认为，这笔交易的意义并不只是扩大AMD的AI业务，而是帮助公司补强软件...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initpauc2924815.d.html",
+      "time": "1790688517"
     },
     {
-      "title": "UniCredit最快明年1月接管德国商业银行，拟全面改组监事会",
-      "intro": "UniCredit正准备最快于明年1月取得德国商业银行（Commerzbank）的控制权，并计划在接管后全面改组其监事会。如果交易推进，这将成为全球金融危机以来欧洲规模最大的银行并...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmvz7816200.d.html",
-      "time": "1790663030"
+      "title": "687天，一组迟到的罚单背后的信披温差",
+      "intro": "来源：行家券业 687天，一组迟到的罚单背后的信披温差 整整687天，是一张罚单从作出到公开的距离。重庆证监局官网在今年9月24日公开挂出对华创期货及多名责任认定行政处罚...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatt7643645.d.html",
+      "time": "1790688497"
     },
     {
-      "title": "翻倍牛股“变脸”！昨天涨停，今天1分钟跌停",
-      "intro": " 9月29日上午，A股缩量震荡，午前拉升翻红。上证指数上涨0.08%，深证成指上涨0.41%，创业板指上涨0.34%，科创综指上涨0.69%。",
-      "url": "https://finance.sina.cn/stock/ggyj/2026-09-29/detail-initnmwi2975182.d.html",
-      "time": "1790662977"
+      "title": "安徽望江农村商业银行被罚66.1万元：违反金融科技管理规定等",
+      "intro": "9月29日金融一线消息，中国人民银行安庆市分行行政处罚决定信息公示表显示，安徽望江农村商业银行因违反金融统计相关规定；违反商户管理规定；违反反假货币业务管理规定；...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatz2801047.d.html",
+      "time": "1790688417"
     },
     {
-      "title": "Anthropic IPO前 交易所的永续合约几乎无动于衷",
-      "intro": " Anthropic招股说明书显示，尽管公司亏损严重，但仍计划进行巨额支出。即便如此，加密货币交易所上的IPO前永续合约几乎没有波动。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmvz7815339.d.html",
-      "time": "1790662957"
+      "title": "Polymarket聘请高盛资深人士曼蒂尔，意在吸引华尔街流动性",
+      "intro": "核心要点 Polymarket 在周二正式官宣前透露，已拥有近 30 年从业经历的高盛资深员工莉萨・曼蒂尔加盟，担任机构业务增长负责人。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initpatt7640612.d.html",
+      "time": "1790688286"
     },
     {
-      "title": "英伟达想把GPU变成“可投资产”，正拉保险公司一起为AI融资兜底",
-      "intro": "英伟达正与保险公司讨论新的风险分担方案，希望降低围绕其芯片融资的信用风险，从而让更多中小型AI基础设施运营商获得资金支持。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initnmwi2974033.d.html",
-      "time": "1790662892"
+      "title": "建设银行滁州市分行被罚48.1万元：违反金融统计相关规定等",
+      "intro": "9月29日金融一线消息，中国人民银行滁州市分行行政处罚决定信息公示表显示，中国建设银行股份有限公司滁州市分行因违反金融统计相关规定；违反反假货币业务管理规定；占压...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpatz6149473.d.html",
+      "time": "1790688278"
     },
     {
-      "title": "大叶股份业绩预告严重失实，维权登记通道现已开放",
-      "intro": "据大叶股份（300879）公告，2026年3月，公司修正2025年度业绩预告，归母净利润预计亏损由此前1000万至2000万元扩大至4000万至6000万元，最高亏损额扩大三倍。",
-      "url": "https://finance.sina.cn/stock/ssgs/2026-09-29/detail-initnmwi6148437.d.html",
-      "time": "1790662756"
+      "title": "科创板历史上最大IPO来了！日赚3.7亿，长江存储正在敲科创板的大门",
+      "intro": "来源：翠鸟资本 科创板历史上最大的IPO来了。 8月21日，长江存储控股的上市申请获上交所受理，拟募资330亿元，刷新科创板开板以来的募资纪录。",
+      "url": "https://finance.sina.cn/stock/xg/xgzx/2026-09-29/detail-initpatz6159176.d.html",
+      "time": "1790688260"
     },
     {
-      "title": "长川科技提前确认收入信披违规，受损股民可依法主张赔偿",
-      "intro": " 据浙江证监局行政监管措施决定书，2025年1月，浙江证监局对长川科技（300604）及董事长兼总经理、副总经理、财务总监、董事会秘书出具警示函并记入证券期货市场诚信档案。",
-      "url": "https://finance.sina.cn/stock/ssgs/2026-09-29/detail-initnmwi6147880.d.html",
-      "time": "1790662754"
+      "title": "视频 | 对话李黔：比亚迪一直以来都拥有国际化公司的基因",
+      "intro": "精彩速览： “从电动大巴驶入伦敦街头，成为斯坦福大学的校车，到数以百万计的乘用车热销全球各地，再到在欧洲、东南亚、南美实现本地化生产...",
+      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-29/detail-initpatz6147592.d.html",
+      "time": "1790688130"
     },
     {
-      "title": "*ST亿通成功摘帽，投资者索赔持续进行中",
-      "intro": " 2026年9月25日，*ST亿通（300211）发布公告，公司股票交易自2026年9月29日开市起撤销退市风险警示，股票简称由“*ST亿通”恢复为“亿通科技”。",
-      "url": "https://finance.sina.cn/stock/ssgs/2026-09-29/detail-initnmwi6147349.d.html",
-      "time": "1790662751"
+      "title": "国会立法停滞，众议院议长约翰逊表示希望AI监管“护栏”采取自愿模式",
+      "intro": "核心要点尽管行业巨头与部分议员紧急呼吁出台举措防范 AI 安全风险，但美国国会的人工智能监管立法仍处于起步阶段。AI 企业高管近期警告...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-29/detail-initpatt7639305.d.html",
+      "time": "1790688127"
     },
     {
-      "title": "海南华铁索赔递交立案，符合要求还可加入",
-      "intro": " 近日，上海沪紫律师事务所刘鹏律师团队已提交投资者案件至法院立案，现等待法院审理中，受损投资者还可加入。（刘鹏律师专栏）",
-      "url": "https://finance.sina.cn/stock/ssgs/2026-09-29/detail-initnmwm2919369.d.html",
-      "time": "1790662750"
+      "title": "河北高碑店农村商业银行被罚33万元：违反信用信息采集、提供、查询及相关管理规定",
+      "intro": "9月29日金融一线消息，中国人民银行保定市分行行政处罚决定信息公示表显示，河北高碑店农村商业银行因违反信用信息采集、提供、查询及相关管理规定...",
+      "url": "https://finance.sina.cn/2026-09-29/detail-initpauc2919402.d.html",
+      "time": "1790688060"
     }
   ]
 }
