@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:00:09.945Z",
+  "updated": "2026-10-02T06:33:00.872Z",
   "indices": [
     {
       "code": "sh000001",
@@ -55,7 +55,128 @@
     }
   ],
   "sectors": [],
-  "gainers": [],
+  "gainers": [
+    {
+      "code": "sz001246",
+      "name": "N力勤",
+      "price": 65.09,
+      "change": 206.594,
+      "changeAmount": 43.86,
+      "open": 65,
+      "high": 84.85,
+      "low": 65,
+      "volume": 117885162,
+      "turnover": 8345390509
+    },
+    {
+      "code": "sz301190",
+      "name": "善水科技",
+      "price": 35.93,
+      "change": 20.007,
+      "changeAmount": 5.99,
+      "open": 33.2,
+      "high": 35.93,
+      "low": 33.2,
+      "volume": 14466104,
+      "turnover": 510373314
+    },
+    {
+      "code": "sh688185",
+      "name": "康希诺",
+      "price": 102.64,
+      "change": 20.005,
+      "changeAmount": 17.11,
+      "open": 86.44,
+      "high": 102.64,
+      "low": 85.67,
+      "volume": 10661744,
+      "turnover": 1065144349
+    },
+    {
+      "code": "sh688806",
+      "name": "泰诺麦博",
+      "price": 30.67,
+      "change": 19.992,
+      "changeAmount": 5.11,
+      "open": 25.35,
+      "high": 30.67,
+      "low": 25.35,
+      "volume": 12037504,
+      "turnover": 350550251
+    },
+    {
+      "code": "sz300893",
+      "name": "松原安全",
+      "price": 15.13,
+      "change": 19.984,
+      "changeAmount": 2.52,
+      "open": 12.76,
+      "high": 15.13,
+      "low": 12.76,
+      "volume": 22522648,
+      "turnover": 323471626
+    },
+    {
+      "code": "sh688265",
+      "name": "南模生物",
+      "price": 64.98,
+      "change": 19.867,
+      "changeAmount": 10.77,
+      "open": 54.99,
+      "high": 65.05,
+      "low": 54,
+      "volume": 6711332,
+      "turnover": 412269918
+    },
+    {
+      "code": "sz301218",
+      "name": "华是科技",
+      "price": 69.75,
+      "change": 15.845,
+      "changeAmount": 9.54,
+      "open": 61.81,
+      "high": 72,
+      "low": 60,
+      "volume": 24198144,
+      "turnover": 1608252150
+    },
+    {
+      "code": "bj920344",
+      "name": "三元基因",
+      "price": 24.35,
+      "change": 15.787,
+      "changeAmount": 3.32,
+      "open": 21.11,
+      "high": 26.46,
+      "low": 20.88,
+      "volume": 13381057,
+      "turnover": 319936959
+    },
+    {
+      "code": "sz301080",
+      "name": "百普赛斯",
+      "price": 141.07,
+      "change": 14.691,
+      "changeAmount": 18.07,
+      "open": 120.51,
+      "high": 141.07,
+      "low": 120.47,
+      "volume": 20941125,
+      "turnover": 2810188959
+    },
+    {
+      "code": "sh688137",
+      "name": "近岸蛋白",
+      "price": 160.39,
+      "change": 13.47,
+      "changeAmount": 19.04,
+      "open": 135.7,
+      "high": 168.03,
+      "low": 132.5,
+      "volume": 10428439,
+      "turnover": 1584774846
+    }
+  ],
   "losers": [
     {
       "code": "sz301139",
@@ -180,94 +301,94 @@
   ],
   "news": [
     {
-      "title": "10年期美债收益率创2022年以来最大单月涨幅",
-      "intro": " 债市即将迎来历史表现偏弱的月份。10 年期美国国债收益率周四徘徊于 2002 年以来高位附近，此前该收益率已经连续七个月环比上行。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfv5095202.d.html",
-      "time": "1790866705"
+      "title": "Truist上调HPE目标价至75美元：网络业务协同与AI需求被市场低估",
+      "intro": "Truist Securities将惠普企业HPE目标价从70美元上调至75美元，并维持“买入”评级。该机构认为，公司网络业务正在加快整合并释放协同效应...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initviif1399795.d.html",
+      "time": "1790922243"
     },
     {
-      "title": "新规首日，大V、小V合作全面叫停，嘉实、易方达等率先披露第三方平台营销名单",
-      "intro": "【导读】新规落地首日，“大V”“小V、MCN均被叫停，行业“从严执行”成共识 来源：中国基金报 记者 闫军 备受关注的《金融产品网络营销管理办法》（以下简称新规）已于9月30日...",
-      "url": "https://finance.sina.cn/stock/ggyj/2026-10-01/detail-inittvfv5095517.d.html",
-      "time": "1790866499"
+      "title": "马斯克称特斯拉大幅下调AI5和AI6芯片内存规格",
+      "intro": "特斯拉首席执行官埃隆·马斯克周四表示，为了扩大生产规模，这家电动汽车巨头已下调了其下一代“擎天柱”机器人芯片的内存规格。此前，美光科技曾指出...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initviif1397965.d.html",
+      "time": "1790922080"
     },
     {
-      "title": "全球债市抛售潮又一里程碑 10年期美债收益率触及二十四年新高",
-      "intro": "美国基准国债收益率升至2002年以来最高水平，标志着全球主权债数月抛售潮的又一里程碑。 10年期国债收益率周四一度升破2007年的高点至5.34%。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvhc8051351.d.html",
-      "time": "1790866430"
+      "title": "Evercore上调埃森哲目标价至250美元：AI订单加速增长，托管服务预订创新高",
+      "intro": "Evercore ISI维持埃森哲“跑赢大盘”评级，并将目标价上调至250美元。该机构认为，公司最新季度业绩和订单表现好于预期，而AI相关业务的加速增长进一步提高了对未来收入和盈...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initviim7398833.d.html",
+      "time": "1790922063"
     },
     {
-      "title": "美银：美股情绪指标接近“卖出”信号",
-      "intro": "美国银行对美股的卖方指标从9月的56.4%升至57.2%，为2022年3月以来最高水平，距离“卖出”信号仅差0.3个百分点。 该指标追踪卖方策略师的平均股票配置建议。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvhc8050822.d.html",
-      "time": "1790866284"
+      "title": "长飞光纤光缆午后涨超3% 星展上调至“买入”评级",
+      "intro": "长飞光纤光缆（06869）午后涨超3%，截至发稿，股价上涨3.33%，报173.70港元，成交额4.73亿港元。 星展发布研报指出，将长飞光纤光缆评级由“估值已充分”上调至“买入”...",
+      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-10-02/detail-initviif1397225.d.html",
+      "time": "1790922008"
     },
     {
-      "title": "比特币迎来一位出人意料的新多头",
-      "intro": " 比特币领域迎来一位意外的看多机构：花旗集团。花旗分析师亚历克斯・桑德斯周四将比特币（BTC‑USD）基准情景目标价从 82000 美元上调至 113000 美元。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfv5091491.d.html",
-      "time": "1790866127"
+      "title": "Freedom Broker维持美光“买入”:2027至2028年供需或比今年更紧，目标价1600美元",
+      "intro": "Freedom Broker维持美光“买入”评级和1600美元目标价。分析师Egor Tolmachev认为，美光2026财年第四季度业绩以及2027财年第一季度指引均好于预期，更重要的是...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initviim7398070.d.html",
+      "time": "1790921909"
     },
     {
-      "title": "曾坦言“当飞行员并非第一选择” FlyDubai机长负伤救险获誉英雄",
-      "intro": "FlyDubai机长Smit Machchhar在驾驶舱内遭刺伤后采取行动，帮助避免了一场灾难。然而，他最初甚至没打算成为飞行员。 当时，他还在印度为家族的纺织企业工作...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvhc8047828.d.html",
-      "time": "1790865577"
+      "title": "金川国际午后涨超8% 上半年纯利同比大增约7.7倍至4781.6万美元",
+      "intro": " 金川国际（02362）午后涨超8%，该股于上一交易日复牌，当日收涨25%。截至发稿，股价上涨8.18%，现报0.86港元，成交额8030.97万港元。",
+      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-10-02/detail-initviim7397946.d.html",
+      "time": "1790921895"
     },
     {
-      "title": "美国要求欧洲180天释放1.2亿桶柴油储备，试图以此替代出口禁令",
-      "intro": " 特朗普政府正在推动欧洲大规模释放战略柴油储备，试图通过增加全球供应压低柴油价格，并避免直接实施美国柴油出口禁令。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvhc8045948.d.html",
-      "time": "1790865237"
+      "title": "法国国债创欧元问世来最差季度表现 政经挑战动摇投资人信心",
+      "intro": "在欧元问世以来的大部分时间里，投资人一直认为，法国终究能撑过政治和经济挑战，仍是相对安全的投资标的。如今，这种信念已开始动摇。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initviim7396587.d.html",
+      "time": "1790921656"
     },
     {
-      "title": "美国制造业扩张速度略有放缓 原料价格指标升至5月以来最高",
-      "intro": "美国制造业9月扩张速度略有放缓，尽管需求强劲，工厂仍面临成本回升、运输延误等问题。 美国供应管理学会（ISM）周四公布的数据显示，制造业指数下降0.1点至54.5。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfx1853719.d.html",
-      "time": "1790864821"
+      "title": "博通启动600亿美元融资 为Anthropic等公司采购芯片提供资金",
+      "intro": "知情人士称，博通的华尔街银行团开始筹集600亿美元新的AI芯片融资，受益者包括Anthropic等公司。 知情人士表示，参与这笔巨额债务融资的银行准备就其中420亿美元的A类高级...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initviim7396173.d.html",
+      "time": "1790921593"
     },
     {
-      "title": "存储芯片短缺持续 三星电子上调大部分Galaxy S26系列手机售价",
-      "intro": " 三星电子上调了Galaxy S26系列大部分智能手机的售价。在存储芯片持续短缺之际，这是消费科技品牌将成本转嫁给消费者的最新例子。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfv5081068.d.html",
-      "time": "1790864802"
+      "title": "博雷顿午后大涨超27% 公司深化非洲矿业合作计划明年迈向规模化盈利",
+      "intro": "博雷顿（01333）盘中大涨超33%，截至发稿，股价上涨27.05%，现报20.48港元，成交额3858.43万港元。 近期，博雷顿与因霍伊投资（私人）有限公司签署合作意向书。",
+      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-10-02/detail-initviif1382137.d.html",
+      "time": "1790920563"
     },
     {
-      "title": "美国供应管理学会9月份制造业指数降至54.5 预估为55.0",
-      "intro": "制造业指数报54.5， 预估为55.0。 接受调查的58位经济学家的预测区间为53.8至56.0 企业活动指数降至54.5， 前一个月为54.6 新订单指数升至55.3， 前一个月为53...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfx1853295.d.html",
-      "time": "1790864780"
+      "title": "中环新能源午后涨逾11%创新高 上半年AI算力业务收入突破10亿元",
+      "intro": " 中环新能源（01735）午后涨逾11%，高见13.22港元，创历史新高。截至发稿，股价上涨10.46%，现报13.09港元，成交额2.78亿港元。",
+      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-10-02/detail-initviii5784077.d.html",
+      "time": "1790920457"
     },
     {
-      "title": "黄力晨:美联储年内加息预期 限制黄金反弹空间",
-      "intro": "10月1日，昨日周三我们认为，由于美联储官员发表偏鸽派讲话，美联储10月加息的预期出现降温，这支撑黄金价格反弹，不过市场对年内美联储还有一次加息的预期...",
-      "url": "https://finance.sina.cn/futuremarket/gjspl/2026-10-01/detail-inittvfz6436121.d.html",
-      "time": "1790864413"
+      "title": "营收暴涨1200%！Anthropic被曝即将冲刺IPO",
+      "intro": "（来源：央视财经） 据央视财经援引彭博社知情人士报道，Anthropic计划最快于11月中旬启动IPO，或在11月9日当周开始正式路演营销，争取在11月26日美国节假日前挂牌...",
+      "url": "https://finance.sina.cn/2026-10-02/detail-initviif1367260.d.html",
+      "time": "1790919289"
     },
     {
-      "title": "摩根士丹利下调苹果目标价至355美元：新iPhone定价压低利润假设，股价上涨后空间有限",
-      "intro": "摩根士丹利将苹果目标价从360美元小幅下调至355美元，同时维持“增持”评级。此次下调的核心原因并不是公司长期产品前景恶化，而是新一代iPhone定价低于此前预期...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfv5075310.d.html",
-      "time": "1790864176"
+      "title": "瑞士宝盛集团宣布6亿瑞郎股票回购计划",
+      "intro": " 瑞士宝盛集团宣布了一项价值至多6亿瑞士法郎（7.23亿美元）的股票回购计划，此前集团瑞士监管机构刚刚宣布结束对该公司长达数年的调查。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initvazm5903450.d.html",
+      "time": "1790918568"
     },
     {
-      "title": "花旗：美光科技财报可作为闪迪公司业绩的先行参考信号",
-      "intro": "美光科技周三交出超预期财报，花旗分析师预计，闪迪（SNDK）将受益于非易失性存储 ——NAND 闪存产品的旺盛需求。 花旗将闪迪目标价定为 2100 美元，较周三收盘价有近 20...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfv5074179.d.html",
-      "time": "1790864064"
+      "title": "花旗：小米集团-W维持“买入”评级 目标价34港元",
+      "intro": "花旗发布研报称，小米集团-W（01810）公布9月电动车交付量超过4万辆，该行维持“买入”评级及目标价34港元。 小米YU7新款GT车型交期已缩短至介于1至5周...",
+      "url": "https://finance.sina.cn/hkstock/ggpj/2026-10-02/detail-initvazi1491096.d.html",
+      "time": "1790918283"
     },
     {
-      "title": "税收优惠叠加股市收益，赛马市场创下历史纪录",
-      "intro": "核心要点全球规模最大的纯血马拍卖会总成交额创下 5.367 亿美元新高，很大程度得益于去年出台的多项税收减免政策。拍卖会上的标王是一匹带有白色脚斑的深枣色公马驹...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-01/detail-inittvfz6431960.d.html",
-      "time": "1790863734"
+      "title": "大摩：吉利汽车维持“增持”评级 目标价27港元",
+      "intro": " 大摩发布研报称，近期每周汽车数据亦显示，9月行业销售存在下行风险，主要原因是10月1日假期。该行予吉利汽车（00175）目标价27港元，给予“增持”评级。",
+      "url": "https://finance.sina.cn/hkstock/ggpj/2026-10-02/detail-initvazf4718547.d.html",
+      "time": "1790918280"
     },
     {
-      "title": "股市“吹哨人”，突然发声！“新债王”罕见警告，发生了什么？",
-      "intro": "市场压力越来越大！ 一些潜在疲软的预警信号开始在美股市场中显现。标普500指数整体虽接近历史高位，但晨星公司指出，该指数中近60%的个股较其自身高点以来的实际跌幅已达2...",
-      "url": "https://finance.sina.cn/stock/ggyj/2026-10-01/detail-inittvfx1850172.d.html",
-      "time": "1790863571"
+      "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
+      "intro": "转自：财联社 财联社10月2日讯（编辑 卞纯）北京时间周五晚20：30，美国劳工统计局将公布9月非农就业报告。届时，围绕美国劳动力市场现状的诸多疑问将得到解答。",
+      "url": "https://finance.sina.cn/2026-10-02/detail-initvazm5901490.d.html",
+      "time": "1790917891"
     }
   ]
 }
