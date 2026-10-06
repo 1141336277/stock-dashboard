@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:18:59.519Z",
+  "updated": "2026-10-06T14:37:54.100Z",
   "indices": [
     {
       "code": "sh000001",
@@ -301,6 +301,48 @@
   ],
   "news": [
     {
+      "title": "美国8月贸易逆差大幅扩大 达1056亿美元",
+      "intro": " 美国商务部周二报告称，由于与人工智能基础设施建设相关的商品大量涌入，以及进口关税的反复无常，美国8月贸易逆差大幅扩大。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewx5443096.d.html",
+      "time": "1791297211"
+    },
+    {
+      "title": "谷歌DeepMind首席AI“准备度”官：如何为未来做准备",
+      "intro": " 谷歌DeepMind首席AI“准备度”官莉拉·易卜拉欣可能是世界上唯一拥有这一头衔的人。她说，如果她不相信AI的天平最终会倒向积极一面，她就不会接受这一职位。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewv8669662.d.html",
+      "time": "1791297060"
+    },
+    {
+      "title": "以色列警告公民：10月7日前海外遇袭风险上升",
+      "intro": "以色列国家安全委员会表示，随着2023年10月7日袭击事件周年临近，海外以色列人和犹太人遇袭风险上升。 当局建议公众提高警惕，避免在社交媒体上发布旅行计划详情...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiexc5403290.d.html",
+      "time": "1791296825"
+    },
+    {
+      "title": "Meta推出Muse利好AMD，AI浪潮重心转向个人智能代理",
+      "intro": "核心要点个人智能代理热潮带动 AMD 与英特尔股价走强。今年及过去一个月，两家公司表现跑赢其他大型科技巨头。作为中央处理器（CPU）头部研发厂商...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewx5440212.d.html",
+      "time": "1791296706"
+    },
+    {
+      "title": "派拉蒙天舞完成收购华纳兄弟探索 好莱坞历史性交易落定",
+      "intro": " 派拉蒙天舞周二完成以1，100亿美元收购华纳兄弟探索的交易。在与奈飞公司激烈争夺控制权并抵御反垄断诉讼后，这宗史上规模最大的媒体并购交易之一终于落幕。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewx5439782.d.html",
+      "time": "1791296626"
+    },
+    {
+      "title": "增长陷入停滞，芭比玩具生产商美泰面临投资者施压，被要求考虑出售公司",
+      "intro": "核心要点美泰一名主要股东表示，公司应当研究被潜在收购方收购的可能性。这家芭比玩具制造商近年深陷销售额与盈利水平下滑困境。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewv8666875.d.html",
+      "time": "1791296558"
+    },
+    {
+      "title": "派拉蒙历经艰难收购华纳兄弟探索公司，交易于周二完成。事件完整始末",
+      "intro": "核心要点派拉蒙以 1100 亿美元收购华纳兄弟探索公司，该项收购于周二完成交割。合并后的新公司命名为天箭（Skydance），股票代码SKYD。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiexc5401703.d.html",
+      "time": "1791296399"
+    },
+    {
       "title": "深红州堪萨斯为何意外成为参议院选举争夺战场",
       "intro": "核心要点堪萨斯州意外成为参议院摇摆战场。2024 年特朗普在此州以 16 个百分点优势取胜，如今全国共和党却要投入数百万美元，为本州共和党参议员罗杰・马歇尔护航。",
       "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewy6675071.d.html",
@@ -317,6 +359,12 @@
       "intro": "新浪财经讯，10月6日晚间消息，在格林威治经济论坛期间，桥水基金创始人瑞·达利欧（Ray Dalio）在接受采访时表示，美国正在走向一场债务危机，随着政府债务规模持续上升...",
       "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuiewx5436350.d.html",
       "time": "1791296064"
+    },
+    {
+      "title": "深夜，美股续创新高！",
+      "intro": "美股三大指数集体高开，道琼斯指数涨0.36%，标普500指数涨0.47%，纳斯达克综合指数涨0.57%续创新高。标普500指数开盘后快速冲高，创历史新高，日内一度涨幅达0.6%...",
+      "url": "https://finance.sina.cn/stock/ggyj/2026-10-06/detail-iniuiexc5402551.d.html",
+      "time": "1791296016"
     },
     {
       "title": "美联储10月加息预期降低？机构详解",
@@ -341,54 +389,6 @@
       "intro": "核心要点高盛表示，柴油价格可能需要在 2027 年前维持高位，以此抑制市场需求。高盛预测，2027 年全球柴油与航空煤油裂解价差均值将高于每桶 40 美元...",
       "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyrf5524938.d.html",
       "time": "1791295002"
-    },
-    {
-      "title": "可灵AI被曝最早明年赴港上市，募资至少10亿美元",
-      "intro": " 10月6日，据外媒报道，快手（1024.HK）旗下的可灵AI已经为香港首次公开募股（IPO）选定了合作银行，此次上市可能募资至少10亿美元。",
-      "url": "https://finance.sina.cn/china/gjcj/2026-10-06/detail-iniuhyqz5552189.d.html",
-      "time": "1791294191"
-    },
-    {
-      "title": "英伟达支持的Reflection AI发布首款前沿开源权重模型Beam",
-      "intro": " Reflection AI正式推出其首款前沿开源权重模型Beam。这家成立两年、总部位于布鲁克林的初创企业称，Beam在高级推理基准测试上性能对标主流开源模型，同时成本大幅降低。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyqz5549090.d.html",
-      "time": "1791293848"
-    },
-    {
-      "title": "法国AI初创企业Mistral发布欧洲最强开源大模型",
-      "intro": "Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列。 这家法国企业介绍，Mistral Large 4（简称ML4，代号le Chonk）是拥有1万亿参数的大模型...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyra6792951.d.html",
-      "time": "1791293685"
-    },
-    {
-      "title": "开盘：油价、收益率回落提振美股高开，标普500有望再创收盘历史新高",
-      "intro": "受科技龙头股上涨、美债收益率与油价下行推动，标普 500 指数周二走高，冲击全新收盘纪录。 道指涨0.38%，标普500指数涨0.46%，纳指涨0.64%。 芯片板块走强助推大盘上行。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyrf5518140.d.html",
-      "time": "1791293447"
-    },
-    {
-      "title": "派拉蒙击败奈飞成功收购华纳 好莱坞超级媒体帝国诞生",
-      "intro": " 派拉蒙于当地时间周二完成收购华纳兄弟探索公司的交易，科技大亨David Ellison由此掌控庞大媒体帝国，手握好莱坞众多顶级优质IP。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyqx8771727.d.html",
-      "time": "1791293061"
-    },
-    {
-      "title": "美国8月贸易逆差达1056亿美元，创去年特朗普关税政策落前以来新高",
-      "intro": " 美国商务部周二公布数据：受人工智能产业建设相关商品大量进口，叠加进口关税政策波动影响，美国 8 月贸易逆差大幅扩大。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyrf5514826.d.html",
-      "time": "1791292415"
-    },
-    {
-      "title": "机构调研超600家公司！电子、半导体成主攻方向",
-      "intro": " Wind数据显示，9月1日至9月30日，机构调研步履不停，在节前密集走访超600家上市公司，其中57家公司获50家以上机构青睐。",
-      "url": "https://finance.sina.cn/stock/ggyj/2026-10-06/detail-iniuhyqx8769262.d.html",
-      "time": "1791292278"
-    },
-    {
-      "title": "美国8月份贸易逆差扩大至1056亿美元 预估为逆差1021亿美元",
-      "intro": "美国商务部公布，8月份贸易逆差扩大至1056亿美元，前月为逆差928.3亿美元。 46名经济学家对贸易余额的预期区间为逆差1100亿美元至逆差830亿美元。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-06/detail-iniuhyrf5510776.d.html",
-      "time": "1791291552"
     }
   ]
 }
