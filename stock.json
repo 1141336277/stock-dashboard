@@ -1,57 +1,57 @@
 {
-  "updated": "2026-10-23T05:38:55.517Z",
+  "updated": "2026-10-23T10:51:11.074Z",
   "indices": [
     {
       "code": "sh000001",
       "name": "じ",
-      "price": 3644.1024,
-      "change": -0.38062062769598237,
-      "changeAmount": -13.923199999999724,
+      "price": 3690.4753,
+      "change": 0.8870823648691829,
+      "changeAmount": 32.44970000000012,
       "open": 3623.5669,
-      "high": 3658.1757,
+      "high": 3691.3988,
       "low": 3574.2712,
-      "volume": 400102435,
-      "amount": 630304082512,
-      "time": "2026-10-23 13:38:50"
+      "volume": 552842912,
+      "amount": 898666874902,
+      "time": "2026-10-23 15:35:30"
     },
     {
       "code": "sz399001",
       "name": "",
-      "price": 11480.761,
-      "change": 1.086893834715754,
-      "changeAmount": 123.44200000000092,
+      "price": 11673.826,
+      "change": 2.7868108661912165,
+      "changeAmount": 316.5069999999996,
       "open": 11187.548,
-      "high": 11520.301,
+      "high": 11707.147,
       "low": 11043.313,
-      "volume": 50166688911,
-      "amount": 753647709181.071,
-      "time": "2026-10-23 13:38:48"
+      "volume": 69011837385,
+      "amount": 1057590968719.301,
+      "time": "2026-10-23 15:00:03"
     },
     {
       "code": "sz399006",
       "name": "谍",
-      "price": 2629.659,
-      "change": 2.047342913057206,
-      "changeAmount": 52.758000000000266,
+      "price": 2684.097,
+      "change": 4.159880414497894,
+      "changeAmount": 107.19600000000037,
       "open": 2534.156,
-      "high": 2640.864,
+      "high": 2695.076,
       "low": 2494.215,
-      "volume": 15788742097,
-      "amount": 379649987799.08,
-      "time": "2026-10-23 13:38:48"
+      "volume": 22287599758,
+      "amount": 534483185404.39,
+      "time": "2026-10-23 15:00:03"
     },
     {
       "code": "sh000688",
       "name": "�50",
-      "price": 1316.4988,
-      "change": 0.8136854951679494,
-      "changeAmount": 10.625700000000052,
+      "price": 1345.5146,
+      "change": 3.035631869589775,
+      "changeAmount": 39.64149999999995,
       "open": 1287.8749,
-      "high": 1319.3417,
+      "high": 1353.3193,
       "low": 1257.287,
-      "volume": 7042057,
-      "amount": 65222215431,
-      "time": "2026-10-23 13:38:50"
+      "volume": 10444456,
+      "amount": 96902723394,
+      "time": "2026-10-23 15:35:42"
     }
   ],
   "sectors": [],
@@ -59,14 +59,26 @@
     {
       "code": "bj920285",
       "name": "N远大",
-      "price": 38.47,
-      "change": 89.507,
-      "changeAmount": 18.17,
+      "price": 35.32,
+      "change": 73.99,
+      "changeAmount": 15.02,
       "open": 30.21,
       "high": 47.66,
       "low": 30.21,
-      "volume": 16163162,
-      "turnover": 563024999
+      "volume": 17439270,
+      "turnover": 610523835
+    },
+    {
+      "code": "bj920207",
+      "name": "众诚科技",
+      "price": 28.34,
+      "change": 30,
+      "changeAmount": 6.54,
+      "open": 21.45,
+      "high": 28.34,
+      "low": 21.45,
+      "volume": 13251054,
+      "turnover": 333465755
     },
     {
       "code": "bj920091",
@@ -77,20 +89,8 @@
       "open": 25.25,
       "high": 33.51,
       "low": 25.12,
-      "volume": 2285411,
-      "turnover": 69753709
-    },
-    {
-      "code": "bj920211",
-      "name": "新睿电子",
-      "price": 95.8,
-      "change": 22.35,
-      "changeAmount": 17.5,
-      "open": 76.2,
-      "high": 95.85,
-      "low": 76.07,
-      "volume": 1493143,
-      "turnover": 129119974
+      "volume": 2763361,
+      "turnover": 85769813
     },
     {
       "code": "sz300584",
@@ -101,8 +101,8 @@
       "open": 29.1,
       "high": 32.08,
       "low": 28.56,
-      "volume": 9329981,
-      "turnover": 290139927
+      "volume": 9545431,
+      "turnover": 297051563
     },
     {
       "code": "sz301660",
@@ -113,82 +113,82 @@
       "open": 27.02,
       "high": 33.64,
       "low": 27.02,
-      "volume": 113869820,
-      "turnover": 3564686481
+      "volume": 115440852,
+      "turnover": 3617535997
     },
     {
-      "code": "sz300561",
-      "name": "汇金科技",
-      "price": 15.6,
+      "code": "sh688071",
+      "name": "华依科技",
+      "price": 47.52,
       "change": 20,
-      "changeAmount": 2.6,
-      "open": 12.9,
-      "high": 15.6,
-      "low": 12.51,
-      "volume": 27416900,
-      "turnover": 401402327
+      "changeAmount": 7.92,
+      "open": 38.16,
+      "high": 47.52,
+      "low": 37.6,
+      "volume": 16710518,
+      "turnover": 703291917
     },
     {
-      "code": "sz301313",
-      "name": "凡拓数创",
-      "price": 61.44,
+      "code": "sh688368",
+      "name": "晶丰明源",
+      "price": 105.96,
       "change": 20,
-      "changeAmount": 10.24,
-      "open": 50.69,
-      "high": 61.44,
-      "low": 49.55,
-      "volume": 30305515,
-      "turnover": 1635352397
+      "changeAmount": 17.66,
+      "open": 90,
+      "high": 105.96,
+      "low": 88.62,
+      "volume": 10863114,
+      "turnover": 1043694649
     },
     {
-      "code": "sz301502",
-      "name": "华阳智能",
-      "price": 64.8,
+      "code": "sh688787",
+      "name": "海天瑞声",
+      "price": 141,
       "change": 20,
-      "changeAmount": 10.8,
-      "open": 58,
-      "high": 64.8,
-      "low": 57.84,
-      "volume": 3930200,
-      "turnover": 244769139
+      "changeAmount": 23.5,
+      "open": 111,
+      "high": 141,
+      "low": 111,
+      "volume": 10388925,
+      "turnover": 1295917342
     },
     {
-      "code": "sz301699",
-      "name": "洛轴股份",
-      "price": 33.42,
+      "code": "sh688836",
+      "name": "宇树科技",
+      "price": 624,
       "change": 20,
-      "changeAmount": 5.57,
-      "open": 27.3,
-      "high": 33.42,
-      "low": 27.01,
-      "volume": 24894666,
-      "turnover": 740479617
+      "changeAmount": 104,
+      "open": 502.02,
+      "high": 624,
+      "low": 502,
+      "volume": 8449663,
+      "turnover": 4769540358
     },
     {
-      "code": "bj920207",
-      "name": "众诚科技",
-      "price": 26,
-      "change": 19.266,
-      "changeAmount": 4.2,
-      "open": 21.45,
-      "high": 26.5,
-      "low": 21.45,
-      "volume": 7873347,
-      "turnover": 184997165
+      "code": "sz300296",
+      "name": "利亚德",
+      "price": 7.32,
+      "change": 20,
+      "changeAmount": 1.22,
+      "open": 6,
+      "high": 7.32,
+      "low": 5.91,
+      "volume": 648069472,
+      "turnover": 4223460555
     }
   ],
   "losers": [
     {
       "code": "sz002731",
       "name": "萃华退",
-      "price": 0.32,
-      "change": -58.442,
-      "changeAmount": -0.45,
+      "price": 0.31,
+      "change": -59.74,
+      "changeAmount": -0.46,
       "open": 0.34,
       "high": 0.38,
       "low": 0.3,
-      "volume": 40285722,
-      "turnover": 13187221
+      "volume": 49274841,
+      "turnover": 15987041
     },
     {
       "code": "sh688121",
@@ -199,196 +199,196 @@
       "open": 0.43,
       "high": 0.46,
       "low": 0.43,
-      "volume": 14531035,
-      "turnover": 6276349
-    },
-    {
-      "code": "sz300756",
-      "name": "金马游乐",
-      "price": 21.79,
-      "change": -20.007,
-      "changeAmount": -5.45,
-      "open": 26.66,
-      "high": 26.71,
-      "low": 21.79,
-      "volume": 17948898,
-      "turnover": 409217308
+      "volume": 19695113,
+      "turnover": 8501585
     },
     {
       "code": "sz300989",
       "name": "蕾奥规划",
-      "price": 11.91,
-      "change": -19.906,
-      "changeAmount": -2.96,
+      "price": 12.9,
+      "change": -13.248,
+      "changeAmount": -1.97,
       "open": 14.54,
       "high": 14.64,
       "low": 11.9,
-      "volume": 16909109,
-      "turnover": 210048736
+      "volume": 21218909,
+      "turnover": 264284133
+    },
+    {
+      "code": "sz300756",
+      "name": "金马游乐",
+      "price": 23.9,
+      "change": -12.261,
+      "changeAmount": -3.34,
+      "open": 26.66,
+      "high": 26.71,
+      "low": 21.79,
+      "volume": 30562548,
+      "turnover": 694462961
+    },
+    {
+      "code": "sz301139",
+      "name": "元道退",
+      "price": 0.68,
+      "change": -11.688,
+      "changeAmount": -0.09,
+      "open": 0.77,
+      "high": 0.77,
+      "low": 0.64,
+      "volume": 14097288,
+      "turnover": 10017772
+    },
+    {
+      "code": "sz301718",
+      "name": "C通则",
+      "price": 64.9,
+      "change": -11.084,
+      "changeAmount": -8.09,
+      "open": 61,
+      "high": 85.01,
+      "low": 58.36,
+      "volume": 22334660,
+      "turnover": 1515744616
     },
     {
       "code": "sz300627",
       "name": "华测导航",
-      "price": 22.16,
-      "change": -13.875,
-      "changeAmount": -3.57,
+      "price": 23,
+      "change": -10.61,
+      "changeAmount": -2.73,
       "open": 23.5,
       "high": 23.6,
       "low": 21.05,
-      "volume": 21058115,
-      "turnover": 460631748
+      "volume": 27707102,
+      "turnover": 613499343
     },
     {
-      "code": "sz300516",
-      "name": "久之洋",
-      "price": 32.8,
-      "change": -13.205,
-      "changeAmount": -4.99,
-      "open": 34.34,
-      "high": 35.78,
-      "low": 31.21,
-      "volume": 16638643,
-      "turnover": 554964623
+      "code": "sz000059",
+      "name": "华锦股份",
+      "price": 4.67,
+      "change": -10.019,
+      "changeAmount": -0.52,
+      "open": 4.67,
+      "high": 4.8,
+      "low": 4.67,
+      "volume": 64216400,
+      "turnover": 300225689
     },
     {
-      "code": "sz300272",
-      "name": "开能健康",
-      "price": 4.82,
-      "change": -12.839,
-      "changeAmount": -0.71,
-      "open": 5.41,
-      "high": 5.42,
-      "low": 4.65,
-      "volume": 22320367,
-      "turnover": 108625869
+      "code": "sz001368",
+      "name": "通达创智",
+      "price": 28.94,
+      "change": -10.012,
+      "changeAmount": -3.22,
+      "open": 29.93,
+      "high": 30.89,
+      "low": 28.94,
+      "volume": 2149000,
+      "turnover": 63385445
     },
     {
-      "code": "sz300970",
-      "name": "华绿生物",
-      "price": 12.96,
-      "change": -12.016,
-      "changeAmount": -1.77,
-      "open": 13.88,
-      "high": 13.92,
-      "low": 12.2,
-      "volume": 14614825,
-      "turnover": 187074357
-    },
-    {
-      "code": "sz301010",
-      "name": "晶雪节能",
-      "price": 21.28,
-      "change": -11.407,
-      "changeAmount": -2.74,
-      "open": 22,
-      "high": 22.79,
-      "low": 20.11,
-      "volume": 13975137,
-      "turnover": 296858866
-    },
-    {
-      "code": "sh688602",
-      "name": "康鹏科技",
-      "price": 6.63,
-      "change": -10.405,
-      "changeAmount": -0.77,
-      "open": 7.29,
-      "high": 7.3,
-      "low": 6.5,
-      "volume": 21650601,
-      "turnover": 146534938
+      "code": "sz002388",
+      "name": "新亚制程",
+      "price": 7.37,
+      "change": -10.012,
+      "changeAmount": -0.82,
+      "open": 7.37,
+      "high": 7.37,
+      "low": 7.37,
+      "volume": 7968800,
+      "turnover": 58730056
     }
   ],
   "news": [
     {
-      "title": "COINS法案利空解除？港股通创新药迅速反弹，520880标的指数午后冲击2%！机构提示“错杀”机遇",
-      "intro": "10月23日，港股通创新药探底回升，亚盛医药领涨超6%，权重股信达生物、康方生物涨超2%，翰森制药涨超4%，港股通创新药ETF华宝（520880）标的指数下探近3个月新低后反弹...",
-      "url": "https://finance.sina.cn/fund/etf/2026-10-23/detail-iniweuqu1978734.d.html",
-      "time": "1792733768"
+      "title": "CBCX:通胀环境重估黄金配置",
+      "intro": "10月23日，商品市场的分化正在改变黄金的讨论方式。CBCX提到，一家商品管理机构认为，价格上涨并不自动转化为黄金的短线支撑；当利率维持高位时...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffeq1968198.d.html",
+      "time": "1792752617"
     },
     {
-      "title": "火速拉升！金融科技ETF华宝（159851）领衔反攻，标的指数冲高4%！大智慧涨停，同花顺涨超10%",
-      "intro": "10月23日午后，金融科技板块领衔市场反攻，板块内大面积飘红。金融科技ETF华宝（159851）场内热度飙升明显，标的指数午后一度冲高逾4%，资金关注度较高。",
-      "url": "https://finance.sina.cn/fund/etf/2026-10-23/detail-iniweuqu1978276.d.html",
-      "time": "1792733726"
+      "title": "CPT Markets:成品油紧张考验加工弹性",
+      "intro": "10月23日，炼厂利用率保持高位，反映成品油端的供给约束仍在影响能源市场。CPT Markets表示，统计显示夏季平均开工率超过九成五，柴油等馏分油供应偏紧带来的利润信号...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffes2698334.d.html",
+      "time": "1792752530"
     },
     {
-      "title": "“旗手”异动护盘，华林证券涨停，东方财富涨超4%！券商ETF华宝（512000）标的指数涨逾1%",
-      "intro": " 10月23日，券商奋起护盘，华林证券涨停封板，华鑫股份涨超5%，东方财富涨超4%，首创证券、湘财股份等涨幅居前。券商ETF华宝（512000）标的指数涨逾1%。",
-      "url": "https://finance.sina.cn/fund/etf/2026-10-23/detail-iniweuqw2709298.d.html",
-      "time": "1792733710"
+      "title": "EasyMarkets易信:油价扰动下的金价承压",
+      "intro": "10月23日，黄金在最新交易中回落至阶段低位，市场同时面对油价上行与风险资产波动。EasyMarkets易信表示，能源成本抬升会强化通胀担忧，而金价并未因此自动走强...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffes2696953.d.html",
+      "time": "1792752445"
     },
     {
-      "title": "港股红利资产股息相对优势凸显，港股通红利ETF华泰柏瑞（513530）助力一键布局",
-      "intro": "受外围流动性扰动等因素影响，9月以来港股市场持续回调，10月23日早盘，港股开盘后震荡走高，市场情绪仍显谨慎。在此背景下，具备相对股息优势的港股红利资产价值有所显现...",
-      "url": "https://finance.sina.cn/2026-10-23/detail-iniweuqs4927587.d.html",
-      "time": "1792733447"
+      "title": "FPG财盛国际:炼化效率影响原油预期",
+      "intro": "10月23日，原油需求的观察不应只停留在库存总量，炼化效率同样提供关键信号。FPG财盛国际提到，最新资料显示炼厂夏季平均利用率超过九成五，较长期季节均值明显更高...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffeq1964385.d.html",
+      "time": "1792752339"
     },
     {
-      "title": "国泰君安期货：时隔一年，黄金再次向下破位",
-      "intro": "国泰君安期货市场分析师 张驰宁 Z0020302 历时近三个月，黄金期货主力合约于今日盘中完成阶段性低点下破，走出近一年来的新低。图片来源：同花顺期货通 用多维视角思考...",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-23/detail-iniweuqu1970741.d.html",
-      "time": "1792733115"
+      "title": "GO Markets:黄金配置需分清期限",
+      "intro": "10月23日，近期市场再次提醒，黄金的组合价值需要按时间维度拆开衡量。GO Markets表示，研究观点认为黄金可能受益于资产分散需求，但在股市承压的短时段...",
+      "url": "https://finance.sina.cn/forex/fxyc/2026-10-23/detail-iniwffes2694680.d.html",
+      "time": "1792752255"
     },
     {
-      "title": "建设银行石河子市分行被罚58.88万元：违反支付结算管理规定等",
-      "intro": "10月23日金融一线消息，中国人民银行石河子市分行行政处罚决定信息公示表显示，中国建设银行股份有限公司石河子市分行因违反支付结算管理规定；违反金融统计管理规定；违反...",
-      "url": "https://finance.sina.cn/2026-10-23/detail-iniweuqw2701348.d.html",
-      "time": "1792733041"
+      "title": "M4Markets:就业数据牵动黄金节奏",
+      "intro": "10月23日，最新周度就业数据公布后，金价未能摆脱压力。该平台提到，首次申领失业救济人数降至阶段低位，显示劳动力市场仍具韧性；这类数据会影响市场对利率维持时间的判断...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffes2693472.d.html",
+      "time": "1792752169"
     },
     {
-      "title": "沃尔沃汽车加大裁员力度 计划再裁员2500人",
-      "intro": "沃尔沃汽车计划再裁员 2500 人。沃尔沃周五发布季报时表示，本次裁员约占全球员工总数的 6%，裁员岗位大多位于瑞典。该举措目标节省 50 亿瑞典克朗（折合 5.04 亿美元）...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-23/detail-iniweuqq8147957.d.html",
-      "time": "1792732962"
+      "title": "M3.1Flash模型开源，MiniMax飙涨超16%！港股通信息技术ETF 华宝（159131）标的指数涨超2%",
+      "intro": "今日（10月23日），市场整体迎来反弹，科技板块表现亮眼。港股通信息技术ETF华宝（159131）标的指数日内一度冲高逾3%，收涨2.21%。",
+      "url": "https://finance.sina.cn/fund/etf/2026-10-23/detail-iniwffes2692306.d.html",
+      "time": "1792752102"
     },
     {
-      "title": "中国金融四十人论坛学术委员会主席蔡昉：人工智能对劳动力市场的冲击无法预判，当前要做好政策准备",
-      "intro": "10月23日金融一线消息，2026外滩年会“科技、地缘与全球经济”于2026年10月19-22日在上海市黄浦区召开。中国金融四十人论坛学术委员会主席...",
-      "url": "https://finance.sina.cn/insurance/hydt/2026-10-23/detail-iniweuqw2698642.d.html",
-      "time": "1792732802"
+      "title": "Mega安汇:黄金短线关注流动性",
+      "intro": "10月23日，在油价与风险资产同步波动的交易日，黄金出现较明显回落。Mega安汇提到，市场担忧能源价格推升通胀，但更高的收益率和避险现金需求同样会压制贵金属...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffen5090156.d.html",
+      "time": "1792752089"
     },
     {
-      "title": "永安财险武威中心支公司被罚2万元：违反人民币流通管理规定",
-      "intro": "10月23日金融一线消息，中国人民银行武威市分行行政处罚决定信息公示表显示，永安财 产保险股份有限公司武威中心支公司因违反人民币流通管理规定...",
-      "url": "https://finance.sina.cn/insurance/gsdt/2026-10-23/detail-iniweuqu1965997.d.html",
-      "time": "1792732668"
+      "title": "NCE平台:收益率框架下重看黄金",
+      "intro": "10月23日，黄金在资产组合中的定位，正被收益率环境重新检验。NCE平台提到，研究机构认为黄金可承担一定分散功能，但在权益市场急速回撤时并非天然的即时缓冲...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffes2690906.d.html",
+      "time": "1792752009"
     },
     {
-      "title": "中国社科院大学教授江小涓谈AI就业冲击",
-      "intro": "10月23日金融一线消息，2026外滩年会“科技、地缘与全球经济”于2026年10月19-22日在上海市黄浦区召开。中国社科院大学教授、国务院原副秘书长江小涓出席大会并参与圆桌讨论...",
-      "url": "https://finance.sina.cn/bank/yhgd/2026-10-23/detail-iniweuqs4916649.d.html",
-      "time": "1792732655"
+      "title": "沪金年内跌近13% 何时止跌？",
+      "intro": "证券日报之声 本报记者 贺王娟 10月23日，金价继续下跌，截至记者发稿时，国际金价方面，伦敦金现下跌0.18%，报4015.873美元/盎司，年内跌幅超7%；COMEX黄金下跌0.81%...",
+      "url": "https://finance.sina.cn/2026-10-23/detail-iniwffen5092253.d.html",
+      "time": "1792752002"
     },
     {
-      "title": "创业板指涨幅扩大至2%，早盘一度跌超3%",
-      "intro": " 10月23日消息，指数午后拉升，创业板指涨幅扩大至2%，深证成指涨1%。创指早盘一度跌超3%，宁德时代、中际旭创、新易盛、东方财富、同花顺等创业板权重股午后大幅拉升。",
-      "url": "https://finance.sina.cn/stock/ggyj/2026-10-23/detail-iniweuqs4917589.d.html",
-      "time": "1792732646"
+      "title": "快团团的“隐秘角落”：拼多多的私域棋子 0元帮卖售假泛滥，售后盲区投诉超3万条",
+      "intro": "出品：新浪财经上市公司研究院 作者：cici 快团团诞生于2020年3月，是拼多多推出的微信社群团购小程序。供货团长找到货源并在平台上架商品，帮卖团长将链接转发到微信群...",
+      "url": "https://finance.sina.cn/2026-10-23/detail-iniwffen5086572.d.html",
+      "time": "1792751963"
     },
     {
-      "title": "沃尔沃汽车第三季度营业亏损37亿瑞典克朗，计划裁员约2500人",
-      "intro": "沃尔沃汽车公司周五发表的财报显示，第三季度出现营业亏损，原因在于其新款电动SUV“EX60”的产能爬坡缓慢，且中国和美国市场的需求疲软，拖累了整体销量。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-23/detail-iniweuqs4915265.d.html",
-      "time": "1792732540"
+      "title": "OEXN:黄金回撤检验配置韧性",
+      "intro": "10月23日，近期金价走弱时，避险资产未必与股票回撤形成固定的反向关系。OEXN表示，相关研究认为，部分资金在压力环境下需要补充流动性，黄金持仓也可能被出售...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffeq1957560.d.html",
+      "time": "1792751894"
     },
     {
-      "title": "资金逆势加仓港股科技资产！恒生科技ETF华泰柏瑞（513130）单日成交额创8月上旬以来新高",
-      "intro": "近期，港股市场波动持续放大，交易情绪跌至冰点。在南向资金连续第7个交易日净（26/10/13-26/10/22）卖出的同时，恒生科技指数10月22日跌破3800点...",
-      "url": "https://finance.sina.cn/2026-10-23/detail-iniweuqu1964558.d.html",
-      "time": "1792732508"
+      "title": "奇迹逆转！物理AI点燃应用端，软件开发、科创AI指数涨超6%，光模块龙头绝地反击！港股硬科技止跌反弹",
+      "intro": "周五（10月23日），A股市场午后快速反弹，三大指数集体探底回升，创业板指涨超4%，此前一度跌超3%。两市A股成交额1.96万亿元，较前一交易日放量约4280亿元。",
+      "url": "https://finance.sina.cn/fund/etf/2026-10-23/detail-iniwffek8310953.d.html",
+      "time": "1792751853"
     },
     {
-      "title": "视频|李大霄：星星之火可以燎原",
-      "intro": "",
-      "url": "https://finance.sina.cn/2026-10-23/detail-iniweuqq8141425.d.html",
-      "time": "1792732450"
+      "title": "Vatee万腾:商品轮动重塑黄金角色",
+      "intro": "10月23日，在结构性通胀的讨论中，黄金不再被视作唯一的对冲工具。Vatee万腾表示，最新访谈把能源、农产品和工业金属视为更直接的成本驱动，而黄金的表现则更受利率环境...",
+      "url": "https://finance.sina.cn/futuremarket/qszx/2026-10-23/detail-iniwffeq1956378.d.html",
+      "time": "1792751808"
     },
     {
-      "title": "标的指数股息率重回3%，沪深300ETF华泰柏瑞（510300）单日成交额环比增长超146%",
-      "intro": "今日（26/10/23）早盘，A股主要指数延续震荡调整格局，市场情绪仍处于低位修复阶段。伴随前期调整，沪深300指数股息率自今年8月以来持续攀升，截至10月22日...",
-      "url": "https://finance.sina.cn/2026-10-23/detail-iniweuqq8141348.d.html",
-      "time": "1792732442"
+      "title": "五星新材IPO：净利润两年大降近七成 存货激增毛利率畸高 库存商品订单覆盖率仅6% 实控人亲戚跻身前五大客户",
+      "intro": "核心观点：五星新材营收两年下降42%，归母净利润两年大降近70%，其中2025年净利大降近50%。公司毛利率显著高于同行，但期间费用率低于同行可比公司。",
+      "url": "https://finance.sina.cn/stock/ssgs/2026-10-23/detail-iniwffes2687567.d.html",
+      "time": "1792751784"
     }
   ]
 }
