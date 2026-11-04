@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:37:34.842Z",
+  "updated": "2026-11-04T15:53:35.012Z",
   "indices": [
     {
       "code": "sh000001",
@@ -301,6 +301,24 @@
   ],
   "news": [
     {
+      "title": "星巴克重启节日专辑与手绘广告，助力咖啡馆氛围回归",
+      "intro": "早上好。星巴克（SBUX）全新节日营销活动，是又一例拥抱手工创意的商业案例。 品牌连续第二年推出节日动画短片，由艺术家杰夫・麦克费特里奇制作。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhu6615809.d.html",
+      "time": "1793807474"
+    },
+    {
+      "title": "AI安全初创企业Sentra融资1.5 亿美元，用于监管自主智能体",
+      "intro": "这家成立五年的数据安全平台，正乘着市场对行为可控的自主数字工具的旺盛需求风口前行Sentra 创始人，从左至右：约阿夫・雷格夫、亚伊尔・科恩、阿萨夫・科汉...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhs9967091.d.html",
+      "time": "1793807334"
+    },
+    {
+      "title": "Empower Brands发出非邀约收购要约，拟以16亿美元收购Helen of Troy",
+      "intro": " 该企业为 Spectrum Brands 旗下子公司，最新报价对 Helen of Troy 的估值为每股 37 美元，高于此前每股 34 美元的收购提议",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhk9243936.d.html",
+      "time": "1793807178"
+    },
+    {
       "title": "美国服务业增速降至三个月最低 成本压力持续",
       "intro": "美国服务业10月扩张速度降至三个月来最慢，成本压力持续存在。 美国供应管理学会（ISM）周三公布的数据显示，ISM服务业指数上月下降0.4点至54.5。",
       "url": "https://finance.sina.cn/china/gjcj/2026-11-04/detail-inixqxhs9962430.d.html",
@@ -371,24 +389,6 @@
       "intro": "要点速览薪资处理机构 ADP 周三公布，10 月私营部门企业新增就业岗位 8.6 万个，与上月修正后数据持平。就业增长遍及多个行业，贸易...",
       "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhu6590680.d.html",
       "time": "1793803161"
-    },
-    {
-      "title": "字节跳动扣子企业版11月30日起暂停新售",
-      "intro": "观点网讯：11月4日，字节跳动旗下AI开发平台“扣子”公告，为配合产品整合和套餐升级计划，扣子企业标准版、企业旗舰版将于2026年11月30日起暂停接受新客户购买。",
-      "url": "https://finance.sina.cn/stock/estate/2026-11-04/detail-inixqxhs9947022.d.html",
-      "time": "1793803140"
-    },
-    {
-      "title": "增量资金集结待入市，26家券商宣布中标，已披露金额近600亿元！",
-      "intro": "来源：中国基金报 【导读】26家券商中标第三批互换便利操作 中国基金报记者 孙越 央行开展的第三批证券、基金、保险公司互换便利（以下简称互换便利）操作结果正加速浮出水...",
-      "url": "https://finance.sina.cn/2026-11-04/detail-inixqxhs9942086.d.html",
-      "time": "1793802881"
-    },
-    {
-      "title": "开盘：三大股指齐涨，民主党大胜，消除政治不确定性风险",
-      "intro": " 三大股指高开，美国中期选举民主党取得决定性胜利，加之特朗普总统接受选举结果，悬在华尔街头上的政治不确定性风险得以消解。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhk9213974.d.html",
-      "time": "1793802708"
     }
   ]
 }
