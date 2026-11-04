@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:08:52.321Z",
+  "updated": "2026-11-04T15:37:34.842Z",
   "indices": [
     {
       "code": "sh000001",
@@ -12,7 +12,7 @@
       "low": 3590.7983,
       "volume": 599394361,
       "amount": 953265155867,
-      "time": "2026-11-04 15:08:42"
+      "time": "2026-11-04 15:35:30"
     },
     {
       "code": "sz399001",
@@ -51,7 +51,7 @@
       "low": 1149.0973,
       "volume": 13440425,
       "amount": 104520409134,
-      "time": "2026-11-04 15:08:45"
+      "time": "2026-11-04 15:35:42"
     }
   ],
   "sectors": [],
@@ -301,94 +301,94 @@
   ],
   "news": [
     {
-      "title": "埃森哲被指发布充斥AI幻觉的人工智能研究报告",
-      "intro": "埃森哲（Accenture）参与撰写的一份人工智能研究报告被发现充斥着虚假引文、错误的研究成果归属，以及疑似根本不存在的案例研究，引发外界指责称...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaau9433914.d.html",
-      "time": "1793776069"
+      "title": "美国服务业增速降至三个月最低 成本压力持续",
+      "intro": "美国服务业10月扩张速度降至三个月来最慢，成本压力持续存在。 美国供应管理学会（ISM）周三公布的数据显示，ISM服务业指数上月下降0.4点至54.5。",
+      "url": "https://finance.sina.cn/china/gjcj/2026-11-04/detail-inixqxhs9962430.d.html",
+      "time": "1793806499"
     },
     {
-      "title": "收评|国内期货主力合约跌多涨少 低硫燃料油（LU）跌超6%",
-      "intro": "2026年11月4日，午盘收盘，国内期货主力合约跌多涨少，低硫燃料油（LU）跌超6%，燃料油跌超5%，碳酸锂跌近4%，苯乙烯（EB）、纯苯、棕榈油、沥青、沪锡跌近3%。",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-04/detail-inixqaaw6205711.d.html",
-      "time": "1793775837"
+      "title": "国海证券前三季度投行手续费收入大降七成以上 两家在审IPO保荐项目成色几何？",
+      "intro": "出品：新浪财经上市公司研究院 作者：扈深北 近日，国海证券交出前三季度成绩单：营业收入28.74亿元，同比增长9.84%；归母净利润6.25亿元，同比下降11.35%。",
+      "url": "https://finance.sina.cn/stock/ssgs/2026-11-04/detail-inixqxhn6014734.d.html",
+      "time": "1793806467"
     },
     {
-      "title": "诺和诺德第三季度营业利润同比增长27%，Wegovy销售额远超预期",
-      "intro": "诺和诺德周三公布的季度财报表现优于预期，其中减肥药Wegovy的销售额远超市场预期。 这家丹麦减肥药制造商在经历动荡的一年——期间其表现落后于美国竞争对手礼来公司——之后...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaw6205461.d.html",
-      "time": "1793775823"
+      "title": "字节新规限制员工使用外部AI？知情人士回应",
+      "intro": "新浪科技讯11月4日晚间消息，据媒体报道，近日，字节跳动出台新规，将大面积限制Claude、Codex等个人账号的内部使用。 消息称，本月起...",
+      "url": "https://finance.sina.cn/chanjing/gsxw/2026-11-04/detail-inixqxhk9235629.d.html",
+      "time": "1793805792"
     },
     {
-      "title": "民主党赢得国会两院之际 伊朗议会议长称美国民众已发出“反对战争”的声音",
-      "intro": "伊朗议会议长穆罕默德·巴盖尔·卡利巴夫（Mohammad Bagher Ghalibaf）表示，美国民众已经明确表达了“反对战争”的立场。此前，美国中期选举结果预测显示...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaz8107405.d.html",
-      "time": "1793775705"
+      "title": "中英高等教育人文联盟第十届年度学术论坛在伦敦举行——立足区域研究共探人文合作新未来",
+      "intro": "当地时间2026年11月3日至4日，中英高等教育人文联盟第十届年度学术论坛在英国伦敦举行，由伦敦大学亚非学院（SOAS University of London）承办。",
+      "url": "https://finance.sina.cn/chanjing/gdxw/2026-11-04/detail-inixqxhk9235305.d.html",
+      "time": "1793805724"
     },
     {
-      "title": "“一场地震”：民主党大胜，德州政坛震动",
-      "intro": "得克萨斯州或许再也回不到从前了。 直到周二之前，这里还是全美人口最多的保守派大州。而民主党一举打破共和党对全州公职长达 32 年的垄断。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaz8106575.d.html",
-      "time": "1793775659"
+      "title": "美股必需消费品ETF创下历史新高",
+      "intro": "必需消费品 ETF（XLP）周三早盘刷新历史纪录。 该基金最新涨幅超 2%，受益于达乐公司（DLTR）、星座品牌（STZ）、雅诗兰黛（EL）、Dollar General（DG）...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhs9951228.d.html",
+      "time": "1793804428"
     },
     {
-      "title": "诺和诺德上调全年业绩指引，Wegovy减肥药片销量表现亮眼",
-      "intro": " 丹麦制药公司诺和诺德（Novo Nordisk）周三早些时候公布的季度业绩超出市场预期，主要得益于其Wegovy口服减肥药片销量远超预期。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaau9424361.d.html",
-      "time": "1793775541"
+      "title": "医疗巨头CVS 拟剥离药店业务，股价大跌10%",
+      "intro": "要点速览CVS 健康计划在 2028 年上半年拆分为两家独立上市公司，或将成为史上规模最大的企业分拆案例之一。此举相当于推翻公司斥资 780...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhs9950445.d.html",
+      "time": "1793804267"
     },
     {
-      "title": "Evercore ISI维持苹果“跑赢大盘”评级，目标价380美元，关注AI投入及供应链采购增长",
-      "intro": "11月4日，Evercore ISI在苹果（Apple）公布2026财年10-K年度报告后，重申其“跑赢大盘”评级，维持380美元目标价。按照最新股价331.90美元计算，潜在上涨空间约为14.5%。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaz8104561.d.html",
-      "time": "1793775514"
+      "title": "摩根大通：中期选举过后，科技股有望反弹",
+      "intro": " 周三美股低开高走，投资者消化中期选举结果。摩根大通交易台预计科技股将反弹，市场上涨行情不再只局限于少数巨型龙头个股。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhu6597054.d.html",
+      "time": "1793803969"
     },
     {
-      "title": "选民背弃特朗普，选票大幅转向民主党",
-      "intro": " 美国选民对唐纳德・特朗普总统给出了历史性的否定，这次反对力度自1974年以来前所未有。民主党在数十年来未曾拿下的选区大获全胜，一举掌控国会参众两院。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaau9420134.d.html",
-      "time": "1793775175"
+      "title": "SpaceX与高通签署协议 发展移动服务网络技术",
+      "intro": " SpaceX宣布与芯片制造商高通达成协议，为马斯克的Starlink Mobile服务提供关键网络技术；该服务是Verizon、AT&amp;T和T-Mobile的挑战者。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhu6597008.d.html",
+      "time": "1793803960"
     },
     {
-      "title": "首富的账单：民主党横扫两院，马斯克该怎么办？",
-      "intro": "来源：政史新视界 北京时间11月4日凌晨，中期选举结果出炉：民主党同时拿下参众两院。对大多数共和党人来说，这是一场败选；对马斯克来说，这是一张保险单作废的通知单。",
-      "url": "https://finance.sina.cn/2026-11-04/detail-inixqaaw6200348.d.html",
-      "time": "1793774944"
+      "title": "韩国股市，重大改革",
+      "intro": "继9月落地盘后交易后，韩国股市再度推进制度改革。 本周初，韩国交易所（KRX）、韩国证券存管院（KSD）、韩国证券金融公司（KSFC）及韩国金融投资协会（KOFIA）联合发布公...",
+      "url": "https://finance.sina.cn/2026-11-04/detail-inixqxhn6000496.d.html",
+      "time": "1793803916"
     },
     {
-      "title": "韩国10月进口汽车销量同比飙升近30%，特斯拉连续九个月位居榜首",
-      "intro": "周三公布的行业数据显示，韩国10月份进口汽车销量同比增长29.3%，主要得益于电动汽车的强劲需求。 据韩国汽车进口商和经销商协会（KAIDA）统计...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaw6192804.d.html",
-      "time": "1793774890"
+      "title": "美国修改发债指引 措辞微调为减发长久期做铺垫",
+      "intro": "美国财政部修改了自2024年初以来沿用至今的国库券和债券标售指引，可能以此为2027年削减最长期限债务的发行打开大门。 “根据当前测算的借款需求...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhn5996600.d.html",
+      "time": "1793803541"
     },
     {
-      "title": "飙涨9%！硬科技暴力反弹！半导体设备领衔大涨，拓荆科技20CM涨停！双创50ETF华宝（588330）资金关注度高企",
-      "intro": " 今日（11月4日）A股市场大反攻！覆盖创业板+科创板高成长龙头的硬科技宽基——双创50ETF华宝（588330）跟踪指数盘中飙涨9.15%，现涨9.02%，资金关注度持续高企！",
-      "url": "https://finance.sina.cn/fund/etf/2026-11-04/detail-inixqaaz8098272.d.html",
-      "time": "1793774884"
+      "title": "欧洲最新冰箱网络攻击事件：血库成为袭击目标",
+      "intro": "要点速览法国血液机构周三证实，血库已成为欧洲针对制冷设备网络攻击的最新受害对象。存放血液制品的冷藏设备遭到远程黑客入侵，设备温度被异常调高。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhn5994704.d.html",
+      "time": "1793803335"
     },
     {
-      "title": "全球主要铂金精炼商贺利氏被曝系统性低报贵金属含量，涉及全球450家客户",
-      "intro": "11月4日，一项独立调查发现，德国贵金属精炼巨头贺利氏（Heraeus）在为客户加工材料时，长期系统性低报其中的贵金属含量，导致客户最终获得的现金结算或精炼金属数量减少。...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaw6190655.d.html",
-      "time": "1793774719"
+      "title": "ADP：10月私营企业新增就业8.6万人，略高于市场预期",
+      "intro": "要点速览薪资处理机构 ADP 周三公布，10 月私营部门企业新增就业岗位 8.6 万个，与上月修正后数据持平。就业增长遍及多个行业，贸易...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhu6590680.d.html",
+      "time": "1793803161"
     },
     {
-      "title": "兑吧午后涨超16% 短剧视频用户规模已超4亿 公司布局全链路AI短剧业务",
-      "intro": "兑吧（01753）午后涨超16%。截至发稿，股价上涨13.26%，现报1.03港元，成交额1283.266万港元。 QuestMobile数据显示，9月抖音集团内部前三大应用变为抖音、红果免费短剧..",
-      "url": "https://finance.sina.cn/hkstock/sckxjfx/2026-11-04/detail-inixqaau9414073.d.html",
-      "time": "1793774671"
+      "title": "字节跳动扣子企业版11月30日起暂停新售",
+      "intro": "观点网讯：11月4日，字节跳动旗下AI开发平台“扣子”公告，为配合产品整合和套餐升级计划，扣子企业标准版、企业旗舰版将于2026年11月30日起暂停接受新客户购买。",
+      "url": "https://finance.sina.cn/stock/estate/2026-11-04/detail-inixqxhs9947022.d.html",
+      "time": "1793803140"
     },
     {
-      "title": "菜籽油专项分析：偏紧供需现实支撑，相较豆棕油表现扛跌",
-      "intro": "文：长安期货胡心阁 （1）全球菜籽供给：丰产已经定局，但主产国出口或有收紧 全球菜籽的丰产格局在10月已经基本确立，这是压制远月价格最根本的因素。",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-04/detail-inixqaaz8095941.d.html",
-      "time": "1793774635"
+      "title": "增量资金集结待入市，26家券商宣布中标，已披露金额近600亿元！",
+      "intro": "来源：中国基金报 【导读】26家券商中标第三批互换便利操作 中国基金报记者 孙越 央行开展的第三批证券、基金、保险公司互换便利（以下简称互换便利）操作结果正加速浮出水...",
+      "url": "https://finance.sina.cn/2026-11-04/detail-inixqxhs9942086.d.html",
+      "time": "1793802881"
     },
     {
-      "title": "杰富瑞维持CrowdStrike“买入”评级，目标价240美元，看好AI安全业务扩张",
-      "intro": "11月4日，杰富瑞（Jefferies）重申网络安全公司CrowdStrike（CRWD）“买入”评级，维持240美元目标价。该机构认为，CrowdStrike近期宣布的两项AI安全领域收购...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqaaw6188621.d.html",
-      "time": "1793774544"
+      "title": "开盘：三大股指齐涨，民主党大胜，消除政治不确定性风险",
+      "intro": " 三大股指高开，美国中期选举民主党取得决定性胜利，加之特朗普总统接受选举结果，悬在华尔街头上的政治不确定性风险得以消解。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-04/detail-inixqxhk9213974.d.html",
+      "time": "1793802708"
     }
   ]
 }
