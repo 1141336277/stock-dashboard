@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T07:32:53.161Z",
+  "updated": "2026-11-16T17:44:44.361Z",
   "indices": [
     {
       "code": "sh000001",
@@ -12,7 +12,7 @@
       "low": 3586.5677,
       "volume": 461643487,
       "amount": 706214352273,
-      "time": "2026-11-16 15:31:27"
+      "time": "2026-11-16 15:35:57"
     },
     {
       "code": "sz399001",
@@ -51,7 +51,7 @@
       "low": 1200.5535,
       "volume": 9104674,
       "amount": 85116422888,
-      "time": "2026-11-16 15:31:39"
+      "time": "2026-11-16 15:35:39"
     }
   ],
   "sectors": [],
@@ -177,97 +177,218 @@
       "turnover": 804825457
     }
   ],
-  "losers": [],
+  "losers": [
+    {
+      "code": "sz300779",
+      "name": "惠城环保",
+      "price": 31.32,
+      "change": -20,
+      "changeAmount": -7.83,
+      "open": 31.32,
+      "high": 31.32,
+      "low": 31.32,
+      "volume": 1674900,
+      "turnover": 52457868
+    },
+    {
+      "code": "sh688765",
+      "name": "禾元生物",
+      "price": 29.98,
+      "change": -18.444,
+      "changeAmount": -6.78,
+      "open": 36.4,
+      "high": 36.4,
+      "low": 29.51,
+      "volume": 19881449,
+      "turnover": 628300132
+    },
+    {
+      "code": "sh688141",
+      "name": "杰华特",
+      "price": 56.11,
+      "change": -16.985,
+      "changeAmount": -11.48,
+      "open": 65.8,
+      "high": 66.79,
+      "low": 55.8,
+      "volume": 33221752,
+      "turnover": 1956988412
+    },
+    {
+      "code": "sz300862",
+      "name": "蓝盾光电",
+      "price": 27.9,
+      "change": -16.567,
+      "changeAmount": -5.54,
+      "open": 31.51,
+      "high": 31.6,
+      "low": 27.09,
+      "volume": 37448341,
+      "turnover": 1110325468
+    },
+    {
+      "code": "sh688433",
+      "name": "华曙高科",
+      "price": 57,
+      "change": -15.556,
+      "changeAmount": -10.5,
+      "open": 66.18,
+      "high": 67,
+      "low": 56.38,
+      "volume": 11207539,
+      "turnover": 671685311
+    },
+    {
+      "code": "sh688661",
+      "name": "和林微纳",
+      "price": 49.62,
+      "change": -15.15,
+      "changeAmount": -8.86,
+      "open": 56.18,
+      "high": 57.48,
+      "low": 49,
+      "volume": 9431076,
+      "turnover": 495261748
+    },
+    {
+      "code": "sh688025",
+      "name": "杰普特",
+      "price": 254.67,
+      "change": -15.048,
+      "changeAmount": -45.11,
+      "open": 290,
+      "high": 299.97,
+      "low": 251,
+      "volume": 6320351,
+      "turnover": 1704292509
+    },
+    {
+      "code": "sz300684",
+      "name": "中石科技",
+      "price": 53.39,
+      "change": -14.957,
+      "changeAmount": -9.39,
+      "open": 60,
+      "high": 60.98,
+      "low": 52.82,
+      "volume": 23846046,
+      "turnover": 1335768281
+    },
+    {
+      "code": "sh688613",
+      "name": "奥精医疗",
+      "price": 6.9,
+      "change": -14.815,
+      "changeAmount": -1.2,
+      "open": 8.09,
+      "high": 8.09,
+      "low": 6.85,
+      "volume": 14589071,
+      "turnover": 104800105
+    },
+    {
+      "code": "sh688167",
+      "name": "炬光科技",
+      "price": 116.5,
+      "change": -14.168,
+      "changeAmount": -19.23,
+      "open": 132.74,
+      "high": 133.66,
+      "low": 115,
+      "volume": 10977240,
+      "turnover": 1350981979
+    }
+  ],
   "news": [
     {
-      "title": "英国企业竞相争夺NHS合同，寻求取代Palantir",
-      "intro": "多家英国企业正竞相争取取代Palantir，为英国国家医疗服务体系（NHS）提供数据平台服务。此前，英国政府暗示，将以更有利于本土企业的条件...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxirc2411787.d.html",
-      "time": "1794814188"
+      "title": "美联储推演AI对经济潜在影响 主席沃什称涵盖多重情景",
+      "intro": "美联储主席凯文·沃什表示，美联储工作人员已开始推演AI加速普及可能对美国经济产生影响的不同情景。 沃什周一在为旧金山联储一场活动准备的讲话中表示...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux2614603.d.html",
+      "time": "1794850610"
     },
     {
-      "title": "金鹰基金：缩量修复遇扰动 科技分化与红利并行",
-      "intro": "上周A股呈现先扬后抑、冲高回落的震荡分化格局。从行业分布来看，科技成长主线先盛后衰，后半周资金快速向防御板块切换。结构上看，周内A股成交额有所下降，日均成交额1...",
-      "url": "https://finance.sina.cn/fund/jjsy/2026-11-16/detail-iniyxiri2770409.d.html",
-      "time": "1794814020"
+      "title": "Wolfe：英伟达若守不住150美元支撑位，下一目标支撑位看100美元",
+      "intro": "英伟达股价周四出现反弹，但周五没能延续涨势，这使得 Wolfe 的分析师重新审视上周给出的 150 美元支撑位判断。 Wolfe 分析师罗布・金斯伯格在周日研报中写道：“周四盘中大...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeut2195629.d.html",
+      "time": "1794849085"
     },
     {
-      "title": "郭明錤：谷歌TPU订单至2029年 联发科博通领跑",
-      "intro": "知名分析师郭明錤在X平台发布行业调研与研究要点，其中提到，OpenAI与Anthropic新增订单，出货能见度延长至2029年；v10产品线大改（更名Quillfish）；联发科...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxirf5992030.d.html",
-      "time": "1794813825"
+      "title": "Trivariate：英伟达风波之下，半导体板块后市仍有上行动力",
+      "intro": "Trivariate Research 认为，尽管芯片厂商英伟达的管理层前景存在不确定性，但半导体板块后续仍具备上涨动能。 这家机构预计，英伟达本周...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeuv5829407.d.html",
+      "time": "1794849008"
     },
     {
-      "title": "原来如此！A股下跌的三大利空，找到了！",
-      "intro": "来源：星图金融研究院 A股三大指数今日集体下跌，截至收盘，上证指数跌0.87%，深证成指跌2.53%，创业板指跌4.37%，北证50跌4.54%，科创50指数跌5.16%。",
-      "url": "https://finance.sina.cn/2026-11-16/detail-iniyxirc2410075.d.html",
-      "time": "1794813756"
+      "title": "诺斯海岸研究下调好市多评级",
+      "intro": "诺斯海岸研究周一将好市多（COST）的股票评级从买入下调至中性，此前该股今年股价一路走高。 分析师查克・塞兰科斯基表示，在通胀驱使消费者涌向门店的背景下...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux2605091.d.html",
+      "time": "1794848921"
     },
     {
-      "title": "银行业大力推进人工智能，但不一定赚到了钱",
-      "intro": " 银行业第三季度财报使其人工智能（AI）应用受到更多关注。各大银行正利用AI自动化日常工作、调整招聘策略，并探索生产力提升能否转化为收入增长。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxirc2407380.d.html",
-      "time": "1794813730"
+      "title": "Anthropic的华尔街操盘手：首席财务官拉奥",
+      "intro": "核心要点多位投资者与前同事称，Anthropic 首席财务官克里希纳・拉奥是这家公司崛起过程中的核心人物。拉奥 2024 年加入公司，正带领这家 AI 巨头筹备本周万众瞩目的重磅...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeut2194388.d.html",
+      "time": "1794848758"
     },
     {
-      "title": "摩根大通分析师：英伟达AI算力合约份额从83%降至39%",
-      "intro": "越来越多评估观点认为，在创始人黄仁勋深陷婚外情风波、辞去首席执行官一职之后，一直主导AI生态的英伟达正迎来第一次真正考验。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxiqz1181524.d.html",
-      "time": "1794813695"
+      "title": "中东出口恢复，美国原油跌至每桶87美元",
+      "intro": "周一油价走低，霍尔木兹海峡航运运输逐步恢复，伊朗与美国之间的局势陷入僵持。 布伦特原油期货周一下跌 2%，报每桶 93.90 美元；美国 WTI 原油期货下滑 1.8%...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux8076743.d.html",
+      "time": "1794848551"
     },
     {
-      "title": "集体大跌！原因找到了",
-      "intro": "期货日报 今天，亚太市场表现不佳，金银价格跳水！一起找找原因吧。 日经225指数、首尔综合指数开盘后直接跳水，随后一路走低。 与此同时，A股主要指数集体下跌。",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-16/detail-iniyxiqy5658753.d.html",
-      "time": "1794813448"
+      "title": "预测市场：特斯拉‑SpaceX在2027年4月前完成合并的概率升至60%以上",
+      "intro": "核心要点自上周末以来，Kalshi 多个预测交易市场中，埃隆・马斯克旗下火箭卫星企业 SpaceX 与电动汽车厂商特斯拉的合并概率大幅飙升。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux2602280.d.html",
+      "time": "1794848421"
     },
     {
-      "title": "Helsing投资方Plural募资11亿美元，支持欧洲科技项目",
-      "intro": "由企业运营者主导的风险投资公司Plural新募集了10亿欧元（约合11亿美元）资金，加入了欧洲规模不断扩大的大型投资基金行列，其中还包括Mundi Ventures旗下的Kembara基金...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxiqy5654526.d.html",
-      "time": "1794813389"
+      "title": "诺和诺德临床试验显示：维格菲注射剂可降低儿童BMI与肥胖患病率",
+      "intro": "核心要点诺和诺德公布后期临床试验完整数据：维格菲（Wegovy）可显著降低 6‑12 岁肥胖儿童的身体质量指数（BMI）。维格菲目前已获批用于 12 岁及以上肥胖儿童...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux2601481.d.html",
+      "time": "1794848229"
     },
     {
-      "title": "外交部：各方应携手促进人工智能发展和治理 不应当搞封闭排他小圈子",
-      "intro": " 11月16日，外交部发言人毛宁主持例行记者会。有记者问：据报道，美国和9个国家共同签署了有关人工智能的相关宣言。请问中方认为这是否会影响接下来的中美元首会晤？",
-      "url": "https://finance.sina.cn/2026-11-16/detail-iniyxirf5995426.d.html",
-      "time": "1794813319"
+      "title": "没考虑换人 特朗普力挺因英伟达风波遭围攻的卢特尼克",
+      "intro": "美国商务部长霍华德·卢特尼克因英伟达事件受到猛烈批评后，美国总统特朗普公开表达了对这位商务部长的信心。 特朗普周一被问到是否在考虑换掉卢特尼克时回答说“没有”。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux2599944.d.html",
+      "time": "1794847901"
     },
     {
-      "title": "董事会到期不足两月，南京银行密集补选董事",
-      "intro": "来源：财经众议院 11月13日，南京银行召开股东会，一次性补选3名董事。 此次股东会的召开，时间节点颇为微妙，这届董事会成立于2024年1月8日，任期3年，也就是说...",
-      "url": "https://finance.sina.cn/2026-11-16/detail-iniyxiqy5656929.d.html",
-      "time": "1794813306"
+      "title": "英伟达推出面向科学的Nemotron 借助智能体加速科学发现",
+      "intro": "英伟达今日推出英伟达Nemotron for Science，汇集了英伟达Nemotron™ 3.5 Super VL开放模型的科学应用、全新开放化学数据集和后训练配方...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeuv5816340.d.html",
+      "time": "1794846722"
     },
     {
-      "title": "外交部谈中俄美元首会晤：具有开创性意义",
-      "intro": " 11月16日，外交部发言人毛宁主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？",
-      "url": "https://finance.sina.cn/2026-11-16/detail-iniyxiqw8879478.d.html",
-      "time": "1794813305"
+      "title": "欧洲债市：短期债券收窄跌幅 油价回落",
+      "intro": "随着全球油价下跌，欧洲短期债券收窄早盘跌幅。英国国债小幅走低，本周将公布的数据预计显示通胀小幅上升。 德国2年期国债收益率上涨1个基点，至3.14%...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeut2185126.d.html",
+      "time": "1794846545"
     },
     {
-      "title": "韩国政府：谷歌已满足高精度地图数据的安全要求",
-      "intro": "韩国政府周五表示，谷歌已落实相关安全要求，这也是韩国批准其向境外传输高精度地图数据的前提条件。 韩国国土交通部称，今年 2 月...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-16/detail-iniyxiqw8877020.d.html",
-      "time": "1794813286"
+      "title": "巴菲特捐赠55亿美元，感恩节信中称善良会“复利”增长",
+      "intro": "96岁的巴菲特将6150股伯克希尔A类股转换为9225000股B类股，其中3690000股捐赠给苏珊·汤普森·巴菲特基金会，其余平均分配给三个子女运营的Sherwood、HowardG...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux2590475.d.html",
+      "time": "1794846403"
     },
     {
-      "title": "徽商期货马鞍山营业部“保险+期货”知识培训走进舒城县庐镇乡庐镇村",
-      "intro": "徽商期货马鞍山营业部“保险+期货”知识培训走进舒城县庐镇乡庐镇村 持续发挥“保险+期货”金融助农效能，把风险管理服务送到田间地头，11月14日...",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-16/detail-iniyxiqw8875456.d.html",
-      "time": "1794813190"
+      "title": "EQT风投向企业AI公司Edra投资1000万美元",
+      "intro": "Edra 运营的平台可对接企业现有系统，实现工作流程自动化EQT 投资组合内的 330 余家企业中，有数家将对 Edra 的技术开展评估。 内容速览 EQT Ventures...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux8063423.d.html",
+      "time": "1794845976"
     },
     {
-      "title": "太惨烈，都是跌停！中际旭创市值少了1万亿，不少股民爆仓了",
-      "intro": "来源：金石杂谈 11月16日消息，真的真的太惨了，各大群聊都是鬼哭狼嚎的声音，凡和科技沾边的股票都在暴跌，近5000只股票嗷嗷待涨，近1000只股票跌5%...",
-      "url": "https://finance.sina.cn/2026-11-16/detail-iniyxiqz1177540.d.html",
-      "time": "1794813001"
+      "title": "伊朗外交部：外长与巴基斯坦陆军参谋长举行会谈",
+      "intro": " 伊朗外交部在一份声明中称，伊朗外长阿拉格齐周一访问伊斯兰堡期间，与巴基斯坦陆军参谋长Asim Munir讨论了地区和平与安全问题。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux8061059.d.html",
+      "time": "1794845763"
     },
     {
-      "title": "白银刷新一年低点，美联储的“加息牌”还没打完？关注沃什讲话",
-      "intro": "汇通财经APP讯——现货白银连续第三日扩大跌幅，周一（11月16日）亚洲时段，现货白银一度跌至47.12美元的逾一年低点，受美元走强与美债收益率高企压制，目前交投于每盎司47...",
-      "url": "https://finance.sina.cn/forex/whzx/2026-11-16/detail-iniyxirc2399842.d.html",
-      "time": "1794812940"
+      "title": "仓储巨头GXO布局数据中心与国防业务，提升利润率",
+      "intro": "这家物流企业跳出电商赛道，寄望人形机器人与技术手段控制人力成本按仓储面积计算，GXO 是全球第三大仓储服务供应商。 内容速览 GXO 物流将目标投向数据中心...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-17/detail-iniyyeux8056208.d.html",
+      "time": "1794845158"
     }
   ]
 }
