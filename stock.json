@@ -1,59 +1,6 @@
 {
-  "updated": "2026-11-20T07:57:42.635Z",
-  "indices": [
-    {
-      "code": "sh000001",
-      "name": "じ",
-      "price": 3533.7929,
-      "change": -1.2249632954043708,
-      "changeAmount": -43.82450000000017,
-      "open": 3527.3036,
-      "high": 3538.2674,
-      "low": 3500.8324,
-      "volume": 499711727,
-      "amount": 702573853116,
-      "time": "2026-11-20 15:43:57"
-    },
-    {
-      "code": "sz399001",
-      "name": "",
-      "price": 10256.389,
-      "change": -3.088053485504017,
-      "changeAmount": -326.8150000000005,
-      "open": 10402.292,
-      "high": 10436.039,
-      "low": 10256.389,
-      "volume": 57180860732,
-      "amount": 719626569821.594,
-      "time": "2026-11-20 15:00:03"
-    },
-    {
-      "code": "sz399006",
-      "name": "谍",
-      "price": 2212.127,
-      "change": -3.5413383612213156,
-      "changeAmount": -81.21500000000015,
-      "open": 2244.062,
-      "high": 2263.299,
-      "low": 2212.127,
-      "volume": 16523450571,
-      "amount": 334978239460.49,
-      "time": "2026-11-20 15:00:03"
-    },
-    {
-      "code": "sh000688",
-      "name": "�50",
-      "price": 1231.089,
-      "change": -3.123608879657146,
-      "changeAmount": -39.69430000000011,
-      "open": 1230.0412,
-      "high": 1254.6019,
-      "low": 1219.3675,
-      "volume": 10243700,
-      "amount": 91944689902,
-      "time": "2026-11-20 15:43:39"
-    }
-  ],
+  "updated": "2026-11-20T16:33:52.185Z",
+  "indices": [],
   "sectors": [],
   "gainers": [
     {
@@ -301,94 +248,94 @@
   ],
   "news": [
     {
-      "title": "前牛津大学教授：AI或帮助延长人类寿命极限至1400年",
-      "intro": "“人类未来研究所”（Future of Humanity Institute）的创始人认为，人工智能或许能够帮助人类实现“永生”梦想。 瑞典哲学家、前牛津大学教授尼克·波斯特罗姆（Nick...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkize7243243.d.html",
-      "time": "1795161381"
+      "title": "纳指大跌，年内收益转负，Anthropic带动AI板块集体抛售",
+      "intro": " 受科技股拖累，叠加 AI 巨头 Anthropic 前一交易日上市后股价走弱，纳斯达克综合指数周五大幅回撤，年内收益由正转负。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfew3853868.d.html",
+      "time": "1795192016"
     },
     {
-      "title": "William Blair首次覆盖Anthropic并给予“跑赢大盘”评级，认为合理股价可达130至150美元",
-      "intro": "11月19日，William Blair宣布首次覆盖Anthropic，给予“跑赢大盘”评级。该机构认为，Anthropic在前沿AI模型商业化方面处于领先地位...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkize7243205.d.html",
-      "time": "1795161375"
+      "title": "美国国债延续本周大涨之势 投资者撤离股市",
+      "intro": "随着市场对人工智能（AI）交易的疑虑加剧、全球股市下挫，美国国债周五进一步走高，延续本周大涨之势。 美债上涨推动各期限收益率走低...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfez0183262.d.html",
+      "time": "1795191929"
     },
     {
-      "title": "瑞银上调Palo Alto Networks目标价至400美元，称业务增长提速支撑估值溢价",
-      "intro": "瑞银将网络安全巨头Palo Alto Networks的目标价由390美元上调至400美元，维持“中性”评级。该机构认为，公司核心业务增长持续加速...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkize7239009.d.html",
-      "time": "1795160962"
+      "title": "通用汽车前CEO谈玛丽・博拉继任规划：“这会是件难事”",
+      "intro": "核心要点通用汽车前首席执行官丹・阿克森表示，无论谁接替玛丽・博拉，都将面临艰巨任务；下一任 CEO 要接手的是技术与汽车行业飞速变革的大环境。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfet5402218.d.html",
+      "time": "1795191810"
     },
     {
-      "title": "油价对债券市场的影响减弱，各国通胀“病毒”持续蔓延",
-      "intro": "今年以来，油价与政府借贷成本之间的紧密相关性一直是全球债券市场的一大特征。然而，随着交易员将注意力转向各国央行如何应对已经蔓延至经济各领域的能源驱动型通胀...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkizh4015219.d.html",
-      "time": "1795160945"
+      "title": "比特币遭遇抛售：与股票同步下跌，加密资产再度通不过 “数字黄金”考验",
+      "intro": "核心要点比特币本轮抛售再度和风险资产同步波动，削弱了它作为独立市场对冲工具的逻辑。专家指出利率、市场整体避险交易、ETF 资金流出...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfez0180144.d.html",
+      "time": "1795191604"
     },
     {
-      "title": "亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明",
-      "intro": "亚太经合组织关于亚太地区新兴技术促进就业和繁荣的声明 我们，亚太经合组织领导人，重申亚太经合组织经济体在发挥数字经济、数字和新兴技术潜力...",
-      "url": "https://finance.sina.cn/china/gncj/2026-11-20/detail-inizkizm0394286.d.html",
-      "time": "1795160893"
+      "title": "伊朗：来自“美国—以色列敌方”的导弹击中格什姆岛郊区",
+      "intro": "伊朗半官方的塔斯尼姆通讯社报道称，当地时间下午6时50分左右，一枚导弹击中了伊朗格什姆岛郊区一带。 报道称，这枚导弹来自“美国—以色列敌方”。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfew3848774.d.html",
+      "time": "1795191498"
     },
     {
-      "title": "长安期货刘娜：供需双弱，橡胶上行乏力",
-      "intro": "天然橡胶和20号胶评论： 11月初至今文华商品指数持续下跌，跌幅10%左右，原油板块跌幅超20%，工业品、贵金属板块紧随，市场呈现普跌状态...",
-      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-20/detail-inizkizh4014273.d.html",
-      "time": "1795160861"
+      "title": "沃什希望美联储官员少讲话，结果官员发言反而变多",
+      "intro": "核心要点美联储主席凯文・沃什希望央行官员减少对利率路径的预判表态，但实际情况是官员发言越来越多。美银统计：过去两周所谓 “美联储讲话（Fedspeak）” 的频次...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfez0178117.d.html",
+      "time": "1795191336"
     },
     {
-      "title": "韩国驳回特斯拉为FSD提交的车辆安全标准豁免申请，要求补充相关材料",
-      "intro": " 韩国国土交通部周五表示，由于申请材料不全，无法受理特斯拉公司提出的豁免当地车辆安全标准的请求，该请求旨在获准在韩提供其“全自动驾驶”（FSD）功能。",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkizm0383492.d.html",
-      "time": "1795160234"
+      "title": "Anthropic股价暴跌，投资者争相对冲风险，但对冲成本或将极其高昂",
+      "intro": "核心要点Anthropic 股票期权将于下周一挂牌上市，期权交易成本可能居高不下。交易员预估 Anthropic 的隐含波动率或将落在 100‑150 区间。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfet5396184.d.html",
+      "time": "1795191163"
     },
     {
-      "title": "158907，鑫汇均衡主动ETF国泰11月23日上市！期待与你场内相见",
-      "intro": "主动选股，均衡布局，再叠加ETF的场内交易属性——国泰鑫汇均衡收益主动ETF（158907）即将于11月23日正式上市交易。 从发行、成立到上市...",
-      "url": "https://finance.sina.cn/2026-11-20/detail-inizkizc5596925.d.html",
-      "time": "1795159649"
+      "title": "比特币监管层面的利好逻辑已经兑现 未来哪些因素能够推动加密货币上涨",
+      "intro": "核心要点《清晰度法案》9 月 15 日未能在参议院推进，加密行业期盼的一套全面市场架构法律就此落空。加密行业高管认为，资产代币化...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfet5394328.d.html",
+      "time": "1795191012"
     },
     {
-      "title": "多家头部公募发声：外部扰动逐步消化，A股有望迎估值修复窗口",
-      "intro": "“短期的波动并未改变市场的内在韧性。” 外围市场大幅波动之际，A股延续调整。11月20日，日韩股市大幅低开，韩国KOSPI指数开盘跌超4%，最终收跌5...",
-      "url": "https://finance.sina.cn/2026-11-20/detail-inizkizm0378688.d.html",
-      "time": "1795159627"
+      "title": "在Anthropic与SpaceX IPO前夕，比特币出现高度相似的抛售行情",
+      "intro": "核心要点在 Anthropic IPO 前 30 天，比特币下跌 22.7%；SpaceX 于 6 月 12 日上市前一个月，比特币跌幅达 22.3%。投资者似乎正在从加密市场撤出资金...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfeu7065319.d.html",
+      "time": "1795190863"
     },
     {
-      "title": "永诚财险人事再起波澜，25％股权挂牌五年仍无买家",
-      "intro": "来源：华夏时报 记者 吴敏 北京报道 永诚财险的一纸人事公告，把这家“电力系”险企的治理难题再次摆上台面。近日，永诚财险在新三板发布公告...",
-      "url": "https://finance.sina.cn/insurance/hydt/2026-11-20/detail-inizkizm0375528.d.html",
-      "time": "1795159544"
+      "title": "牛市遭遇新难题：“聪明资金”正在卖出股票",
+      "intro": "核心要点企业作为市场中的 “聪明资金”，在持续多年股票回购后，如今开始大规模增发股票。Anthropic 的 IPO 正在检验市场对新股的承接能力。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-21/detail-inizmfeu7062993.d.html",
+      "time": "1795190616"
     },
     {
-      "title": "产业布局窗口开启，景顺长城制造升级睿选11月20日起正式发行",
-      "intro": " 当机器人产业逐步完成从“0到1”的验证、政策标准加速落地、头部厂商量产指引明确，制造升级这一长期主线正在孕育新的投资机遇。",
-      "url": "https://finance.sina.cn/2026-11-20/detail-inizkizh3996116.d.html",
-      "time": "1795159529"
+      "title": "凯投宏观表示：科技股与标普500的下跌行情 “尚未结束”",
+      "intro": " 凯投宏观（Capital Economics）高级市场经济学家詹姆斯・赖利认为，科技股以及标普 500 指数近期承受的下行压力或许还没有到头。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizmfet5388844.d.html",
+      "time": "1795190384"
     },
     {
-      "title": "又是“高价快速卖房”！七旬老人跌入营销公司“装修+卖房”连环套",
-      "intro": "来源：上观新闻 七旬老人想卖掉老房置换，轻信营销机构“高价快速卖房”的话术，支付6万元卖房服务费和2万元装修首付款。幸好老人女儿及时察觉，在装修还没开工...",
-      "url": "https://finance.sina.cn/2026-08-24/detail-inipmhfp0054113.d.html",
-      "time": "1795159521"
+      "title": "技术故障难以避免，但业务混乱本可避免",
+      "intro": "作者：Belle Lin 早安。上周末起接连爆发多起技术故障，最先受影响的是超过 4.5 亿微软 365 用户，而这仅仅是一系列重大中断事件的开端，后续波及航空出行、银行业务...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizmfew3835387.d.html",
+      "time": "1795190082"
     },
     {
-      "title": "日本10月CPI创11个月新高，凯投宏观预计日本央行明年年中将利率上调至2.5%",
-      "intro": "11月20日，日本总务省公布的数据显示，受生鲜食品价格大幅上涨及能源价格回升推动，日本10月消费者物价指数（CPI）同比涨幅由9月的2.1%升至2.3%...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkizh3995544.d.html",
-      "time": "1795159495"
+      "title": "贝宝任命泽罗公司财务总监布拉姆利出任下一任首席财务官",
+      "intro": "贝宝进行大规模高管团队调整，聘任克莱尔・布拉姆利担任首席财务官在历经数月收购传闻之后，贝宝正力求加快业务增长，此次高管人事调整便发生于这一背景之下。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizmfeu7057007.d.html",
+      "time": "1795189827"
     },
     {
-      "title": "特朗普将举办晚宴，招待特朗普币持有者",
-      "intro": "美国总统唐纳德·特朗普将于本周末举办一场晚宴，允许其个人迷因币的最大持有者与总统接触。与此同时，民主党誓言调查特朗普政府涉嫌存在的“大规模腐败”问题...",
-      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizkizc5591408.d.html",
-      "time": "1795159216"
+      "title": "BJ批发俱乐部上调业绩预期，但仍下跌4.2%",
+      "intro": "第三季度总营收大增 17%，达 62.8 亿美元  第三季度总营收大涨 17%，达到 62.8 亿美元，高于华尔街预期的 59.7 亿美元。图片来源：乔・雷德尔 / 盖蒂图片社 内容简述 BJ...",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizmfew3832468.d.html",
+      "time": "1795189700"
     },
     {
-      "title": "楼亚妮获批出任义乌农商银行副行长",
-      "intro": "11月20日金融一线消息，国家金融监督管理总局金华监管分局发布批复，核准楼亚妮义乌农商银行副行长的任职资格。",
-      "url": "https://finance.sina.cn/2026-11-20/detail-inizkizm0371338.d.html",
-      "time": "1795159160"
+      "title": "美国消费者信心回升 中期选举后预期改善",
+      "intro": "美国消费者信心11月回升，因汽油价格下跌、企业经营前景改善以及通胀预期大幅下降。 密歇根大学周五公布的调查显示，11月消费者信心指数终值从10月的48升至51.5。",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-11-20/detail-inizmfew3831946.d.html",
+      "time": "1795189633"
     }
   ]
 }
